@@ -1,0 +1,2337 @@
+NodeID,AcclX,AcclY,AcclZ,Temperature,TemperatureStatus,ActivityMagnitude,ActivityStatus,HealthStatus
+1,-1.42,-0.25,9.84,28.56,Normal,9.945074157591787,Normal,Healthy Cow
+2,-2.12,1.52,9.93,30.07,Normal,10.266922615857197,High,Healthy Cow
+1,-1.44,-0.28,9.84,28.59,Normal,9.948748665033206,Normal,Healthy Cow
+2,-2.22,1.38,9.72,30.19,Normal,10.065346491800469,High,Healthy Cow
+1,-1.44,-0.24,9.85,28.59,Normal,9.957595091185421,Normal,Healthy Cow
+2,-2.09,1.69,9.74,30.24,Normal,10.104048693469366,High,Healthy Cow
+1,-1.38,-0.2,9.82,28.6,Normal,9.918507952308149,Normal,Healthy Cow
+1,-1.44,-0.26,9.86,28.59,Normal,9.96798876403861,Normal,Healthy Cow
+2,-1.68,2.11,9.83,30.4,Normal,10.193301722209542,High,Healthy Cow
+1,-1.43,-0.26,9.86,28.59,Normal,9.9665490517029,Normal,Healthy Cow
+2,-1.88,1.95,9.8,30.41,Normal,10.167443139747574,High,Healthy Cow
+1,-1.43,-0.25,9.86,28.64,Normal,9.966293192556599,Normal,Healthy Cow
+2,-1.83,1.98,9.77,30.31,Normal,10.135196100717538,High,Healthy Cow
+1,-1.45,-0.24,9.84,28.64,Normal,9.949155743076897,Normal,Healthy Cow
+2,-1.94,1.82,9.81,30.24,Normal,10.164255998350297,High,Healthy Cow
+1,-1.44,-0.24,9.85,28.67,Normal,9.957595091185421,Normal,Healthy Cow
+2,-2.0,1.92,9.76,30.19,Normal,10.146132268012279,High,Healthy Cow
+1,-1.4,-0.26,9.84,28.65,Normal,9.942494656775029,Normal,Healthy Cow
+2,-2.16,2.08,9.42,30.11,Normal,9.885767547337942,Normal,Healthy Cow
+1,-1.46,-0.25,9.86,28.68,Normal,9.970641905113231,Normal,Healthy Cow
+2,-2.13,1.84,9.91,30.04,Normal,10.301970685262116,High,Healthy Cow
+1,-3.5,0.95,9.11,28.69,Normal,9.805335282385808,Normal,Healthy Cow
+2,-1.7,1.72,9.91,30.03,Normal,10.200808791463547,High,Healthy Cow
+1,-1.0,-0.59,9.91,28.7,Normal,9.977785325411647,Normal,Healthy Cow
+2,-2.04,1.47,9.62,29.98,Normal,9.943183594805035,Normal,Healthy Cow
+1,-1.02,-0.59,9.91,28.73,Normal,9.97980961742257,Normal,Healthy Cow
+2,1.26,-0.28,9.86,29.72,Normal,9.944123893033513,Normal,Healthy Cow
+1,-0.98,-0.55,9.88,28.75,Normal,9.943706552387798,Normal,Healthy Cow
+2,0.72,-0.67,10.16,29.54,Normal,10.207492346311115,High,Healthy Cow
+1,-0.99,-0.54,9.9,28.76,Normal,9.964020272962115,Normal,Healthy Cow
+2,1.34,-2.08,9.85,29.48,Normal,10.15600807404169,High,Healthy Cow
+1,-1.02,-0.59,9.92,28.76,Normal,9.989739736349492,Normal,Healthy Cow
+2,1.05,-1.03,9.81,29.46,Normal,9.919652211645326,Normal,Healthy Cow
+1,-1.01,-0.59,9.9,28.8,Normal,9.968861519752394,Normal,Healthy Cow
+2,1.19,-0.64,10.37,29.38,Normal,10.457657481482169,High,Healthy Cow
+1,-1.0,-0.59,9.88,28.81,Normal,9.947989746677468,Normal,Healthy Cow
+2,0.55,-0.52,10.33,29.31,Normal,10.357692793281716,High,Healthy Cow
+1,-1.03,-0.6,9.89,28.85,Normal,9.961576180504771,Normal,Healthy Cow
+2,2.08,-1.31,10.22,29.18,Normal,10.511465169042802,High,Healthy Cow
+1,-1.02,-0.57,9.93,28.82,Normal,9.998509888978457,Normal,Healthy Cow
+2,0.12,0.11,10.21,29.03,Normal,10.211297664841625,High,Healthy Cow
+1,-1.48,-0.52,9.77,29.44,Normal,9.895135168354194,Normal,Healthy Cow
+2,0.89,1.35,10.08,28.95,Normal,10.20886869344493,High,Healthy Cow
+1,-1.39,-0.55,9.84,29.73,Normal,9.952899075143884,Normal,Healthy Cow
+2,0.87,1.33,10.07,28.87,Normal,10.194640748942556,High,Healthy Cow
+1,-1.5,-0.58,9.8,29.89,Normal,9.931082519040913,Normal,Healthy Cow
+2,0.9,1.3,10.07,28.74,Normal,10.193375299673804,High,Healthy Cow
+1,-1.48,-0.6,9.82,29.79,Normal,9.949010001000099,Normal,Healthy Cow
+2,0.92,1.34,10.06,28.55,Normal,10.19046613261631,High,Healthy Cow
+1,-0.99,-1.17,9.97,29.59,Normal,10.087115544098818,High,Healthy Cow
+2,0.91,1.32,10.08,28.42,Normal,10.206708578185232,High,Healthy Cow
+1,-0.93,-1.07,10.04,29.54,Normal,10.139595652687536,High,Healthy Cow
+2,0.92,1.28,10.11,28.28,Normal,10.232150311640266,High,Healthy Cow
+1,-0.99,-0.66,9.79,29.48,Normal,9.86203832886488,Normal,Healthy Cow
+2,0.93,1.3,10.04,28.21,Normal,10.166439888181111,High,Healthy Cow
+1,-1.04,-0.36,10.2,29.43,Normal,10.259200748596355,High,Healthy Cow
+2,0.9,1.27,10.08,28.12,Normal,10.199475476709575,High,Healthy Cow
+1,-1.19,-0.32,9.89,29.42,Normal,9.966473799694656,Normal,Healthy Cow
+2,0.89,1.28,10.06,28.07,Normal,10.180083496710624,High,Healthy Cow
+1,-1.27,-0.18,9.93,29.37,Normal,10.0125021847688,High,Healthy Cow
+2,0.92,1.28,10.08,28.04,Normal,10.202509495217342,High,Healthy Cow
+1,-0.98,-0.99,10.02,29.34,Normal,10.116367925298091,High,Healthy Cow
+2,0.91,1.27,10.08,27.95,Normal,10.200362738648073,High,Healthy Cow
+1,-0.91,-0.64,9.92,29.35,Normal,9.98218913866092,Normal,Healthy Cow
+2,0.8,1.44,10.04,27.9,Normal,10.174241986506905,High,Healthy Cow
+1,-0.86,-0.65,10.04,29.34,Normal,10.097707660652489,High,Healthy Cow
+2,0.83,1.31,10.07,27.79,Normal,10.188714344803275,High,Healthy Cow
+1,0.39,-0.23,9.84,29.29,Normal,9.850411158931387,Normal,Healthy Cow
+2,-1.11,3.36,9.76,27.74,Normal,10.381680981421072,High,Healthy Cow
+1,0.72,-1.39,10.26,29.25,Normal,10.378733063336778,High,Healthy Cow
+2,-0.65,5.08,8.46,27.72,Normal,9.889413531650904,Normal,Healthy Cow
+1,-0.61,0.59,9.93,29.22,Normal,9.966197870803088,Normal,Healthy Cow
+2,-1.18,4.6,8.77,27.77,Normal,9.973229166122675,Normal,Healthy Cow
+1,0.81,-0.45,9.67,29.2,Normal,9.71429359243378,Normal,Healthy Cow
+2,0.46,0.67,10.52,27.78,Normal,10.551345885715243,High,Healthy Cow
+1,-0.25,0.23,10.02,29.15,Normal,10.025756829287253,High,Healthy Cow
+2,-0.05,2.84,9.7,27.82,Normal,10.107329024030037,High,Healthy Cow
+1,2.05,-0.57,10.19,29.07,Normal,10.409779056252827,High,Healthy Cow
+2,-0.42,2.5,10.24,27.86,Normal,10.54912318631269,High,Healthy Cow
+1,1.67,0.06,9.88,29.0,Normal,10.020324346047888,High,Healthy Cow
+2,-0.31,2.43,9.94,27.91,Normal,10.237411782281692,High,Healthy Cow
+1,0.46,-0.59,8.83,28.84,Normal,8.861636417727823,Normal,Healthy Cow
+2,0.13,2.21,8.33,27.97,Normal,8.619158891678468,Normal,Healthy Cow
+1,-0.02,0.73,9.94,28.75,Normal,9.966789854311166,Normal,Healthy Cow
+2,0.59,-0.28,9.26,27.97,Normal,9.28300059248086,Normal,Healthy Cow
+1,-0.46,-0.88,9.89,28.55,Normal,9.939723336189997,Normal,Healthy Cow
+2,2.72,-0.55,12.25,27.87,Normal,12.56039012132983,High,Healthy Cow
+1,0.0,-0.9,10.0,28.52,Normal,10.04041831797859,High,Healthy Cow
+2,1.94,0.43,9.34,27.75,Normal,9.549036600621028,Normal,Healthy Cow
+1,0.47,-1.74,8.11,28.49,Normal,8.307863744669866,Normal,Healthy Cow
+2,2.32,-0.43,9.25,27.67,Normal,9.546192958452076,Normal,Healthy Cow
+1,0.93,0.25,9.72,28.47,Normal,9.76758926245366,Normal,Healthy Cow
+2,1.86,2.84,9.19,27.6,Normal,9.79700464427776,Normal,Healthy Cow
+1,0.51,-0.62,10.21,28.46,Normal,10.241513560016411,High,Healthy Cow
+2,3.18,-1.01,10.77,27.59,Normal,11.274990022168533,High,Healthy Cow
+1,-0.17,-0.6,9.4,28.46,Normal,9.420663458589317,Normal,Healthy Cow
+2,1.62,-1.2,8.87,27.42,Normal,9.096224491512949,Normal,Healthy Cow
+1,1.14,-0.31,9.95,28.4,Normal,10.019890218959487,High,Healthy Cow
+2,0.83,0.44,9.07,27.39,Normal,9.118519616692176,Normal,Healthy Cow
+1,0.08,-0.98,9.65,28.33,Normal,9.699963917458662,Normal,Healthy Cow
+2,2.32,-0.32,9.72,27.28,Normal,9.998159830688845,Normal,Healthy Cow
+1,0.24,0.73,9.89,28.29,Normal,9.919808465892878,Normal,Healthy Cow
+2,4.09,0.53,9.72,27.11,Normal,10.558759396823095,High,Healthy Cow
+1,0.3,0.87,10.01,28.32,Normal,10.052213686546859,High,Healthy Cow
+2,2.95,-0.61,8.78,27.09,Normal,9.28240270619628,Normal,Healthy Cow
+1,-1.15,0.74,9.69,28.31,Normal,9.786020641711318,Normal,Healthy Cow
+2,2.21,0.07,9.93,27.07,Normal,10.173195171626267,High,Healthy Cow
+1,-1.9,0.08,9.79,28.32,Normal,9.972988518994693,Normal,Healthy Cow
+2,0.86,-0.39,10.1,27.02,Normal,10.144047515661585,High,Healthy Cow
+1,-1.02,0.41,10.04,28.39,Normal,10.100004950493835,High,Healthy Cow
+2,1.08,-0.25,10.2,26.89,Low,10.260063352630917,High,Sick (Attention Required)
+1,-1.14,-0.31,10.24,28.37,Normal,10.30792413631377,High,Healthy Cow
+2,0.71,0.01,10.13,26.68,Low,10.154855981253501,High,Sick (Attention Required)
+1,-1.99,2.18,9.45,28.37,Normal,9.90025252203195,Normal,Healthy Cow
+2,1.31,0.02,10.08,26.41,Low,10.164787257980366,High,Sick (Attention Required)
+1,-1.74,0.23,10.43,28.31,Normal,10.576644080236415,High,Healthy Cow
+2,1.18,-0.08,10.15,26.09,Low,10.218674082286801,High,Sick (Attention Required)
+1,0.4,0.07,9.52,28.18,Normal,9.52865677837123,Normal,Healthy Cow
+2,1.2,-0.07,10.02,25.84,Low,10.091843240954548,High,Sick (Attention Required)
+1,1.35,0.31,9.91,28.08,Normal,10.006332994658932,High,Healthy Cow
+2,1.32,-0.11,10.1,25.72,Low,10.186486145869928,High,Sick (Attention Required)
+1,0.26,0.4,9.81,28.0,Normal,9.8215935570558,Normal,Healthy Cow
+2,4.38,0.94,7.19,25.7,Low,8.471369428846792,Normal,Sick (Attention Required)
+1,-2.39,1.66,9.62,27.79,Normal,10.050477600591924,High,Healthy Cow
+2,6.55,-1.46,7.95,25.72,Low,10.403682040508542,High,Sick (Attention Required)
+1,-0.42,-1.96,10.21,27.45,Normal,10.404907495984768,High,Healthy Cow
+2,5.98,-1.84,8.22,25.87,Low,10.330266211477806,High,Sick (Attention Required)
+1,2.31,-1.99,8.46,27.07,Normal,8.992652556392914,Normal,Healthy Cow
+2,7.65,-1.94,7.55,25.92,Low,10.921932063513305,High,Sick (Attention Required)
+1,1.38,-1.47,9.71,26.83,Low,9.917126599978443,Normal,Sick (Attention Required)
+2,6.65,-2.04,7.62,26.04,Low,10.317388235401438,High,Sick (Attention Required)
+1,0.12,-0.76,10.14,26.21,Low,10.169149423624377,High,Sick (Attention Required)
+2,3.81,-1.08,9.71,26.05,Low,10.486496078290404,High,Sick (Attention Required)
+1,-0.07,-0.54,10.01,25.94,Low,10.024799249860317,High,Sick (Attention Required)
+2,4.15,-2.17,8.39,25.99,Low,9.608511851478356,Normal,Sick (Attention Required)
+1,-0.24,-0.04,10.0,25.85,Low,10.002959562049623,High,Sick (Attention Required)
+2,3.69,-1.84,8.51,25.99,Low,9.456310062598412,Normal,Sick (Attention Required)
+1,-1.95,-0.51,9.57,25.72,Low,9.779953987621823,Normal,Sick (Attention Required)
+2,3.1,-0.85,8.3,25.98,Low,8.900702219488078,Normal,Sick (Attention Required)
+1,-1.16,0.37,10.12,25.39,Low,10.192982880393746,High,Sick (Attention Required)
+2,2.31,1.06,7.98,25.87,Low,8.374968656657767,Normal,Sick (Attention Required)
+1,-3.89,0.19,9.16,25.39,Low,9.953582269715763,Normal,Sick (Attention Required)
+2,1.65,-0.03,10.04,25.75,Low,10.174723583468987,High,Sick (Attention Required)
+1,-1.74,1.19,9.79,25.15,Low,10.01437966126709,High,Sick (Attention Required)
+2,2.22,0.42,9.52,25.6,Low,9.784436621492317,Normal,Sick (Attention Required)
+1,-1.32,1.08,9.7,25.03,Low,9.84879688083778,Normal,Sick (Attention Required)
+2,2.35,-0.2,9.56,25.5,Low,9.846628864743508,Normal,Sick (Attention Required)
+1,-3.37,-0.49,8.82,24.87,Low,9.45459676559503,Normal,Sick (Attention Required)
+2,3.5,0.93,9.73,25.44,Low,10.382090348287287,High,Sick (Attention Required)
+1,-3.11,0.38,9.68,24.87,Low,10.174423816609961,High,Sick (Attention Required)
+2,2.57,0.73,9.92,25.46,Low,10.273470689109889,High,Sick (Attention Required)
+1,-0.53,1.2,10.29,24.91,Low,10.373282990451962,High,Sick (Attention Required)
+2,5.4,-3.73,8.17,25.47,Low,10.479589686624186,High,Sick (Attention Required)
+1,-1.1,1.22,10.36,25.12,Low,10.48942324439242,High,Sick (Attention Required)
+2,6.86,-0.4,7.79,25.52,Low,10.387670576216788,High,Sick (Attention Required)
+1,-0.26,-0.01,10.16,25.29,Low,10.163331146823861,High,Sick (Attention Required)
+2,6.69,-0.43,8.02,25.49,Low,10.452817801913511,High,Sick (Attention Required)
+1,-0.33,0.47,10.09,25.23,Low,10.10632969974758,High,Sick (Attention Required)
+2,5.51,-1.09,8.7,25.51,Low,10.355587863564288,High,Sick (Attention Required)
+1,0.34,-0.5,9.85,25.25,Low,9.868540925587734,Normal,Sick (Attention Required)
+2,3.21,-0.63,8.1,25.49,Low,8.735616749835126,Normal,Sick (Attention Required)
+1,-1.44,1.84,9.76,25.42,Low,10.035776003877329,High,Sick (Attention Required)
+2,1.89,-0.85,9.37,25.49,Low,9.596431628475242,Normal,Sick (Attention Required)
+1,-0.86,1.72,10.05,25.49,Low,10.23232622623028,High,Sick (Attention Required)
+2,2.3,-0.49,9.72,25.51,Low,10.000424990969135,High,Sick (Attention Required)
+1,0.1,3.77,9.06,25.51,Low,9.81358751935295,Normal,Sick (Attention Required)
+2,3.91,0.62,11.04,25.54,Low,11.72834600444581,High,Sick (Attention Required)
+1,-0.57,3.62,9.71,25.35,Low,10.37850663631334,High,Sick (Attention Required)
+2,2.43,1.15,10.81,25.57,Low,11.139277355376336,High,Sick (Attention Required)
+1,-0.15,3.1,9.53,25.25,Low,10.022644361644286,High,Sick (Attention Required)
+2,0.38,1.03,8.25,25.57,Low,8.322727918176827,Normal,Sick (Attention Required)
+1,0.19,2.25,9.75,25.18,Low,10.008051758459287,High,Sick (Attention Required)
+2,1.66,0.07,9.65,25.61,Low,9.791986519598565,Normal,Sick (Attention Required)
+1,-0.71,2.93,10.64,25.16,Low,11.058869743332725,High,Sick (Attention Required)
+2,2.43,-0.36,9.9,25.63,Low,10.200220585850092,High,Sick (Attention Required)
+1,-0.52,2.73,10.09,25.13,Low,10.465725010719515,High,Sick (Attention Required)
+2,1.64,0.0,9.99,25.66,Low,10.123719672136325,High,Sick (Attention Required)
+1,-0.56,2.63,9.66,25.13,Low,10.02726782329065,High,Sick (Attention Required)
+2,1.18,1.13,9.41,25.67,Low,9.550780072852689,Normal,Sick (Attention Required)
+1,-2.47,0.34,9.65,24.98,Low,9.96689520362284,Normal,Sick (Attention Required)
+2,2.35,0.84,9.0,25.61,Low,9.339598492440668,Normal,Sick (Attention Required)
+1,-2.29,0.44,9.36,24.95,Low,9.64610284000746,Normal,Sick (Attention Required)
+2,2.69,0.74,8.2,25.56,Low,8.66162224990215,Normal,Sick (Attention Required)
+1,-3.01,-3.25,7.19,24.98,Low,8.44503996438146,Normal,Sick (Attention Required)
+2,0.97,-0.03,10.96,25.49,Low,11.002881440786318,High,Sick (Attention Required)
+1,-1.61,-2.35,9.99,24.99,Low,10.388200036579965,High,Sick (Attention Required)
+2,1.0,-0.76,10.91,25.45,Low,10.982062647790714,High,Sick (Attention Required)
+1,-9.06,0.25,4.7,24.83,Low,10.20960821971147,High,Sick (Attention Required)
+2,1.62,-0.37,9.56,25.41,Low,9.703344784145312,Normal,Sick (Attention Required)
+1,-1.02,-1.99,9.67,24.7,Low,9.925190174500436,Normal,Sick (Attention Required)
+2,4.04,0.1,9.55,25.47,Low,10.36986499429959,High,Sick (Attention Required)
+1,-3.23,-2.07,9.66,24.74,Low,10.393911679440036,High,Sick (Attention Required)
+2,1.98,3.08,9.04,25.44,Low,9.753378901693504,Normal,Sick (Attention Required)
+1,-1.61,-2.77,9.14,24.79,Low,9.685277486990241,Normal,Sick (Attention Required)
+2,1.35,2.06,10.25,25.33,Low,10.541755072093071,High,Sick (Attention Required)
+1,-1.57,-2.35,9.83,24.86,Low,10.228210987264585,High,Sick (Attention Required)
+2,1.09,1.95,8.79,25.24,Low,9.069437689294745,Normal,Sick (Attention Required)
+1,-0.5,-2.04,9.83,24.93,Low,10.051890369477773,High,Sick (Attention Required)
+2,0.95,2.78,7.13,25.12,Low,7.711536811816436,Normal,Sick (Attention Required)
+1,-1.62,-4.05,8.09,24.91,Low,9.191028234098729,Normal,Sick (Attention Required)
+2,-0.23,-0.71,10.59,25.05,Low,10.616265821841502,High,Sick (Attention Required)
+1,-2.96,-2.42,8.26,24.94,Low,9.101955833775508,Normal,Sick (Attention Required)
+2,1.63,1.26,9.81,24.97,Low,10.024001197126825,High,Sick (Attention Required)
+1,-7.69,-0.92,5.68,24.81,Low,9.604420857084513,Normal,Sick (Attention Required)
+2,2.94,-1.33,11.12,24.97,Low,11.578726182097924,High,Sick (Attention Required)
+1,-3.04,-5.09,7.88,24.79,Low,9.861242315246086,Normal,Sick (Attention Required)
+2,-0.8,1.34,10.25,25.0,Low,10.368129050122784,High,Sick (Attention Required)
+1,-2.62,-5.69,7.31,24.81,Low,9.626868649773924,Normal,Sick (Attention Required)
+2,1.41,-1.35,12.21,25.05,Low,12.365059644013046,High,Sick (Attention Required)
+1,-4.01,-6.18,6.06,24.87,Low,9.539187596436081,Normal,Sick (Attention Required)
+2,2.2,1.66,9.23,25.04,Low,9.632678755154249,Normal,Sick (Attention Required)
+1,-3.51,-4.63,7.06,24.9,Low,9.143336371369042,Normal,Sick (Attention Required)
+2,1.34,0.2,7.99,25.03,Low,8.104054540783892,Normal,Sick (Attention Required)
+1,-4.28,-5.5,6.49,24.96,Low,9.52305098169699,Normal,Sick (Attention Required)
+2,0.49,0.58,8.75,24.95,Low,8.782881076275597,Normal,Sick (Attention Required)
+1,-6.2,-4.45,6.76,24.98,Low,10.195101765063455,High,Sick (Attention Required)
+2,0.51,1.59,9.52,24.95,Low,9.665329792614425,Normal,Sick (Attention Required)
+1,-7.28,-2.19,4.76,24.93,Low,8.969509462618344,Normal,Sick (Attention Required)
+2,1.07,-1.74,10.51,24.94,Low,10.706661477790357,High,Sick (Attention Required)
+1,-4.17,-4.77,7.1,24.91,Low,9.515870953307425,Normal,Sick (Attention Required)
+2,1.5,2.41,9.43,24.93,Low,9.847994719738633,Normal,Sick (Attention Required)
+1,-3.26,-3.33,7.18,24.95,Low,8.55972546288723,Normal,Sick (Attention Required)
+2,3.91,0.1,9.27,24.96,Low,10.06136173686246,High,Sick (Attention Required)
+1,-1.87,-5.46,2.7,24.93,Low,6.371695221838534,Low,Sick (Attention Required)
+2,0.61,1.25,10.07,24.94,Low,10.165603769575126,High,Sick (Attention Required)
+1,-5.27,-5.37,5.33,24.93,Low,9.22055855141108,Normal,Sick (Attention Required)
+2,-0.29,1.36,7.74,24.84,Low,7.863923956905992,Normal,Sick (Attention Required)
+1,-7.36,-1.87,1.37,24.84,Low,7.7164370016219275,Normal,Sick (Attention Required)
+2,4.6,-1.09,8.39,24.81,Low,9.63017133803963,Normal,Sick (Attention Required)
+1,-0.43,-1.27,9.93,24.75,Low,10.020114769801792,High,Sick (Attention Required)
+2,4.19,-0.57,9.17,24.74,Low,10.09801465635696,High,Sick (Attention Required)
+1,-1.67,1.81,9.98,24.62,Low,10.279367684833538,High,Sick (Attention Required)
+2,2.83,-0.09,9.88,24.72,Low,10.27771375355434,High,Sick (Attention Required)
+1,-3.56,0.84,9.05,24.57,Low,9.761234553067558,Normal,Sick (Attention Required)
+2,2.13,1.69,7.85,24.64,Low,8.307556800889175,Normal,Sick (Attention Required)
+1,-3.05,2.14,9.7,24.5,Low,10.390962419333446,High,Sick (Attention Required)
+2,8.97,0.76,9.61,24.65,Low,13.167786450273258,High,Sick (Attention Required)
+1,-1.76,0.97,10.22,24.31,Low,10.415704488895603,High,Sick (Attention Required)
+2,6.88,-3.92,9.97,24.59,Low,12.73191658785118,High,Sick (Attention Required)
+1,-4.23,2.38,9.17,24.94,Low,10.375268671220038,High,Sick (Attention Required)
+2,4.36,1.62,9.36,24.51,Low,10.451966322180722,High,Sick (Attention Required)
+1,-1.56,0.97,9.36,24.71,Low,9.538558591317662,Normal,Sick (Attention Required)
+2,4.28,2.35,8.84,24.43,Low,10.098836566654597,High,Sick (Attention Required)
+1,-0.42,2.84,10.17,24.68,Low,10.567445292027775,High,Sick (Attention Required)
+2,3.9,-0.37,10.99,24.35,Low,11.667347599176088,High,Sick (Attention Required)
+1,1.23,2.43,9.84,24.6,Low,10.20996571982492,High,Sick (Attention Required)
+2,2.46,0.41,9.22,24.31,Low,9.55134022009477,Normal,Sick (Attention Required)
+1,-0.95,2.5,8.33,24.49,Low,8.748794202631585,Normal,Sick (Attention Required)
+2,2.83,2.66,10.32,24.18,Low,11.026645001994034,High,Sick (Attention Required)
+1,-1.07,2.77,8.98,24.44,Low,9.458234507560066,Normal,Sick (Attention Required)
+2,8.99,-1.49,4.93,24.21,Low,10.360748042491913,High,Sick (Attention Required)
+1,-1.95,3.18,9.97,24.39,Low,10.64498943165281,High,Sick (Attention Required)
+2,9.35,-1.54,4.52,24.22,Low,10.498785644063792,High,Sick (Attention Required)
+1,-2.08,3.49,10.13,24.34,Low,10.91436667883208,High,Sick (Attention Required)
+2,9.32,-1.69,4.48,24.24,Low,10.478019851097821,High,Sick (Attention Required)
+1,-2.06,3.32,9.28,24.32,Low,10.06898207367557,High,Sick (Attention Required)
+2,7.04,-1.19,8.03,24.22,Low,10.745166355157094,High,Sick (Attention Required)
+1,-2.09,3.15,9.19,24.24,Low,9.937137414768902,Normal,Sick (Attention Required)
+2,7.81,-0.38,7.35,24.17,Low,10.731402517844533,High,Sick (Attention Required)
+1,-1.98,3.07,9.68,24.16,Low,10.346385842408932,High,Sick (Attention Required)
+2,7.44,-1.26,5.88,24.08,Low,9.56637862516428,Normal,Sick (Attention Required)
+1,-0.71,1.45,10.16,24.14,Low,10.287477825006476,High,Sick (Attention Required)
+2,7.76,-2.12,7.74,24.05,Low,11.163314919861394,High,Sick (Attention Required)
+1,-4.53,0.62,9.08,24.11,Low,10.16620381460061,High,Sick (Attention Required)
+2,6.6,0.13,7.98,24.0,Low,10.356510029928035,High,Sick (Attention Required)
+1,-7.95,-1.76,2.59,24.16,Low,8.544483600546027,Normal,Sick (Attention Required)
+2,4.39,0.73,6.58,23.97,Low,7.943638964605579,Normal,Sick (Attention Required)
+1,-2.7,2.46,9.57,24.18,Low,10.243363705346013,High,Sick (Attention Required)
+2,7.08,-0.46,6.14,23.94,Low,9.382835392353423,Normal,Sick (Attention Required)
+1,-2.67,2.6,10.15,24.21,Low,10.812557514297902,High,Sick (Attention Required)
+2,6.81,7.27,3.26,23.96,Low,10.481249925462134,High,Sick (Attention Required)
+1,-0.15,2.44,12.57,24.15,Low,12.805506628009686,High,Sick (Attention Required)
+2,7.97,2.27,7.15,23.98,Low,10.945149610672301,High,Sick (Attention Required)
+1,-0.69,-0.08,10.06,24.01,Low,10.083952598063917,High,Sick (Attention Required)
+2,5.6,-0.11,6.92,23.94,Low,8.902724302144822,Normal,Sick (Attention Required)
+1,-0.69,-0.12,10.05,23.87,Low,10.07437342964812,High,Sick (Attention Required)
+2,4.3,2.09,8.78,23.98,Low,9.997324642123012,Normal,Sick (Attention Required)
+1,-0.71,-0.11,10.04,23.78,Low,10.065674344026831,High,Sick (Attention Required)
+2,7.89,1.87,9.15,23.97,Low,12.22585375341943,High,Sick (Attention Required)
+1,-0.71,-0.12,10.04,23.73,Low,10.065788593051217,High,Sick (Attention Required)
+2,5.72,0.62,8.41,23.97,Low,10.189744844695571,High,Sick (Attention Required)
+1,-0.69,-0.12,10.05,23.68,Low,10.07437342964812,High,Sick (Attention Required)
+2,8.07,1.87,6.65,24.02,Low,10.622819776311749,High,Sick (Attention Required)
+1,-0.73,-0.11,10.05,23.67,Low,10.077077949485158,High,Sick (Attention Required)
+2,5.21,-0.69,7.43,24.11,Low,9.100829632511532,Normal,Sick (Attention Required)
+1,-0.7,-0.06,10.09,23.69,Low,10.114430285488154,High,Sick (Attention Required)
+2,1.78,-1.67,8.87,24.15,Low,9.199684777208402,Normal,Sick (Attention Required)
+1,0.19,-5.66,9.96,23.71,Low,11.457456087631321,High,Sick (Attention Required)
+2,5.16,-0.62,9.56,24.17,Low,10.881341829020904,High,Sick (Attention Required)
+1,0.43,-0.41,9.94,23.8,Low,9.957740707610336,Normal,Sick (Attention Required)
+2,4.93,-0.64,9.14,24.19,Low,10.404523054902613,High,Sick (Attention Required)
+1,0.33,-0.76,10.12,23.82,Low,10.153861334487486,High,Sick (Attention Required)
+2,5.16,1.58,8.75,24.22,Low,10.280296688325683,High,Sick (Attention Required)
+1,-0.38,-0.57,10.18,23.83,Low,10.203024061522152,High,Sick (Attention Required)
+2,4.0,2.37,8.82,24.17,Low,9.97042125489189,Normal,Sick (Attention Required)
+1,1.64,-0.17,11.71,23.84,Low,11.825506331654474,High,Sick (Attention Required)
+2,4.9,3.08,9.02,24.17,Low,10.717126480545053,High,Sick (Attention Required)
+1,1.37,-0.59,10.59,23.83,Low,10.694535988064185,High,Sick (Attention Required)
+2,3.51,2.44,7.79,24.2,Low,8.885820164734373,Normal,Sick (Attention Required)
+1,2.38,0.96,9.62,23.88,Low,9.956425061235583,Normal,Sick (Attention Required)
+2,4.64,2.12,9.58,24.25,Low,10.853589268071646,High,Sick (Attention Required)
+1,1.7,0.51,10.01,24.06,Low,10.166130040482464,High,Sick (Attention Required)
+2,2.21,3.38,8.92,24.24,Low,9.791572907352526,Normal,Sick (Attention Required)
+1,1.36,-0.24,9.78,24.15,Low,9.87702384324347,Normal,Sick (Attention Required)
+2,4.46,2.83,9.54,24.31,Low,10.904682480475989,High,Sick (Attention Required)
+1,0.75,-1.66,14.56,24.24,Low,14.67350333083412,High,Sick (Attention Required)
+2,1.21,2.34,9.8,24.34,Low,10.147891406592802,High,Sick (Attention Required)
+1,1.41,-0.54,9.6,24.3,Low,9.718009055356967,Normal,Sick (Attention Required)
+2,4.84,-2.6,12.89,24.39,Low,14.012055523726703,High,Sick (Attention Required)
+1,-0.23,-0.77,12.69,24.37,Low,12.715419772858464,High,Sick (Attention Required)
+2,5.25,1.37,7.52,24.39,Low,9.273068532044826,Normal,Sick (Attention Required)
+1,1.45,-0.07,10.2,24.45,Low,10.302786030972399,High,Sick (Attention Required)
+2,3.07,0.38,10.57,24.45,Low,11.01336460851088,High,Sick (Attention Required)
+1,-0.76,-1.55,10.7,24.52,Low,10.838362422432642,High,Sick (Attention Required)
+2,3.5,-0.47,7.3,24.44,Low,8.109309465053112,Normal,Sick (Attention Required)
+1,2.01,0.34,9.58,24.94,Low,9.79449335085792,Normal,Sick (Attention Required)
+2,5.31,-1.16,7.89,24.68,Low,9.580908098922565,Normal,Sick (Attention Required)
+1,0.77,0.06,10.82,25.34,Low,10.84752967269507,High,Sick (Attention Required)
+2,5.0,1.1,9.0,24.82,Low,10.354226190305097,High,Sick (Attention Required)
+1,2.17,1.91,9.72,25.84,Low,10.140779062774222,High,Sick (Attention Required)
+2,4.89,-0.78,9.21,25.02,Low,10.45679683268256,High,Sick (Attention Required)
+1,2.4,1.19,12.31,26.68,Low,12.59810303180602,High,Sick (Attention Required)
+2,3.26,1.47,8.69,25.24,Low,9.39705272944661,Normal,Sick (Attention Required)
+1,2.43,0.64,10.47,27.55,Normal,10.767330216910784,High,Healthy Cow
+2,5.26,-2.81,13.32,25.55,Low,14.59404330540375,High,Sick (Attention Required)
+1,-0.51,-0.19,10.88,28.23,Normal,10.893603627817566,High,Healthy Cow
+2,5.19,0.22,9.26,26.16,Low,10.617537379260787,High,Sick (Attention Required)
+1,2.47,-1.65,9.13,28.94,Normal,9.60105723345091,Normal,Healthy Cow
+2,4.66,-0.59,8.2,26.88,Low,9.4500634918502,Normal,Sick (Attention Required)
+1,2.11,-0.33,8.35,29.45,Normal,8.61878761775692,Normal,Healthy Cow
+2,4.13,-0.71,10.34,27.28,Normal,11.156908173862506,High,Healthy Cow
+1,2.35,-0.36,9.5,30.36,Normal,9.79296175832419,Normal,Healthy Cow
+2,4.35,-0.7,8.44,28.02,Normal,9.520824544124316,Normal,Healthy Cow
+1,2.1,-0.9,9.09,31.21,Normal,9.372731725596333,Normal,Healthy Cow
+2,2.61,-0.28,10.27,28.54,Normal,10.60016037614526,High,Healthy Cow
+1,1.93,0.83,10.01,31.8,Normal,10.228093664021658,High,Healthy Cow
+2,4.65,-0.76,7.83,28.87,Normal,9.138325886069067,Normal,Healthy Cow
+1,0.75,0.52,8.76,32.32,Normal,8.807411651558022,Normal,Healthy Cow
+2,5.86,1.39,8.74,29.22,Normal,10.614108535341062,High,Healthy Cow
+1,0.96,-0.76,9.31,32.72,Normal,9.390170392490225,Normal,Healthy Cow
+2,4.16,-0.2,9.02,29.39,Normal,9.935089330247616,Normal,Healthy Cow
+1,0.33,1.06,9.7,32.76,Normal,9.763324228970376,Normal,Healthy Cow
+2,2.52,-0.79,9.85,29.09,Normal,10.197891939023476,High,Healthy Cow
+1,-1.2,-1.71,9.26,32.5,Normal,9.492718261910019,Normal,Healthy Cow
+2,3.02,1.0,7.65,28.91,Normal,8.285101085683868,Normal,Healthy Cow
+1,0.29,1.1,10.2,32.12,Normal,10.263240229089446,High,Healthy Cow
+2,-1.03,3.28,5.09,28.69,Normal,6.142263426457709,Low,Healthy Cow
+1,-0.31,2.94,10.21,31.52,Normal,10.629383801519259,High,Healthy Cow
+2,4.62,-1.98,10.3,28.32,Normal,11.461012171706303,High,Healthy Cow
+1,0.91,0.98,11.36,31.03,Normal,11.438448321341491,High,Healthy Cow
+2,3.6,-1.18,7.98,27.98,Normal,8.833617605488705,Normal,Healthy Cow
+1,1.38,0.27,11.94,30.76,Normal,12.022516375534698,High,Healthy Cow
+2,3.75,-0.1,12.08,27.72,Normal,12.649067159280955,High,Healthy Cow
+1,0.37,0.5,9.39,30.51,Normal,9.410579153272131,Normal,Healthy Cow
+2,2.84,0.56,9.13,27.59,Normal,9.577896428757205,Normal,Healthy Cow
+1,0.2,1.04,12.18,30.34,Normal,12.225955995340405,High,Healthy Cow
+2,1.19,0.79,7.79,27.48,Normal,7.919867423132788,Normal,Healthy Cow
+1,1.35,1.39,8.45,30.24,Normal,8.6693194657943,Normal,Healthy Cow
+2,4.45,-0.73,8.7,27.46,Normal,9.799255073728819,Normal,Healthy Cow
+1,-1.82,-0.31,10.26,30.18,Normal,10.424782971362042,High,Healthy Cow
+2,3.09,-1.29,10.32,27.48,Normal,10.849635938592595,High,Healthy Cow
+1,0.69,-0.06,9.63,30.14,Normal,9.654874416583574,Normal,Healthy Cow
+2,1.13,1.17,11.95,27.53,Normal,12.060194857463953,High,Healthy Cow
+1,-1.5,-1.06,10.33,30.21,Normal,10.492020777714844,High,Healthy Cow
+2,0.94,-0.49,8.68,27.6,Normal,8.744489693515568,Normal,Healthy Cow
+1,1.2,-0.26,11.06,30.29,Normal,11.127946800735526,High,Healthy Cow
+2,1.69,0.01,7.44,27.66,Normal,7.629534717137082,Normal,Healthy Cow
+1,-0.35,0.88,10.96,30.58,Normal,11.00084087695118,High,Healthy Cow
+2,0.33,0.29,8.8,27.69,Normal,8.81095908513937,Normal,Healthy Cow
+1,0.56,-0.26,11.28,31.39,Normal,11.296884526275374,High,Healthy Cow
+2,2.08,-0.96,8.74,28.06,Normal,9.035242110757189,Normal,Healthy Cow
+1,-0.51,0.66,9.86,32.29,Normal,9.895216015833105,Normal,Healthy Cow
+2,0.13,-1.25,6.86,28.67,Normal,6.974166616879755,Low,Healthy Cow
+1,0.67,-0.08,10.73,33.01,Normal,10.751195282386048,High,Healthy Cow
+2,3.15,-0.11,4.67,29.27,Normal,5.634137023537855,Low,Healthy Cow
+1,-0.14,0.83,10.9,33.29,Normal,10.93245169209542,High,Healthy Cow
+2,6.26,-2.31,6.74,29.58,Normal,9.48426591782411,Normal,Healthy Cow
+1,0.53,0.41,11.99,33.11,Normal,12.008709339475246,High,Healthy Cow
+2,5.63,0.01,7.02,29.8,Normal,8.998744356853349,Normal,Healthy Cow
+1,0.81,0.42,9.11,32.99,Normal,9.155577535032949,Normal,Healthy Cow
+2,5.01,-1.44,9.36,29.97,Normal,10.713696840960173,High,Healthy Cow
+1,1.55,1.68,11.74,33.46,Normal,11.960455676938066,High,Healthy Cow
+2,7.42,1.31,9.01,30.24,Normal,11.745322473223117,High,Healthy Cow
+1,0.71,0.38,10.39,34.02,High,10.421161163709158,High,Sick (Attention Required)
+2,6.63,-0.12,7.63,30.25,Normal,10.10881793287425,High,Healthy Cow
+1,0.44,2.43,8.71,34.47,High,9.05331983307781,Normal,Sick (Attention Required)
+2,8.87,0.83,11.55,30.73,Normal,14.586579448246255,High,Healthy Cow
+1,-1.62,-0.49,9.74,34.8,High,9.88595468328679,Normal,Sick (Attention Required)
+2,6.79,-2.6,8.89,31.38,Normal,11.48460708949157,High,Healthy Cow
+1,-2.24,0.09,9.56,35.23,High,9.819332971235877,Normal,Sick (Attention Required)
+2,8.91,-3.12,9.43,31.62,Normal,13.343440335985319,High,Healthy Cow
+1,-2.21,0.91,11.42,35.72,High,11.667416166401198,High,Sick (Attention Required)
+2,8.62,-1.75,6.39,31.59,Normal,10.871936350071223,High,Healthy Cow
+1,-0.98,0.63,10.13,36.02,High,10.196773999653027,High,Sick (Attention Required)
+2,8.85,0.42,2.76,31.4,Normal,9.279897628745696,Normal,Healthy Cow
+1,-0.81,1.55,8.67,36.11,High,8.844631139849756,Normal,Sick (Attention Required)
+2,5.04,0.07,9.05,31.38,Normal,10.359005743796073,High,Healthy Cow
+1,-0.46,0.07,9.78,35.86,High,9.791062250848984,Normal,Sick (Attention Required)
+2,2.99,-6.18,10.92,30.8,Normal,12.898794517318274,High,Healthy Cow
+1,0.1,2.14,9.98,35.51,High,10.207350292803712,High,Sick (Attention Required)
+2,3.31,-3.64,9.68,30.86,Normal,10.8585496269069,High,Healthy Cow
+1,1.23,0.87,11.62,35.1,High,11.717260772040536,High,Sick (Attention Required)
+2,4.46,-2.44,11.01,30.83,Normal,12.12704828059986,High,Healthy Cow
+1,2.54,-1.18,11.53,34.68,High,11.865281286172696,High,Sick (Attention Required)
+2,4.32,-4.34,6.31,30.43,Normal,8.792843681085204,Normal,Healthy Cow
+1,-1.05,1.06,9.44,34.81,High,9.557180546583808,Normal,Sick (Attention Required)
+2,4.04,-2.96,6.03,29.9,Normal,7.838628706604236,Normal,Healthy Cow
+1,0.45,0.59,10.03,34.47,High,10.057410203427121,High,Sick (Attention Required)
+2,6.77,-3.34,5.85,29.52,Normal,9.550445015809473,Normal,Healthy Cow
+1,1.52,-0.06,10.03,34.64,High,10.144698122664863,High,Sick (Attention Required)
+1,-0.74,0.21,8.55,34.62,High,8.584532602302819,Normal,Sick (Attention Required)
+2,3.22,-0.69,6.64,29.15,Normal,7.411754178330526,Normal,Healthy Cow
+1,-0.33,-0.71,9.31,34.71,High,9.34286358671687,Normal,Sick (Attention Required)
+2,2.76,-2.44,10.43,29.1,Normal,11.061469161011118,High,Healthy Cow
+1,0.51,-0.29,9.93,34.73,High,9.947316220971363,Normal,Sick (Attention Required)
+2,3.07,-0.48,6.65,29.1,Normal,7.3401498622303345,Normal,Healthy Cow
+1,-1.59,-0.32,11.51,34.45,High,11.623708530413175,High,Sick (Attention Required)
+2,4.21,-2.4,8.35,28.99,Normal,9.654356529567364,Normal,Healthy Cow
+1,-0.45,-0.12,10.65,34.35,High,10.660178234907708,High,Sick (Attention Required)
+2,4.31,-3.23,9.95,29.23,Normal,11.314216720568862,High,Healthy Cow
+1,1.68,0.54,10.17,34.22,High,10.321962022793922,High,Sick (Attention Required)
+2,5.83,-1.95,12.1,29.14,Normal,13.57208163842231,High,Healthy Cow
+1,1.43,0.16,11.01,34.4,High,11.103630037064455,High,Sick (Attention Required)
+2,3.61,0.98,8.62,29.17,Normal,9.396643017588781,Normal,Healthy Cow
+1,2.01,0.2,10.56,33.91,Normal,10.751451064856315,High,Healthy Cow
+2,5.39,0.47,7.32,29.26,Normal,9.102494163689423,Normal,Healthy Cow
+1,0.02,1.17,10.02,33.4,Normal,10.088096946401734,High,Healthy Cow
+2,4.48,-2.59,9.04,30.02,Normal,10.41633812815233,High,Healthy Cow
+1,-0.09,1.03,9.97,33.63,Normal,10.02346746390689,High,Healthy Cow
+2,4.27,-2.13,9.1,30.57,Normal,10.275203161008545,High,Healthy Cow
+1,1.59,-0.47,10.75,34.13,High,10.877108990903787,High,Sick (Attention Required)
+2,5.21,-3.87,8.53,30.34,Normal,10.718297439425722,High,Healthy Cow
+1,-0.78,2.99,11.78,34.42,High,12.178542605747207,High,Sick (Attention Required)
+2,7.64,0.21,8.42,30.59,Normal,11.371459888686237,High,Healthy Cow
+1,0.19,0.85,10.7,34.42,High,10.735390072093328,High,Sick (Attention Required)
+2,9.31,-0.13,7.29,30.3,Normal,11.825273781185787,High,Healthy Cow
+1,1.0,1.05,7.73,34.39,High,7.864820404815357,Normal,Sick (Attention Required)
+2,6.44,-4.18,9.81,30.23,Normal,12.45721076324873,High,Healthy Cow
+1,1.72,0.39,7.75,33.84,Normal,7.948144437540123,Normal,Healthy Cow
+2,7.14,-2.41,4.2,30.48,Normal,8.627149007638618,Normal,Healthy Cow
+1,0.96,1.18,11.43,33.55,Normal,11.530780545999477,High,Healthy Cow
+2,8.93,-3.48,5.2,30.09,Normal,10.903912141979134,High,Healthy Cow
+1,1.36,0.63,8.08,33.57,Normal,8.21784034889946,Normal,Healthy Cow
+1,0.18,1.7,8.64,33.57,Normal,8.807496806698257,Normal,Healthy Cow
+2,6.03,-3.28,4.03,30.02,Normal,7.9599120598157365,Normal,Healthy Cow
+1,1.52,-2.16,8.73,33.44,Normal,9.120794921496701,Normal,Healthy Cow
+1,-2.35,-0.15,10.01,33.52,Normal,10.283243651688897,High,Healthy Cow
+2,12.81,-12.04,6.9,29.84,Normal,18.88564798994199,High,Healthy Cow
+1,-1.21,0.61,9.39,33.43,Normal,9.487270418829645,Normal,Healthy Cow
+2,7.64,-2.68,0.1,29.82,Normal,8.097036494915901,Normal,Healthy Cow
+1,0.16,0.47,10.8,33.46,Normal,10.811406014020564,High,Healthy Cow
+2,9.58,-4.54,3.75,29.78,Normal,11.245021120478164,High,Healthy Cow
+1,-1.06,2.07,8.57,33.76,Normal,8.87994369351518,Normal,Healthy Cow
+2,8.9,-3.3,4.35,29.73,Normal,10.441384007879416,High,Healthy Cow
+1,0.4,0.72,9.2,34.22,High,9.236795981291348,Normal,Sick (Attention Required)
+2,6.5,-3.76,3.33,29.99,Normal,8.214408073622835,Normal,Healthy Cow
+1,-0.09,-0.06,10.74,34.74,High,10.740544678925739,High,Sick (Attention Required)
+2,6.75,-2.38,4.81,29.84,Normal,8.623398402022255,Normal,Healthy Cow
+1,1.88,-0.36,9.78,35.32,High,9.965560696719477,Normal,Sick (Attention Required)
+1,-0.73,1.19,9.34,35.58,High,9.443759844468726,Normal,Sick (Attention Required)
+2,6.64,-2.41,1.34,29.68,Normal,7.1898052824815775,Normal,Healthy Cow
+1,2.94,-0.61,12.21,35.98,High,12.573774294140962,High,Sick (Attention Required)
+2,7.65,-2.42,4.14,30.08,Normal,9.028759604729766,Normal,Healthy Cow
+1,-0.08,0.35,8.62,36.35,High,8.627473558348353,Normal,Sick (Attention Required)
+2,9.92,-3.77,5.71,30.22,Normal,12.050867188713019,High,Healthy Cow
+1,1.58,-0.63,10.71,36.46,High,10.844233490662216,High,Sick (Attention Required)
+2,10.07,-4.44,10.69,30.51,Normal,15.34257475132515,High,Healthy Cow
+1,-0.28,0.11,10.14,36.05,High,10.144461543127857,High,Sick (Attention Required)
+2,3.95,-1.05,9.77,30.49,Normal,10.590462690553231,High,Healthy Cow
+1,0.87,0.72,8.04,36.09,High,8.118922342281639,Normal,Sick (Attention Required)
+2,3.98,-2.62,9.39,30.36,Normal,10.529810064763753,High,Healthy Cow
+1,1.33,-0.07,11.12,36.45,High,11.199473201896595,High,Sick (Attention Required)
+2,5.16,-0.33,7.84,30.47,Normal,9.391490829468982,Normal,Healthy Cow
+1,-0.71,1.09,12.75,36.72,High,12.816188981128517,High,Sick (Attention Required)
+2,5.21,-4.02,7.88,31.07,Normal,10.266396641470658,High,Healthy Cow
+1,-0.63,-2.82,13.88,35.97,High,14.177577367096257,High,Sick (Attention Required)
+2,6.7,-1.73,7.52,31.29,Normal,10.219261225744257,High,Healthy Cow
+2,8.42,-3.3,10.38,31.37,Normal,13.767018558860157,High,Healthy Cow
+1,0.32,2.02,8.76,35.72,High,8.995576690796428,Normal,Sick (Attention Required)
+2,5.4,2.42,6.52,31.03,Normal,8.804930436976774,Normal,Healthy Cow
+1,0.0,0.0,9.71,35.87,High,9.71,Normal,Sick (Attention Required)
+2,2.81,-0.99,8.65,30.23,Normal,9.148699361111392,Normal,Healthy Cow
+1,-0.62,0.58,9.03,35.97,High,9.06982359255129,Normal,Sick (Attention Required)
+2,3.68,-4.28,14.73,29.79,Normal,15.774463540799099,High,Healthy Cow
+1,-0.74,1.64,9.31,35.8,High,9.482262388270007,Normal,Sick (Attention Required)
+2,1.96,-1.48,9.0,29.66,Normal,9.32909427543746,Normal,Healthy Cow
+1,-0.7,0.27,9.68,35.18,High,9.709031877586972,Normal,Sick (Attention Required)
+2,2.16,0.11,9.73,28.83,Normal,9.967477113091357,Normal,Healthy Cow
+1,0.48,-0.43,10.69,35.16,High,10.709407079759364,High,Sick (Attention Required)
+2,3.29,1.33,8.84,28.89,Normal,9.525681078012218,Normal,Healthy Cow
+1,1.15,0.88,9.73,34.88,High,9.8371642255276,Normal,Sick (Attention Required)
+2,2.52,-1.49,11.08,28.82,Normal,11.46023123675958,High,Healthy Cow
+1,-2.34,1.29,9.07,34.02,High,9.455400573217403,Normal,Sick (Attention Required)
+2,8.45,1.91,1.62,29.57,Normal,8.813342158341522,Normal,Healthy Cow
+1,-1.8,1.35,9.23,33.59,Normal,9.500284206275095,Normal,Healthy Cow
+2,5.19,-2.56,9.86,29.39,Normal,11.432816800771365,High,Healthy Cow
+1,0.58,1.15,8.85,33.63,Normal,8.94323207794587,Normal,Healthy Cow
+2,7.41,-2.63,2.99,29.25,Normal,8.412199474572628,Normal,Healthy Cow
+1,-0.41,-1.65,9.99,33.37,Normal,10.133641990913238,High,Healthy Cow
+1,-1.15,0.32,9.66,33.99,Normal,9.733473172511443,Normal,Healthy Cow
+2,9.75,-3.57,0.82,29.98,Normal,10.415363651836646,High,Healthy Cow
+1,1.51,-0.09,10.01,34.55,High,10.12365052735425,High,Sick (Attention Required)
+2,5.01,-1.77,8.66,30.32,Normal,10.160147636722607,High,Healthy Cow
+1,-0.03,-0.19,9.69,35.31,High,9.69190899668378,Normal,Sick (Attention Required)
+2,5.07,0.85,7.94,31.16,Normal,9.458911142409574,Normal,Healthy Cow
+2,4.18,2.26,10.29,31.79,Normal,11.334200457023865,High,Healthy Cow
+1,0.25,-0.73,9.94,36.45,High,9.969904713687086,Normal,Sick (Attention Required)
+2,2.86,1.03,9.99,32.11,Normal,10.442250715243338,High,Healthy Cow
+1,0.74,-0.46,9.66,36.94,High,9.69921646319949,Normal,Sick (Attention Required)
+1,-0.34,-0.23,9.74,37.24,High,9.748646059838258,Normal,Sick (Attention Required)
+1,-0.33,0.7,11.19,36.93,High,11.216728578333345,High,Sick (Attention Required)
+1,1.04,3.2,8.09,36.57,High,8.76183200021548,Normal,Sick (Attention Required)
+1,-2.15,2.78,8.92,35.79,High,9.587351041867613,Normal,Sick (Attention Required)
+1,-3.45,3.78,10.09,35.57,High,11.313664304724618,High,Sick (Attention Required)
+1,-3.99,2.61,8.01,35.57,High,9.321603939237066,Normal,Sick (Attention Required)
+1,-4.18,2.21,6.22,35.32,High,7.813123575113861,Normal,Sick (Attention Required)
+1,-4.05,2.72,8.79,35.12,High,10.053108971855423,High,Sick (Attention Required)
+2,2.55,-2.83,7.75,31.47,Normal,8.635618101792135,Normal,Healthy Cow
+1,-3.49,0.51,9.65,35.46,High,10.274371026977759,High,Sick (Attention Required)
+2,4.88,-4.77,8.45,31.36,Normal,10.861390334575034,High,Healthy Cow
+2,2.72,-4.5,8.86,31.37,Normal,10.30281514926867,High,Healthy Cow
+1,-3.1,3.95,8.26,34.42,High,9.666441951411077,Normal,Sick (Attention Required)
+2,3.51,-4.02,5.66,31.28,Normal,7.779209471405176,Normal,Healthy Cow
+1,0.55,2.12,10.66,34.61,High,10.88266970922117,High,Sick (Attention Required)
+2,7.4,-5.8,11.36,31.19,Normal,14.746172384724112,High,Healthy Cow
+1,1.85,-0.35,10.44,34.21,High,10.608421183192153,High,Sick (Attention Required)
+2,5.46,-5.59,7.95,30.71,Normal,11.147295636162163,High,Healthy Cow
+1,-1.51,0.38,11.74,34.21,High,11.842807944064617,High,Sick (Attention Required)
+2,5.61,-4.92,5.65,30.27,Normal,9.35954058701601,Normal,Healthy Cow
+1,2.43,-1.91,8.1,34.02,High,8.669659739574557,Normal,Sick (Attention Required)
+2,3.73,-4.91,8.83,29.61,Normal,10.769860723333426,High,Healthy Cow
+1,0.67,0.28,9.86,32.59,Normal,9.88670319166101,Normal,Healthy Cow
+2,5.05,-4.63,7.34,28.99,Normal,10.040667308500964,High,Healthy Cow
+1,1.49,-0.12,9.82,32.47,Normal,9.933121362391581,Normal,Healthy Cow
+2,6.72,-3.28,6.94,29.5,Normal,10.201980199941579,High,Healthy Cow
+1,0.59,1.01,9.85,32.96,Normal,9.919208637789609,Normal,Healthy Cow
+2,6.45,-4.45,7.0,29.78,Normal,10.507378359990659,High,Healthy Cow
+1,0.79,-0.82,9.23,33.01,Normal,9.299967741879538,Normal,Healthy Cow
+2,6.68,-4.3,6.74,30.19,Normal,10.418253212511203,High,Healthy Cow
+1,0.13,-1.05,9.69,33.23,Normal,9.74758944560141,Normal,Healthy Cow
+1,1.23,-0.23,10.96,33.38,Normal,11.031201203858082,High,Healthy Cow
+1,2.67,1.34,10.91,33.5,Normal,11.311613501176568,High,Healthy Cow
+2,0.31,-2.11,9.79,30.84,Normal,10.019595800230665,High,Healthy Cow
+1,1.06,-0.14,10.94,33.71,Normal,10.992124453443928,High,Healthy Cow
+1,-0.78,-1.78,9.45,34.03,High,9.647761398376309,Normal,Sick (Attention Required)
+1,2.69,1.18,9.75,34.54,High,10.18287778577353,High,Sick (Attention Required)
+2,0.33,-2.81,9.67,32.1,Normal,10.075410661605808,High,Healthy Cow
+1,-0.55,-0.65,9.74,35.05,High,9.77714682307676,Normal,Sick (Attention Required)
+2,3.4,-1.21,9.6,32.43,Normal,10.255929991960748,High,Healthy Cow
+1,0.11,0.37,10.13,35.5,High,10.137351725179512,High,Sick (Attention Required)
+1,-0.41,-0.25,5.19,36.03,High,5.212168454683713,Low,Sick (Attention Required)
+1,-0.98,0.08,9.74,35.88,High,9.789504583991981,Normal,Sick (Attention Required)
+2,2.92,-1.16,9.65,32.82,Normal,10.148620595923369,High,Healthy Cow
+1,1.89,1.73,8.65,35.92,High,9.021502092223889,Normal,Sick (Attention Required)
+2,1.89,-1.64,9.97,32.99,Normal,10.279231488783585,High,Healthy Cow
+1,0.53,1.44,10.39,36.15,High,10.502694892264557,High,Sick (Attention Required)
+2,1.99,-1.52,9.96,33.16,Normal,10.269961051532766,High,Healthy Cow
+1,1.71,1.98,9.48,36.01,High,9.83437339132494,Normal,Sick (Attention Required)
+2,1.74,-2.04,9.95,33.23,Normal,10.30493571061945,High,Healthy Cow
+1,1.96,0.84,9.79,36.23,High,10.019545897893776,High,Sick (Attention Required)
+2,1.68,-1.87,9.95,33.34,Normal,10.262640985633277,High,Healthy Cow
+1,4.09,1.07,11.12,36.67,High,11.896528905525342,High,Sick (Attention Required)
+2,1.73,-1.92,9.95,33.5,Normal,10.280165368319713,High,Healthy Cow
+1,2.89,1.22,9.54,37.08,High,10.042514625331645,High,Sick (Attention Required)
+2,1.7,-1.92,9.94,33.67,Normal,10.26547612144707,High,Healthy Cow
+1,2.92,1.19,9.52,37.42,High,10.028604090300902,High,Sick (Attention Required)
+2,1.9,-1.84,9.95,33.83,Normal,10.295537868416588,High,Healthy Cow
+1,1.41,0.81,10.41,37.79,High,10.536237468850064,High,Sick (Attention Required)
+2,1.84,-1.83,9.94,34.09,High,10.27317380364997,High,Sick (Attention Required)
+1,2.65,0.17,9.79,38.37,High,10.143741913120621,High,Sick (Attention Required)
+2,2.62,-1.57,9.9,34.32,High,10.360468136141339,High,Sick (Attention Required)
+1,-0.57,0.13,8.31,38.63,High,8.33054019857056,Normal,Sick (Attention Required)
+1,5.39,0.4,8.68,39.12,High,10.225189484796847,High,Sick (Attention Required)
+2,1.59,2.08,9.99,34.62,High,10.32737139837626,High,Sick (Attention Required)
+1,3.38,-0.64,9.4,39.12,High,10.00969530005784,High,Sick (Attention Required)
+1,3.16,-0.71,9.54,39.5,High,10.074785357515067,High,Sick (Attention Required)
+2,1.41,-1.51,10.01,34.52,High,10.220973534844907,High,Sick (Attention Required)
+1,3.29,-0.74,9.41,39.8,High,9.995989195672433,Normal,Sick (Attention Required)
+2,0.8,-2.43,9.93,34.58,High,10.254257652312038,High,Sick (Attention Required)
+1,3.3,-0.61,9.45,39.67,High,10.028190265446701,High,Sick (Attention Required)
+1,3.27,-0.73,9.43,39.42,High,10.007532163325783,High,Sick (Attention Required)
+2,2.69,-1.27,9.83,34.66,High,10.270243424573733,High,Sick (Attention Required)
+1,3.31,-0.7,9.39,39.18,High,9.980891743727112,Normal,Sick (Attention Required)
+1,3.0,-0.68,9.7,38.87,High,10.176069968312914,High,Sick (Attention Required)
+1,3.23,-0.61,9.45,38.47,High,10.005373556244663,High,Sick (Attention Required)
+2,2.71,-1.65,9.76,34.55,High,10.262757913933271,High,Sick (Attention Required)
+1,4.45,-0.02,9.3,38.04,High,10.309844809695246,High,Sick (Attention Required)
+2,8.62,0.32,4.62,34.78,High,9.785254212333983,Normal,Sick (Attention Required)
+1,3.26,-0.75,9.49,37.7,High,10.062315836824046,High,Sick (Attention Required)
+2,8.87,0.8,4.99,35.35,High,10.208672783471904,High,Sick (Attention Required)
+1,3.2,-0.7,9.49,37.42,High,10.039427274501271,High,Sick (Attention Required)
+2,10.2,-0.61,5.78,35.86,High,11.739697611097144,High,Sick (Attention Required)
+1,2.82,-0.5,9.64,37.58,High,10.05644072224363,High,Sick (Attention Required)
+2,8.63,0.11,5.04,36.35,High,9.994528503136104,Normal,Sick (Attention Required)
+1,3.4,-1.44,9.66,37.93,High,10.341624630588756,High,Sick (Attention Required)
+2,8.47,-0.02,5.27,36.8,High,9.975680427920695,Normal,Sick (Attention Required)
+1,2.23,-0.3,9.52,37.96,High,9.782295231692816,Normal,Sick (Attention Required)
+2,7.55,0.33,5.02,37.0,High,9.072585078135118,Normal,Sick (Attention Required)
+1,2.77,-0.63,9.63,38.24,High,10.040253980851283,High,Sick (Attention Required)
+2,8.21,-0.46,5.53,37.16,High,9.909419761015274,Normal,Sick (Attention Required)
+1,2.9,-0.69,9.58,38.04,High,10.033070317704347,High,Sick (Attention Required)
+2,8.39,-0.38,6.07,36.73,High,10.362499698431842,High,Sick (Attention Required)
+1,3.37,-0.29,9.46,38.15,High,10.046521786170576,High,Sick (Attention Required)
+2,8.38,-0.36,5.66,36.89,High,10.118774629370892,High,Sick (Attention Required)
+1,3.34,-0.29,9.44,38.41,High,10.017649424890053,High,Sick (Attention Required)
+2,8.56,-0.53,5.74,37.05,High,10.319985465106043,High,Sick (Attention Required)
+1,3.47,0.03,9.41,38.52,High,10.029451630074298,High,Sick (Attention Required)
+1,3.34,-0.26,9.42,38.64,High,9.997979795938779,Normal,Sick (Attention Required)
+1,3.32,-0.25,9.47,38.77,High,10.03821697314817,High,Sick (Attention Required)
+1,2.93,-0.24,9.54,39.06,High,9.982690018226549,Normal,Sick (Attention Required)
+2,8.55,-0.3,5.68,38.27,High,10.269123623756801,High,Sick (Attention Required)
+1,3.37,-0.27,9.43,39.5,High,10.01771930131804,High,Sick (Attention Required)
+2,8.44,-0.38,5.8,38.4,High,10.247829038386618,High,Sick (Attention Required)
+1,3.36,-0.3,9.45,39.9,High,10.034047039953519,High,Sick (Attention Required)
+2,8.5,-0.4,5.79,38.61,High,10.292429256497224,High,Sick (Attention Required)
+1,3.37,-0.29,9.39,39.94,High,9.98063625226368,Normal,Sick (Attention Required)
+2,8.4,-0.27,5.69,38.72,High,10.149334953581935,High,Sick (Attention Required)
+1,3.28,0.27,9.31,39.86,High,9.874583535521891,Normal,Sick (Attention Required)
+1,3.68,0.06,9.14,40.05,High,9.853202525067676,Normal,Sick (Attention Required)
+2,8.55,-0.37,6.08,38.93,High,10.497895027099482,High,Sick (Attention Required)
+1,2.39,0.69,9.24,40.35,High,9.569002037830277,Normal,Sick (Attention Required)
+2,8.32,-0.3,5.88,39.24,High,10.192487429474712,High,Sick (Attention Required)
+1,2.97,0.57,9.61,40.64,High,10.074616618015794,High,Sick (Attention Required)
+2,8.41,-0.4,5.84,39.4,High,10.246643352825354,High,Sick (Attention Required)
+1,2.26,0.11,10.06,40.67,High,10.311319023286982,High,Sick (Attention Required)
+2,8.34,-0.39,5.91,39.44,High,10.229164188730183,High,Sick (Attention Required)
+1,2.96,0.68,9.36,40.72,High,9.840406495668763,Normal,Sick (Attention Required)
+1,2.88,-0.25,9.56,40.7,High,9.987517208996438,Normal,Sick (Attention Required)
+2,8.66,-0.35,5.91,39.5,High,10.490290749068874,High,Sick (Attention Required)
+1,2.78,-0.35,9.63,40.39,High,10.029346937861908,High,Sick (Attention Required)
+2,8.54,-0.2,5.62,39.49,High,10.22526283280777,High,Sick (Attention Required)
+1,2.75,-0.23,9.66,39.98,High,10.046442156305883,High,Sick (Attention Required)
+2,6.69,1.58,7.31,39.4,High,10.03437093195184,High,Sick (Attention Required)
+1,3.16,0.37,9.66,39.81,High,10.170452300659987,High,Sick (Attention Required)
+2,6.33,1.14,8.05,38.67,High,10.303931288590778,High,Sick (Attention Required)
+1,2.74,-0.08,9.71,39.36,High,10.089504447692168,High,Sick (Attention Required)
+2,7.48,0.89,7.79,38.09,High,10.836355475896866,High,Sick (Attention Required)
+1,2.43,0.48,9.66,39.32,High,9.972507207317527,Normal,Sick (Attention Required)
+2,4.76,-0.92,9.59,37.47,High,10.74579452623211,High,Sick (Attention Required)
+1,2.89,-0.06,9.68,39.37,High,10.102380907489085,High,Sick (Attention Required)
+2,7.27,0.18,7.75,37.4,High,10.62769024765024,High,Sick (Attention Required)
+1,2.77,0.12,9.6,39.7,High,9.99236208311128,Normal,Sick (Attention Required)
+2,6.11,-1.81,8.23,37.39,High,10.408703089242195,High,Sick (Attention Required)
+1,2.62,0.13,9.49,39.87,High,9.84588238808488,Normal,Sick (Attention Required)
+1,2.71,-0.12,9.57,40.15,High,9.947029707405122,Normal,Sick (Attention Required)
+2,5.23,-2.34,8.68,37.02,High,10.400524025259497,High,Sick (Attention Required)
+1,2.89,0.03,9.43,40.24,High,9.862955946368208,Normal,Sick (Attention Required)
+2,5.94,-0.77,7.91,36.92,High,9.921925216408356,Normal,Sick (Attention Required)
+1,2.78,0.1,9.58,40.21,High,9.975710501011946,Normal,Sick (Attention Required)
+2,6.53,-1.1,7.96,36.93,High,10.35434691325339,High,Sick (Attention Required)
+1,2.98,-0.15,9.8,40.27,High,10.244164192358497,High,Sick (Attention Required)
+2,6.06,-1.2,8.01,36.86,High,10.115517782100925,High,Sick (Attention Required)
+1,2.74,-0.2,9.55,40.42,High,9.937308488720676,Normal,Sick (Attention Required)
+2,6.14,-1.16,8.05,36.81,High,10.190569169580275,High,Sick (Attention Required)
+1,3.14,0.17,9.78,40.09,High,10.273115398943009,High,Sick (Attention Required)
+2,5.43,-0.73,7.84,36.35,High,9.56469549959642,Normal,Sick (Attention Required)
+1,2.66,-0.38,9.61,39.96,High,9.978582063600017,Normal,Sick (Attention Required)
+2,6.39,-1.34,8.04,36.15,High,10.357089359467745,High,Sick (Attention Required)
+1,3.05,-0.52,9.64,40.0,High,10.124351831105042,High,Sick (Attention Required)
+2,5.68,-1.69,8.23,36.19,High,10.141567926114778,High,Sick (Attention Required)
+1,2.91,1.0,12.68,40.11,High,13.048007510727452,High,Sick (Attention Required)
+1,2.75,0.62,9.58,40.38,High,9.986155416375212,Normal,Sick (Attention Required)
+1,2.53,0.73,9.65,40.6,High,10.002814603900244,High,Sick (Attention Required)
+1,2.57,0.75,9.64,40.61,High,10.004848824445075,High,Sick (Attention Required)
+1,2.56,0.75,9.62,40.79,High,9.983010567959948,Normal,Sick (Attention Required)
+1,2.55,0.74,9.61,40.99,High,9.970065195373598,Normal,Sick (Attention Required)
+1,2.59,0.76,9.6,41.23,High,9.972246487126158,Normal,Sick (Attention Required)
+1,2.56,0.76,9.58,41.46,High,9.94523001242304,Normal,Sick (Attention Required)
+1,2.55,0.75,9.62,41.49,High,9.980450891618073,Normal,Sick (Attention Required)
+1,2.57,0.75,9.61,41.65,High,9.975946070423596,Normal,Sick (Attention Required)
+2,5.98,-1.28,8.55,34.92,High,10.511959855326694,High,Sick (Attention Required)
+2,5.93,-1.18,8.36,34.42,High,10.31731069610681,High,Sick (Attention Required)
+1,1.94,0.64,10.15,41.41,High,10.353535627987185,High,Sick (Attention Required)
+2,5.99,-1.02,8.23,34.21,High,10.230024437898475,High,Sick (Attention Required)
+1,3.24,0.15,9.42,41.13,High,9.962755642893185,Normal,Sick (Attention Required)
+2,5.98,-1.17,8.35,34.08,High,10.336914433233932,High,Sick (Attention Required)
+1,3.14,-0.35,9.49,40.85,High,10.002109777441957,High,Sick (Attention Required)
+2,-1.3,3.31,9.54,33.84,Normal,10.181242556780582,High,Healthy Cow
+1,3.16,-0.28,9.47,40.49,High,9.987236855106623,Normal,Sick (Attention Required)
+2,5.11,2.7,8.24,33.41,Normal,10.064775208617428,High,Healthy Cow
+1,3.0,-0.26,9.53,40.38,High,9.994423445101773,Normal,Sick (Attention Required)
+2,8.29,-4.47,-3.71,33.33,Normal,10.122702208402655,High,Healthy Cow
+1,3.63,-1.93,10.5,40.14,High,11.27616069413699,High,Sick (Attention Required)
+2,8.94,-2.88,-3.79,32.01,Normal,10.128282184062606,High,Healthy Cow
+1,3.06,-0.55,9.5,39.66,High,9.995804119729438,Normal,Sick (Attention Required)
+2,8.09,1.05,1.49,31.64,Normal,8.292810138909488,Normal,Healthy Cow
+1,2.44,1.0,9.89,39.24,High,10.235511711683008,High,Sick (Attention Required)
+2,1.23,0.16,10.17,32.19,Normal,10.245359925351574,High,Healthy Cow
+2,1.2,0.13,10.16,32.81,Normal,10.231446623034302,High,Healthy Cow
+1,2.89,-0.54,9.55,38.58,High,9.99230704091903,Normal,Sick (Attention Required)
+1,2.89,-0.45,9.6,38.76,High,10.035666395411916,High,Sick (Attention Required)
+1,2.79,-0.08,9.5,38.73,High,9.90154028421841,Normal,Sick (Attention Required)
+2,11.29,-3.91,3.93,34.22,High,12.577642863430333,High,Sick (Attention Required)
+1,2.94,-0.24,9.26,38.95,High,9.718477246976503,Normal,Sick (Attention Required)
+2,8.37,-3.95,6.9,34.24,High,11.544236657310867,High,Sick (Attention Required)
+1,2.57,-0.01,9.61,39.0,High,9.94771833135619,Normal,Sick (Attention Required)
+2,6.57,-4.05,6.3,33.92,Normal,9.962800811016951,Normal,Healthy Cow
+1,1.86,0.05,9.68,38.84,High,9.85720548634348,Normal,Sick (Attention Required)
+2,5.36,-3.08,6.01,33.58,Normal,8.62183855102843,Normal,Healthy Cow
+1,4.89,0.57,12.86,38.47,High,13.770134349380909,High,Sick (Attention Required)
+2,6.44,-7.09,5.75,33.35,Normal,11.171580013588052,High,Healthy Cow
+1,2.6,0.04,9.67,38.47,High,10.013515866068222,High,Sick (Attention Required)
+2,5.93,-7.23,6.58,32.31,Normal,11.433905719394401,High,Healthy Cow
+1,2.67,0.48,9.69,38.17,High,10.06257422332874,High,Sick (Attention Required)
+1,2.67,-0.27,9.58,37.77,High,9.948778819533581,Normal,Sick (Attention Required)
+2,6.25,-5.63,7.96,31.16,Normal,11.581062127456187,High,Healthy Cow
+1,3.34,-0.46,9.39,37.79,High,9.976938408149065,Normal,Sick (Attention Required)
+2,9.65,-1.02,4.66,30.91,Normal,10.764687640614566,High,Healthy Cow
+1,2.7,-0.01,9.43,37.69,High,9.808924507814298,Normal,Sick (Attention Required)
+2,9.42,-1.24,2.1,31.44,Normal,9.730570384103904,Normal,Healthy Cow
+1,3.19,-0.34,9.69,37.75,High,10.207242526755206,High,Sick (Attention Required)
+2,10.62,-4.22,2.02,31.59,Normal,11.604878284583599,High,Healthy Cow
+1,2.93,-0.37,9.56,37.52,High,10.005768336314809,High,Sick (Attention Required)
+2,9.29,-5.4,0.82,30.92,Normal,10.776664604598215,High,Healthy Cow
+2,8.09,-3.83,-0.3,31.27,Normal,8.955836086039092,Normal,Healthy Cow
+1,2.83,-0.25,9.66,36.95,High,10.069111182224576,High,Sick (Attention Required)
+2,6.84,-5.04,0.67,30.84,Normal,8.522681502907403,Normal,Healthy Cow
+1,2.48,-0.96,9.66,37.28,High,10.019361257086203,High,Sick (Attention Required)
+2,8.28,-2.81,0.76,30.89,Normal,8.77679326405721,Normal,Healthy Cow
+1,2.89,-0.34,9.62,37.54,High,10.050477600591924,High,Sick (Attention Required)
+2,9.6,-8.35,1.53,30.48,Normal,12.814967811118372,High,Healthy Cow
+1,2.53,-0.83,9.97,37.98,High,10.319433123965677,High,Sick (Attention Required)
+2,7.37,-7.63,0.92,30.74,Normal,10.648013899314746,High,Healthy Cow
+1,2.78,-0.09,9.56,38.24,High,9.956409995575715,Normal,Sick (Attention Required)
+2,6.24,-1.82,1.84,31.24,Normal,6.755412644687222,Low,Healthy Cow
+1,2.89,-0.5,9.61,38.44,High,10.0475967275762,High,Sick (Attention Required)
+2,10.31,-0.98,3.68,31.19,Normal,10.99085528973974,High,Healthy Cow
+1,2.94,-0.25,9.56,38.62,High,10.004983758107757,High,Sick (Attention Required)
+2,5.64,-6.16,4.93,31.28,Normal,9.69845864042323,Normal,Healthy Cow
+1,2.9,-0.35,9.63,38.8,High,10.063269846327287,High,Sick (Attention Required)
+2,6.15,-7.48,5.76,30.72,Normal,11.267231248181606,High,Healthy Cow
+1,2.86,-0.08,9.56,38.65,High,9.978957861420199,Normal,Sick (Attention Required)
+2,6.93,-9.04,2.24,30.52,Normal,11.608794080351325,High,Healthy Cow
+1,2.6,0.1,9.62,38.21,High,9.965661041797476,Normal,Sick (Attention Required)
+2,5.92,-7.81,3.67,30.42,Normal,10.464769467121576,High,Healthy Cow
+1,3.08,-0.6,9.76,37.7,High,10.252024190373334,High,Sick (Attention Required)
+1,2.69,0.36,9.49,37.81,High,9.870450850898353,Normal,Sick (Attention Required)
+1,3.11,-0.37,9.48,37.86,High,9.983957131318222,Normal,Sick (Attention Required)
+1,3.02,-0.67,9.65,37.65,High,10.133696265430498,High,Sick (Attention Required)
+2,8.82,-4.37,2.37,29.04,Normal,10.124534557203111,High,Healthy Cow
+1,2.85,-0.22,9.65,37.24,High,10.064462231038478,High,Sick (Attention Required)
+2,10.61,-6.19,4.71,29.39,Normal,13.155694584475576,High,Healthy Cow
+1,2.99,-0.39,9.59,37.23,High,10.052875210605173,High,Sick (Attention Required)
+1,3.4,0.43,9.58,37.22,High,10.174541758723093,High,Sick (Attention Required)
+2,11.96,-7.74,1.31,30.41,Normal,14.306128057584276,High,Healthy Cow
+1,2.72,0.21,8.99,37.3,High,9.394817720424383,Normal,Sick (Attention Required)
+2,7.5,-5.52,-1.53,30.29,Normal,9.43722946632114,Normal,Healthy Cow
+1,3.04,-0.19,9.45,37.34,High,9.92875621616323,Normal,Sick (Attention Required)
+2,11.86,-1.56,0.87,30.41,Normal,11.993752540385348,High,Healthy Cow
+1,2.69,-0.12,9.68,37.42,High,10.047532035281101,High,Sick (Attention Required)
+2,9.34,-4.66,3.19,29.81,Normal,10.91454534096588,High,Healthy Cow
+1,2.74,0.24,9.51,37.81,High,9.899762623416786,Normal,Sick (Attention Required)
+2,7.5,-0.59,4.78,29.68,Normal,8.913276614130181,Normal,Healthy Cow
+1,3.09,-0.2,9.68,38.09,High,10.16319339577871,High,Sick (Attention Required)
+1,2.95,-0.6,9.59,38.46,High,10.051397912728358,High,Sick (Attention Required)
+2,8.94,-8.01,1.43,29.16,Normal,12.088366308149336,High,Healthy Cow
+1,2.84,-0.43,9.63,38.75,High,10.049248728138837,High,Sick (Attention Required)
+2,12.42,-7.51,-2.61,29.36,Normal,14.746816605627126,High,Healthy Cow
+1,1.08,-0.26,10.5,38.7,High,10.558598391832128,High,Sick (Attention Required)
+2,8.81,-8.42,-0.67,29.77,Normal,12.204974395712593,High,Healthy Cow
+1,4.07,-0.58,9.03,38.45,High,9.921804271401447,Normal,Sick (Attention Required)
+2,8.31,-7.22,-0.77,29.31,Normal,11.035279788025314,High,Healthy Cow
+1,3.39,-0.61,9.55,38.18,High,10.152177106414172,High,Sick (Attention Required)
+2,11.63,-7.32,6.39,29.65,Normal,15.154913394671711,High,Healthy Cow
+1,3.17,-0.18,9.54,38.11,High,10.054496506538753,High,Sick (Attention Required)
+2,7.54,-4.23,3.88,29.76,Normal,9.476228152593205,Normal,Healthy Cow
+1,2.89,-0.42,9.58,37.99,High,10.015233397180516,High,Sick (Attention Required)
+2,10.61,-5.94,0.93,29.32,Normal,12.195105575598761,High,Healthy Cow
+1,3.03,-0.36,9.57,38.22,High,10.044670228534136,High,Sick (Attention Required)
+2,8.44,-6.3,2.03,29.64,Normal,10.725879917284177,High,Healthy Cow
+1,3.18,-0.15,9.5,38.62,High,10.019226517052102,High,Sick (Attention Required)
+2,8.99,-4.53,1.13,29.61,Normal,10.130049358221312,High,Healthy Cow
+1,3.02,-0.25,9.55,38.86,High,10.019251469046978,High,Sick (Attention Required)
+2,1.18,-0.65,10.07,29.72,Normal,10.159714562919572,High,Healthy Cow
+1,3.3,-1.32,9.22,39.21,High,9.881335942067754,Normal,Sick (Attention Required)
+2,2.06,0.06,9.89,29.71,Normal,10.102440299254434,High,Healthy Cow
+1,2.83,-0.66,9.63,39.05,High,10.05889655976241,High,Sick (Attention Required)
+2,2.94,-1.71,9.61,29.4,Normal,10.194106140314608,High,Healthy Cow
+1,3.28,-0.43,9.47,39.0,High,10.031161448207282,High,Sick (Attention Required)
+2,1.82,0.76,10.14,29.07,Normal,10.330033881841821,High,Healthy Cow
+1,1.55,1.55,8.76,39.4,High,9.030094130184912,Normal,Sick (Attention Required)
+2,2.0,0.86,9.89,29.1,Normal,10.126781324784297,High,Healthy Cow
+1,2.47,-0.61,9.72,38.89,High,10.047457389807633,High,Sick (Attention Required)
+2,2.23,0.79,9.95,29.22,Normal,10.22738969630081,High,Healthy Cow
+1,2.73,-0.85,9.52,38.6,High,9.940110663367888,Normal,Sick (Attention Required)
+2,2.53,1.05,9.83,29.25,Normal,10.204523506759147,High,Healthy Cow
+1,2.67,-0.89,9.65,38.49,High,10.052039594032646,High,Sick (Attention Required)
+2,3.06,0.88,9.67,29.67,Normal,10.180712155836643,High,Healthy Cow
+1,2.69,-0.89,9.65,38.67,High,10.057370431678452,High,Sick (Attention Required)
+2,3.1,0.78,9.79,30.0,Normal,10.29866496202299,High,Healthy Cow
+1,2.68,-0.84,9.57,39.08,High,9.973610178867029,Normal,Sick (Attention Required)
+2,2.99,0.75,9.71,30.08,Normal,10.18757576658942,High,Healthy Cow
+1,2.73,-0.69,9.52,38.4,High,9.927708698385544,Normal,Sick (Attention Required)
+2,3.08,0.58,9.73,30.25,Normal,10.222313828091956,High,Healthy Cow
+1,2.51,-0.32,9.32,38.06,High,9.65737541985399,Normal,Sick (Attention Required)
+2,3.25,0.83,9.72,30.19,Normal,10.282499696085578,High,Healthy Cow
+1,2.69,-0.72,9.62,36.9,High,10.01493384900769,High,Sick (Attention Required)
+2,3.07,0.62,9.69,30.09,Normal,10.183584830500504,High,Healthy Cow
+1,2.69,-0.62,9.57,35.69,High,9.960190761225409,Normal,Sick (Attention Required)
+2,3.24,0.6,9.72,29.94,Normal,10.263332792032031,High,Healthy Cow
+1,2.49,-0.8,9.79,35.13,High,10.133321271922647,High,Sick (Attention Required)
+2,3.31,0.47,9.67,29.99,Normal,10.231612776097423,High,Healthy Cow
+1,2.64,-0.86,9.76,34.48,High,10.147255786664688,High,Sick (Attention Required)
+2,3.31,0.14,9.68,30.07,Normal,10.23123159741778,High,Healthy Cow
+1,2.64,-0.83,9.7,33.88,Normal,10.087046148402415,High,Healthy Cow
+2,3.51,-0.04,9.63,30.13,Normal,10.249809754332029,High,Healthy Cow
+1,2.61,-1.01,9.71,33.61,Normal,10.105261006030474,High,Healthy Cow
+2,3.8,0.15,9.69,30.16,Normal,10.409543697972548,High,Healthy Cow
+1,2.67,-0.54,9.65,33.42,Normal,10.027113243601072,High,Healthy Cow
+2,3.62,0.04,9.66,30.33,Normal,10.316084528540856,High,Healthy Cow
+1,2.35,-1.14,9.72,33.19,Normal,10.064814951105658,High,Healthy Cow
+2,3.74,-0.11,9.65,30.4,Normal,10.34998550723623,High,Healthy Cow
+1,2.68,-0.87,9.64,32.99,Normal,10.043351034390863,High,Healthy Cow
+2,4.64,-3.52,8.78,30.26,Normal,10.536052391669282,High,Healthy Cow
+1,2.86,-0.44,9.89,32.96,Normal,10.304625175133738,High,Healthy Cow
+2,6.02,-3.69,7.53,30.22,Normal,10.322664384740985,High,Healthy Cow
+1,2.66,-1.0,9.72,33.06,Normal,10.12689488441546,High,Healthy Cow
+2,8.52,-3.42,4.81,30.82,Normal,10.36450191760318,High,Healthy Cow
+1,2.87,-1.39,9.55,32.92,Normal,10.068341472159156,High,Healthy Cow
+2,8.08,-3.48,5.16,31.43,Normal,10.199137218412154,High,Healthy Cow
+1,2.84,-1.5,9.55,32.92,Normal,10.07561908767893,High,Healthy Cow
+2,7.97,-3.86,5.32,32.0,Normal,10.330677615722989,High,Healthy Cow
+1,2.86,-1.41,9.53,32.74,Normal,10.049308433917231,High,Healthy Cow
+2,7.76,-4.39,5.26,32.52,Normal,10.351681022906376,High,Healthy Cow
+1,2.76,-1.52,9.79,32.51,Normal,10.284556383237927,High,Healthy Cow
+2,9.67,3.02,2.14,32.3,Normal,10.354173071761936,High,Healthy Cow
+2,1.69,-0.46,9.98,32.45,Normal,10.132526831940787,High,Healthy Cow
+1,2.51,-1.29,9.79,32.11,Normal,10.188635826252698,High,Healthy Cow
+2,4.46,1.22,9.16,32.34,Normal,10.260877155487245,High,Healthy Cow
+1,3.74,-0.06,10.05,31.85,Normal,10.723511551725956,High,Healthy Cow
+1,3.07,-0.73,9.76,30.86,Normal,10.25745582491097,High,Healthy Cow
+2,3.93,-3.39,8.79,31.66,Normal,10.207894004151884,High,Healthy Cow
+1,2.64,-0.62,9.76,30.42,Normal,10.12973839741185,High,Healthy Cow
+2,4.37,-1.64,8.73,31.64,Normal,9.899464631988945,Normal,Healthy Cow
+1,2.49,-0.08,9.56,30.19,Normal,9.879276289283544,Normal,Healthy Cow
+2,4.24,-3.51,9.06,31.69,Normal,10.601004669369786,High,Healthy Cow
+1,1.96,0.28,9.94,31.02,Normal,10.13526516673343,High,Healthy Cow
+2,4.32,-3.28,8.57,31.85,Normal,10.142272920800346,High,Healthy Cow
+1,2.41,-0.5,9.87,31.38,Normal,10.17226621751515,High,Healthy Cow
+2,4.22,-3.46,8.84,32.1,Normal,10.388724657050066,High,Healthy Cow
+1,2.42,-0.07,9.78,32.09,Normal,10.075202231220969,High,Healthy Cow
+2,4.22,-3.38,8.73,32.31,Normal,10.268675669237977,High,Healthy Cow
+1,2.54,-0.32,9.78,32.84,Normal,10.109520265571456,High,Healthy Cow
+2,4.51,-3.69,8.68,32.63,Normal,10.454597074971373,High,Healthy Cow
+1,2.69,-0.29,9.73,33.46,Normal,10.099163331682481,High,Healthy Cow
+2,4.31,-3.58,8.36,32.82,Normal,10.06390083416962,High,Healthy Cow
+1,2.57,-0.1,9.82,34.41,High,10.151221601364044,High,Sick (Attention Required)
+2,1.66,-4.65,8.18,32.79,Normal,9.554606218991967,Normal,Healthy Cow
+1,2.5,-0.33,9.75,35.24,High,10.07081923182022,High,Sick (Attention Required)
+2,0.6,-0.32,10.47,32.55,Normal,10.492058901855252,High,Healthy Cow
+1,2.13,-0.12,10.11,35.59,High,10.332637610987815,High,Sick (Attention Required)
+2,-0.08,0.41,10.27,31.96,Normal,10.278492107308347,High,Healthy Cow
+1,2.52,-0.23,9.77,36.1,High,10.09238326660259,High,Sick (Attention Required)
+2,0.7,1.03,9.22,31.32,Normal,9.303725060426066,Normal,Healthy Cow
+1,1.79,0.36,10.41,36.58,High,10.568907228280509,High,Sick (Attention Required)
+2,0.69,-3.72,10.78,31.69,Normal,11.424661920599663,High,Healthy Cow
+1,2.24,0.42,7.56,36.91,High,7.896049645234001,Normal,Sick (Attention Required)
+2,1.95,-4.87,8.87,32.05,Normal,10.3051589022198,High,Healthy Cow
+1,2.73,-0.19,9.7,37.61,High,10.078640781375235,High,Sick (Attention Required)
+2,3.25,-3.35,9.3,32.43,Normal,10.405527377312502,High,Healthy Cow
+1,2.61,-0.25,9.41,37.9,High,9.768454330138418,Normal,Sick (Attention Required)
+2,2.84,-3.28,9.23,32.82,Normal,10.198867584197767,High,Healthy Cow
+1,2.53,-0.23,9.81,38.27,High,10.133602518354468,High,Sick (Attention Required)
+2,7.96,-0.87,5.7,32.94,Normal,9.828962305350448,Normal,Healthy Cow
+1,2.79,-0.07,9.68,38.52,High,10.07429401993013,High,Sick (Attention Required)
+2,5.33,-1.71,8.67,32.27,Normal,10.319975775165366,High,Healthy Cow
+1,2.8,-0.07,9.43,38.64,High,9.837164225527598,Normal,Sick (Attention Required)
+2,4.56,-1.44,9.09,31.92,Normal,10.2710904971186,High,Healthy Cow
+1,2.77,-0.18,9.65,38.69,High,10.041304696103987,High,Sick (Attention Required)
+2,4.67,-2.02,9.0,32.03,Normal,10.33872816162607,High,Healthy Cow
+1,2.75,-0.11,9.6,38.54,High,9.98672118365182,Normal,Sick (Attention Required)
+2,4.81,-2.18,8.68,32.18,Normal,10.160260823423776,High,Healthy Cow
+2,4.7,-2.52,8.77,32.36,Normal,10.26417556358035,High,Healthy Cow
+2,4.63,-2.51,8.83,32.66,Normal,10.281337461634065,High,Healthy Cow
+2,4.63,-2.66,8.87,32.83,Normal,10.3532313796225,High,Healthy Cow
+2,4.59,-2.7,8.78,33.12,Normal,10.268714622580568,High,Healthy Cow
+2,4.47,-2.88,8.88,32.93,Normal,10.350347820242565,High,Healthy Cow
+2,6.37,-3.26,6.95,33.09,Normal,9.975319543753974,Normal,Healthy Cow
+2,5.99,-3.2,7.18,33.19,Normal,9.88293984601748,Normal,Healthy Cow
+2,6.5,-3.79,6.99,33.14,Normal,10.270063290944218,High,Healthy Cow
+2,6.44,-3.32,6.97,33.14,Normal,10.053700811144124,High,Healthy Cow
+2,6.94,-4.11,6.53,33.13,Normal,10.377697239754106,High,Healthy Cow
+2,6.91,-4.06,6.5,33.04,Normal,10.318997044286814,High,Healthy Cow
+1,2.54,0.26,9.31,35.53,High,9.653771283804065,Normal,Sick (Attention Required)
+2,6.83,-3.9,6.55,32.9,Normal,10.235301656521901,High,Healthy Cow
+1,3.37,1.18,9.48,35.12,High,10.130138202413628,High,Sick (Attention Required)
+2,7.06,-4.05,6.32,32.7,Normal,10.304780444046346,High,Healthy Cow
+1,2.75,1.05,9.56,34.94,High,10.002929570880724,High,Sick (Attention Required)
+2,7.17,-3.97,6.5,32.75,Normal,10.460391962063373,High,Healthy Cow
+1,2.09,0.53,9.77,35.05,High,10.005093702709635,High,Sick (Attention Required)
+2,7.11,-3.98,6.55,32.89,Normal,10.4544249004907,High,Healthy Cow
+1,2.06,-0.22,9.89,35.41,High,10.104657342037878,High,Sick (Attention Required)
+2,7.09,-3.65,6.52,32.9,Normal,10.300533966741725,High,Healthy Cow
+1,1.99,-0.04,9.88,35.6,High,10.078496911742347,High,Sick (Attention Required)
+2,7.18,-3.9,6.48,32.66,Normal,10.428461056167396,High,Healthy Cow
+1,1.92,-0.03,9.87,35.68,High,10.055058428472705,High,Sick (Attention Required)
+2,7.01,-3.61,6.66,32.65,Normal,10.321230546790435,High,Healthy Cow
+1,2.05,0.03,10.06,36.09,High,10.266791124786751,High,Sick (Attention Required)
+2,6.95,-3.69,6.73,32.79,Normal,10.354298624242977,High,Healthy Cow
+1,2.36,0.05,9.76,36.1,High,10.041399304877782,High,Sick (Attention Required)
+2,7.07,-3.71,6.71,32.93,Normal,10.429434308724515,High,Healthy Cow
+1,1.93,-0.88,10.58,36.04,High,10.790537521365653,High,Sick (Attention Required)
+2,6.93,-3.54,6.75,33.08,Normal,10.30140767079917,High,Healthy Cow
+1,3.08,-1.0,9.73,35.57,High,10.254720864070363,High,Sick (Attention Required)
+2,7.04,-3.64,6.64,33.3,Normal,10.339284307919964,High,Healthy Cow
+1,3.1,-0.34,9.63,35.34,High,10.12237620324398,High,Sick (Attention Required)
+2,7.13,-3.71,6.58,33.43,Normal,10.38736732767259,High,Healthy Cow
+1,3.07,-0.52,9.6,34.9,High,10.092338678423351,High,Sick (Attention Required)
+2,5.73,-3.67,8.29,33.59,Normal,10.725012820505157,High,Healthy Cow
+1,3.11,-0.5,9.56,35.37,High,10.065570028567683,High,Sick (Attention Required)
+2,5.46,-2.51,8.22,33.55,Normal,10.182342559548859,High,Healthy Cow
+1,3.15,-0.16,9.4,35.35,High,9.91504412496485,Normal,Sick (Attention Required)
+2,2.75,-2.68,9.46,33.3,Normal,10.209627809082955,High,Healthy Cow
+1,1.72,-3.38,7.26,34.94,High,8.190872969348261,Normal,Sick (Attention Required)
+2,3.11,-2.25,9.25,33.16,Normal,10.014843982808719,High,Healthy Cow
+1,1.96,0.69,9.87,35.16,High,10.08635712237079,High,Sick (Attention Required)
+2,2.91,-2.5,9.62,33.24,Normal,10.35676107670733,High,Healthy Cow
+1,1.89,0.67,9.87,35.92,High,10.071638397003737,High,Sick (Attention Required)
+2,5.58,-2.73,8.22,33.38,Normal,10.303285883639258,High,Healthy Cow
+1,1.86,0.65,9.85,36.37,High,10.045128172402778,High,Sick (Attention Required)
+2,5.09,-2.54,8.26,33.31,Normal,10.029322010983593,High,Healthy Cow
+1,1.82,0.62,9.8,36.72,High,9.986831329305607,Normal,Sick (Attention Required)
+2,4.21,-2.77,8.89,33.32,Normal,10.219055729371476,High,Healthy Cow
+1,1.78,0.62,9.78,37.22,High,9.959979919658473,Normal,Sick (Attention Required)
+2,3.92,-3.06,9.17,33.35,Normal,10.431629786375664,High,Healthy Cow
+1,0.13,-0.47,10.04,36.03,High,10.051835653252592,High,Sick (Attention Required)
+2,4.59,-3.59,8.44,33.42,Normal,10.256207876208437,High,Healthy Cow
+1,0.67,0.04,10.03,36.95,High,10.052432541429958,High,Sick (Attention Required)
+2,4.21,-2.96,8.95,33.47,Normal,10.324156139849881,High,Healthy Cow
+1,0.64,0.05,9.96,37.62,High,9.980666310422366,Normal,Sick (Attention Required)
+2,3.88,-2.01,9.94,33.32,Normal,10.858089150490523,High,Healthy Cow
+1,0.65,0.05,9.97,37.94,High,9.991291207846961,Normal,Sick (Attention Required)
+2,3.37,-6.03,8.82,33.13,Normal,11.203133490233881,High,Healthy Cow
+1,0.64,0.06,9.96,38.28,High,9.980721416811512,Normal,Sick (Attention Required)
+2,5.79,-4.87,7.24,32.86,Normal,10.471800227277066,High,Healthy Cow
+1,0.65,0.04,9.92,38.59,High,9.941353026625702,Normal,Sick (Attention Required)
+2,4.54,-4.89,8.0,32.68,Normal,10.417470902287176,High,Healthy Cow
+1,0.65,0.06,9.95,39.06,High,9.971389070736333,Normal,Sick (Attention Required)
+2,5.5,-3.52,7.94,32.54,Normal,10.280272369932618,High,Healthy Cow
+1,0.65,0.06,9.93,39.42,High,9.951432057749276,Normal,Sick (Attention Required)
+2,6.99,-2.8,7.13,31.81,Normal,10.37000482159965,High,Healthy Cow
+1,0.62,0.04,9.94,39.69,High,9.959397572142603,Normal,Sick (Attention Required)
+2,6.43,-3.21,7.41,31.66,Normal,10.322649853598639,High,Healthy Cow
+1,0.63,0.06,9.92,39.9,High,9.94016599458983,Normal,Sick (Attention Required)
+2,6.12,-3.14,7.8,31.66,Normal,10.399711534460943,High,Healthy Cow
+1,0.63,0.05,9.91,39.86,High,9.930130915551919,Normal,Sick (Attention Required)
+2,6.11,-3.2,7.71,31.77,Normal,10.344863459707915,High,Healthy Cow
+1,0.64,0.04,9.94,40.27,High,9.96066262856041,Normal,Sick (Attention Required)
+2,6.13,-3.14,7.67,31.77,Normal,10.308511046703108,High,Healthy Cow
+1,0.62,0.04,9.95,40.66,High,9.969378115007975,Normal,Sick (Attention Required)
+2,6.07,-3.43,7.73,31.87,Normal,10.409740630774621,High,Healthy Cow
+1,0.64,0.05,9.93,40.94,High,9.950728616538589,Normal,Sick (Attention Required)
+2,5.88,-3.28,7.92,31.8,Normal,10.395152716530912,High,Healthy Cow
+1,0.62,0.06,9.95,41.18,High,9.96947842166279,Normal,Sick (Attention Required)
+2,5.59,-3.26,8.15,31.75,Normal,10.406642109729727,High,Healthy Cow
+1,0.62,0.04,9.88,40.69,High,9.899515139641942,Normal,Sick (Attention Required)
+2,4.76,-7.78,7.4,31.22,Normal,11.745041506950924,High,Healthy Cow
+1,0.6,0.05,9.88,40.24,High,9.898328141661096,Normal,Sick (Attention Required)
+2,6.52,-5.94,5.52,30.87,Normal,10.405018020167,High,Healthy Cow
+1,0.61,0.04,9.89,39.62,High,9.908874809987259,Normal,Sick (Attention Required)
+2,3.88,-7.02,6.87,31.1,Normal,10.560856972802917,High,Healthy Cow
+1,0.61,0.04,9.96,40.0,High,9.978742405734302,Normal,Sick (Attention Required)
+2,5.82,-7.47,3.31,31.37,Normal,10.031420637177968,High,Healthy Cow
+1,0.6,0.05,9.93,40.53,High,9.94823602454224,Normal,Sick (Attention Required)
+2,4.52,-6.51,3.39,31.11,Normal,8.619895591015009,Normal,Healthy Cow
+1,0.62,0.04,9.91,40.89,High,9.929456178462141,Normal,Sick (Attention Required)
+2,4.3,-7.08,4.27,31.23,Normal,9.319297183800932,Normal,Healthy Cow
+1,0.6,0.05,9.92,41.19,High,9.938254373882769,Normal,Sick (Attention Required)
+2,1.43,-8.84,2.92,31.26,Normal,9.418964911284041,Normal,Healthy Cow
+1,0.96,0.22,10.0,40.82,High,10.048382954485762,High,Sick (Attention Required)
+2,4.82,-3.78,6.93,30.36,Normal,9.24909184731128,Normal,Healthy Cow
+1,1.16,0.11,9.88,39.98,High,9.948472244520763,Normal,Sick (Attention Required)
+2,9.6,-4.77,6.32,29.87,Normal,12.444086949230144,High,Healthy Cow
+1,1.9,-1.33,8.55,38.62,High,8.858972852424824,Normal,Sick (Attention Required)
+2,6.67,-6.39,5.61,29.96,Normal,10.80708563859841,High,Healthy Cow
+1,0.87,0.11,9.88,37.63,High,9.918840658060802,Normal,Sick (Attention Required)
+2,8.2,-10.36,4.93,29.42,Normal,14.102287048560598,High,Healthy Cow
+1,1.73,2.47,9.9,36.54,High,10.349096578929004,High,Sick (Attention Required)
+2,11.64,-6.27,6.08,28.71,Normal,14.552281608050334,High,Healthy Cow
+1,0.6,1.36,17.81,35.66,High,17.87192491031674,High,Sick (Attention Required)
+1,3.41,-3.7,6.78,35.65,High,8.443133304644668,Normal,Sick (Attention Required)
+2,7.14,-8.21,5.98,28.9,Normal,12.41547824290309,High,Healthy Cow
+1,1.13,1.43,7.5,34.98,High,7.7182770097995315,Normal,Sick (Attention Required)
+2,4.39,-3.26,5.86,28.68,Normal,8.014942295487847,Normal,Healthy Cow
+1,3.88,-0.55,13.69,34.7,High,14.239838482230056,High,Sick (Attention Required)
+2,5.32,-5.86,1.66,28.69,Normal,8.08687826049088,Normal,Healthy Cow
+1,0.37,0.05,10.26,33.91,Normal,10.266791124786751,High,Healthy Cow
+2,6.44,-11.71,10.24,28.66,Normal,16.836130790653772,High,Healthy Cow
+1,0.08,1.88,9.84,33.33,Normal,10.01830324955279,High,Healthy Cow
+2,4.76,-5.35,4.19,28.78,Normal,8.296758403135527,Normal,Healthy Cow
+1,1.41,-0.56,9.71,33.71,Normal,9.827807486921994,Normal,Healthy Cow
+2,5.78,-7.54,6.17,28.75,Normal,11.32823463740048,High,Healthy Cow
+1,-4.28,-2.23,10.91,32.05,Normal,11.929769486456978,High,Healthy Cow
+1,6.05,4.68,7.29,32.26,Normal,10.566409039971905,High,Healthy Cow
+2,11.26,-5.99,5.25,28.48,Normal,13.792396456018801,High,Healthy Cow
+1,11.44,-1.25,19.61,32.09,Normal,22.737374518620218,High,Healthy Cow
+2,6.41,-3.75,3.81,28.94,Normal,8.346658013840031,Normal,Healthy Cow
+1,3.62,-7.06,13.46,31.91,Normal,15.624327185514261,High,Healthy Cow
+2,2.19,-7.08,4.49,29.09,Normal,8.66502163874967,Normal,Healthy Cow
+1,0.41,-3.32,8.88,31.21,Normal,9.48919912321372,Normal,Healthy Cow
+1,-1.01,-1.47,7.73,30.87,Normal,7.933088931809602,Normal,Healthy Cow
+1,1.42,-1.14,10.33,31.75,Normal,10.489275475455871,High,Healthy Cow
+2,7.04,-6.03,3.75,30.18,Normal,9.99924997187289,Normal,Healthy Cow
+1,0.61,-1.89,9.49,32.7,Normal,9.695581467864628,Normal,Healthy Cow
+2,5.29,-6.28,7.07,30.61,Normal,10.83546953297364,High,Healthy Cow
+1,2.9,1.03,9.16,33.55,Normal,9.663151659784711,Normal,Healthy Cow
+2,6.87,-9.13,5.41,30.25,Normal,12.6420686598357,High,Healthy Cow
+1,1.98,-2.05,10.02,34.34,High,10.417451703751738,High,Sick (Attention Required)
+2,6.65,-7.15,4.5,30.16,Normal,10.75151152164197,High,Healthy Cow
+1,0.29,-2.92,9.21,34.48,High,9.66615745785263,Normal,Sick (Attention Required)
+2,7.57,-4.22,5.62,30.26,Normal,10.32945787541631,High,Healthy Cow
+1,2.93,-0.26,9.7,33.77,Normal,10.13619751188778,High,Healthy Cow
+2,8.12,-5.78,3.52,30.23,Normal,10.57039261333277,High,Healthy Cow
+2,7.26,-3.85,4.86,30.42,Normal,9.547235201879129,Normal,Healthy Cow
+1,3.26,1.39,7.44,32.98,Normal,8.240952614837681,Normal,Healthy Cow
+2,3.38,-5.42,4.43,29.8,Normal,7.773396940848961,Normal,Healthy Cow
+2,9.42,-2.42,5.76,30.07,Normal,11.303556962301734,High,Healthy Cow
+2,6.52,-9.09,0.51,30.4,Normal,11.198151633193756,High,Healthy Cow
+2,9.18,-1.82,4.35,30.63,Normal,10.320237400370205,High,Healthy Cow
+1,2.83,-1.39,7.56,31.5,Normal,8.1911293482645,Normal,Healthy Cow
+2,8.9,-1.67,3.87,30.78,Normal,9.8476291562995,Normal,Healthy Cow
+1,2.45,-1.97,10.45,32.24,Normal,10.912648624417447,High,Healthy Cow
+2,9.44,-2.26,3.65,30.85,Normal,10.3703278636695,High,Healthy Cow
+1,1.33,-1.67,6.17,32.69,Normal,6.5289126200309955,Low,Healthy Cow
+2,9.54,-2.64,4.09,31.08,Normal,10.710242761020872,High,Healthy Cow
+1,2.48,-2.44,9.45,32.79,Normal,10.07007944357938,High,Healthy Cow
+2,9.53,-1.94,3.86,31.22,Normal,10.463465009259599,High,Healthy Cow
+1,3.25,-2.15,11.57,33.35,Normal,12.20859942827186,High,Healthy Cow
+2,9.76,-3.12,3.17,31.56,Normal,10.72571209757189,High,Healthy Cow
+1,2.26,-1.06,10.48,33.87,Normal,10.773188942926788,High,Healthy Cow
+2,9.28,-2.49,3.45,31.96,Normal,10.20886869344493,High,Healthy Cow
+1,-5.05,0.91,17.38,33.49,Normal,18.121672108279633,High,Healthy Cow
+2,9.29,-2.63,3.81,32.34,Normal,10.379648356278741,High,Healthy Cow
+1,-1.68,-3.02,7.39,33.17,Normal,8.158118655670558,Normal,Healthy Cow
+2,9.31,-2.13,3.54,32.48,Normal,10.185509314707831,High,Healthy Cow
+1,2.86,-0.51,8.3,33.59,Normal,8.793730721371903,Normal,Healthy Cow
+2,8.99,-4.84,3.21,32.59,Normal,10.702794027729396,High,Healthy Cow
+2,6.81,-3.98,1.59,32.67,Normal,8.0464029230458,Normal,Healthy Cow
+1,-2.48,-2.79,8.06,32.19,Normal,8.882460244774531,Normal,Healthy Cow
+2,7.49,-7.75,3.92,32.18,Normal,11.468609331562392,High,Healthy Cow
+2,7.05,-3.98,4.02,32.4,Normal,9.038987775188104,Normal,Healthy Cow
+2,8.41,-3.84,4.59,32.73,Normal,10.321908738213102,High,Healthy Cow
+2,9.17,-3.85,4.3,33.12,Normal,10.835192660954396,High,Healthy Cow
+2,7.12,-5.63,4.59,32.3,Normal,10.171499397827244,High,Healthy Cow
+2,7.13,-2.3,2.21,32.33,Normal,7.810953847002298,Normal,Healthy Cow
+1,2.59,-1.78,14.75,34.96,High,15.081080863121183,High,Sick (Attention Required)
+2,9.17,-4.92,1.17,32.49,Normal,10.472067608643481,High,Healthy Cow
+1,1.36,-3.59,14.06,35.55,High,14.57468009940527,High,Sick (Attention Required)
+2,9.41,-3.13,2.78,32.74,Normal,10.29919414323276,High,Healthy Cow
+1,1.05,-3.17,9.83,35.98,High,10.381729143066678,High,Sick (Attention Required)
+1,5.74,-2.67,19.61,35.76,High,20.60651838618062,High,Sick (Attention Required)
+2,6.01,-3.47,2.81,32.23,Normal,7.487128955747991,Normal,Healthy Cow
+1,2.48,1.41,6.04,35.8,High,6.679827842092938,Low,Sick (Attention Required)
+1,0.89,-6.88,11.43,35.54,High,13.370542247792345,High,Sick (Attention Required)
+2,7.81,-6.28,3.37,32.68,Normal,10.573145227414592,High,Healthy Cow
+1,1.05,-1.33,10.03,35.05,High,10.172133502859662,High,Sick (Attention Required)
+2,7.48,-5.86,6.47,32.79,Normal,11.495690496877515,High,Healthy Cow
+1,2.58,-1.12,9.54,34.52,High,9.945974059889759,Normal,Sick (Attention Required)
+2,7.17,-7.78,4.77,32.58,Normal,11.605610712065092,High,Healthy Cow
+1,3.6,-1.88,10.36,34.21,High,11.12762328621885,High,Sick (Attention Required)
+2,7.19,-3.3,8.34,32.24,Normal,11.49529033996097,High,Healthy Cow
+1,0.0,-4.79,9.21,33.73,Normal,10.381146372149852,High,Healthy Cow
+2,6.79,-3.03,3.86,31.81,Normal,8.377624961765715,Normal,Healthy Cow
+1,3.2,-4.6,8.25,33.24,Normal,9.973088789337034,Normal,Healthy Cow
+2,6.49,-5.61,5.19,31.55,Normal,10.02638020424121,High,Healthy Cow
+1,-1.12,1.27,8.87,33.22,Normal,9.030182722403794,Normal,Healthy Cow
+1,4.04,-0.24,12.01,33.05,Normal,12.673566980136254,High,Healthy Cow
+2,6.96,-6.61,3.1,31.58,Normal,10.086808216675879,High,Healthy Cow
+1,3.07,-2.84,9.05,33.63,Normal,9.969603803562107,Normal,Healthy Cow
+2,6.46,-3.51,5.01,31.77,Normal,8.896729736257026,Normal,Healthy Cow
+1,3.88,-1.64,8.39,34.34,High,9.388082871385404,Normal,Sick (Attention Required)
+2,6.6,-6.38,5.39,32.26,Normal,10.645022310920725,High,Healthy Cow
+1,5.08,-0.17,11.22,35.0,High,12.317617464428745,High,Sick (Attention Required)
+2,4.57,-7.84,5.88,32.15,Normal,10.813181770413369,High,Healthy Cow
+1,2.92,-0.38,8.51,34.96,High,9.005048583988872,Normal,Sick (Attention Required)
+2,5.92,-5.38,4.85,32.05,Normal,9.354854354825626,Normal,Healthy Cow
+1,3.31,-2.13,11.4,34.4,High,12.060389711779631,High,Sick (Attention Required)
+2,7.24,-5.69,6.4,31.76,Normal,11.213995719635353,High,Healthy Cow
+1,3.69,-0.11,8.76,34.34,High,9.506092783052353,Normal,Sick (Attention Required)
+2,7.55,-6.88,7.47,31.32,Normal,12.654556491635729,High,Healthy Cow
+1,3.7,-0.93,9.79,34.69,High,10.507092842456471,High,Sick (Attention Required)
+2,6.37,-6.25,5.57,30.87,Normal,10.519710072050465,High,Healthy Cow
+1,4.0,-0.42,8.8,35.14,High,9.675556831521378,Normal,Sick (Attention Required)
+2,7.07,-5.49,2.84,30.28,Normal,9.390985038855083,Normal,Healthy Cow
+1,3.8,-0.93,9.23,35.53,High,10.024859101254242,High,Sick (Attention Required)
+2,5.9,-6.76,5.31,29.83,Normal,10.4261066558903,High,Healthy Cow
+1,3.31,-0.25,9.85,35.78,High,10.39428208199104,High,Sick (Attention Required)
+2,5.47,-9.73,6.59,29.67,Normal,12.962326180126777,High,Healthy Cow
+1,3.25,-0.43,8.43,35.34,High,9.045015201756158,Normal,Sick (Attention Required)
+2,7.24,-6.06,3.89,29.52,Normal,10.211429870493163,High,Healthy Cow
+1,3.76,0.02,11.55,35.59,High,12.146625045665978,High,Sick (Attention Required)
+2,6.3,-6.9,4.57,30.02,Normal,10.401197046494216,High,Healthy Cow
+1,3.16,2.52,8.59,35.92,High,9.49337137164664,Normal,Sick (Attention Required)
+2,8.01,-3.53,4.37,30.22,Normal,9.783552524517871,Normal,Healthy Cow
+1,4.47,-2.09,10.64,35.18,High,11.72853784578453,High,Sick (Attention Required)
+2,6.43,-5.09,5.48,30.68,Normal,9.863234763504312,Normal,Healthy Cow
+1,3.34,-0.09,9.98,35.63,High,10.524452479820507,High,Sick (Attention Required)
+2,7.38,-3.9,5.69,30.75,Normal,10.102004751533233,High,Healthy Cow
+1,2.26,0.96,8.72,36.23,High,9.059116954758892,Normal,Sick (Attention Required)
+2,6.41,-4.87,5.98,30.92,Normal,10.028230152923298,High,Healthy Cow
+1,2.51,0.24,9.27,36.39,High,9.60679967523004,Normal,Sick (Attention Required)
+2,6.34,-5.91,5.83,30.92,Normal,10.445697678948974,High,Healthy Cow
+2,6.45,-6.92,6.47,30.86,Normal,11.460794038809004,High,Healthy Cow
+1,8.77,0.37,19.45,35.59,High,21.3389854491726,High,Sick (Attention Required)
+1,4.75,0.29,9.27,35.11,High,10.420148751337477,High,Sick (Attention Required)
+2,4.87,-7.22,5.96,29.84,Normal,10.553051691335545,High,Healthy Cow
+1,4.85,-0.06,8.1,35.27,High,9.441191662073173,Normal,Sick (Attention Required)
+1,1.23,-0.69,9.14,34.72,High,9.248167386028435,Normal,Sick (Attention Required)
+2,6.79,-7.89,4.76,29.99,Normal,11.446125982182792,High,Healthy Cow
+1,0.71,-1.7,8.11,34.94,High,8.316621910367212,Normal,Sick (Attention Required)
+2,4.58,-6.02,6.34,30.34,Normal,9.86977203384151,Normal,Healthy Cow
+1,3.74,-1.37,9.4,35.16,High,10.209040111587377,High,Sick (Attention Required)
+2,7.63,-9.04,2.55,29.94,Normal,12.101280923935283,High,Healthy Cow
+1,4.11,0.2,8.55,35.44,High,9.488656385389874,Normal,Sick (Attention Required)
+2,7.27,-6.15,1.89,29.99,Normal,9.708115162069308,Normal,Healthy Cow
+1,3.23,0.5,10.08,35.18,High,10.596664569570937,High,Sick (Attention Required)
+2,7.15,-5.85,4.7,30.1,Normal,10.365085624344838,High,Healthy Cow
+1,4.83,-4.4,11.97,34.59,High,13.63707446632158,High,Sick (Attention Required)
+2,6.71,-7.55,5.73,30.17,Normal,11.612902307347634,High,Healthy Cow
+1,2.92,-0.97,9.48,34.92,High,9.966829987513583,Normal,Sick (Attention Required)
+2,5.47,-8.03,7.32,30.12,Normal,12.164875667264338,High,Healthy Cow
+1,6.66,-2.32,9.32,35.37,High,11.687617379089717,High,Sick (Attention Required)
+2,4.61,-4.68,6.31,30.25,Normal,9.108819901611843,Normal,Healthy Cow
+1,3.93,-2.55,9.09,36.01,High,10.226216309075415,High,Sick (Attention Required)
+2,5.5,-4.64,7.02,30.34,Normal,10.052860289489754,High,Healthy Cow
+1,3.5,-2.48,9.51,36.62,High,10.432665047819757,High,Sick (Attention Required)
+2,5.56,-4.72,7.05,30.42,Normal,10.14369262152595,High,Healthy Cow
+1,4.71,-1.94,8.87,37.11,High,10.228616719772033,High,Sick (Attention Required)
+2,5.33,-4.89,7.13,30.48,Normal,10.15666776063882,High,Healthy Cow
+1,2.75,1.84,7.52,37.57,High,8.215747074977418,Normal,Sick (Attention Required)
+2,5.06,-5.35,7.35,30.64,Normal,10.404258743418485,High,Healthy Cow
+1,2.7,-1.61,10.73,37.84,High,11.181010687768795,High,Sick (Attention Required)
+2,4.81,-5.45,7.26,30.83,Normal,10.273568026737351,High,Healthy Cow
+1,1.79,0.77,9.74,37.93,High,9.933005587434248,Normal,Sick (Attention Required)
+2,6.5,-6.29,4.67,31.1,Normal,10.179538299942685,High,Healthy Cow
+1,2.3,0.58,9.87,38.14,High,10.15102457882947,High,Sick (Attention Required)
+1,2.47,-2.74,10.49,38.39,High,11.119739205574923,High,Sick (Attention Required)
+1,4.81,-0.06,8.88,37.97,High,10.099212840612877,High,Sick (Attention Required)
+1,5.13,-1.9,11.08,37.54,High,12.35691304493157,High,Sick (Attention Required)
+1,2.0,-1.18,11.59,37.13,High,11.820342634627814,High,Sick (Attention Required)
+1,4.19,-0.64,9.14,37.21,High,10.074983870954831,High,Sick (Attention Required)
+2,3.96,-4.44,8.76,30.62,Normal,10.589277595756945,High,Healthy Cow
+1,4.17,-0.65,9.14,37.37,High,10.067323378137806,High,Sick (Attention Required)
+2,5.85,-3.79,6.63,30.98,Normal,9.619953222339493,Normal,Healthy Cow
+1,4.13,-0.62,9.14,37.4,High,10.048925315674309,High,Sick (Attention Required)
+2,4.3,-6.14,6.6,31.2,Normal,9.98747215265204,Normal,Healthy Cow
+1,4.14,-0.63,9.16,37.35,High,10.07184690113983,High,Sick (Attention Required)
+2,5.66,-7.59,3.3,31.06,Normal,10.026649490233515,High,Healthy Cow
+1,4.13,-0.62,9.16,37.32,High,10.067119746978278,High,Sick (Attention Required)
+2,5.89,-8.06,5.61,31.02,Normal,11.451104750197686,High,Healthy Cow
+1,4.12,-0.64,9.17,37.42,High,10.07337579960164,High,Sick (Attention Required)
+2,3.14,-3.79,6.29,31.1,Normal,7.98672648836806,Normal,Healthy Cow
+1,4.12,-0.63,9.19,37.31,High,10.090956347145696,High,Sick (Attention Required)
+1,4.1,-0.63,9.18,37.42,High,10.073693463670612,High,Sick (Attention Required)
+1,4.11,-0.63,9.17,37.33,High,10.068659295060092,High,Sick (Attention Required)
+1,4.12,-0.62,9.17,37.32,High,10.072124899940428,High,Sick (Attention Required)
+1,4.1,-0.63,9.18,37.42,High,10.073693463670612,High,Sick (Attention Required)
+2,0.32,-1.48,10.1,32.78,Normal,10.212874228149488,High,Healthy Cow
+1,4.09,-0.62,9.21,37.39,High,10.096365682759318,High,Sick (Attention Required)
+1,4.07,-0.63,9.17,37.51,High,10.052397723926367,High,Sick (Attention Required)
+2,0.37,-1.29,10.17,33.99,Normal,10.258162603507511,High,Healthy Cow
+1,4.1,-0.64,9.19,37.29,High,10.083436914068535,High,Sick (Attention Required)
+1,4.09,-0.63,9.19,37.3,High,10.078744961551513,High,Sick (Attention Required)
+1,4.07,-0.62,9.19,37.51,High,10.07002482618588,High,Sick (Attention Required)
+2,0.42,-1.17,10.16,34.57,High,10.23576572611937,High,Sick (Attention Required)
+1,4.07,-0.63,9.19,37.42,High,10.07064546094241,High,Sick (Attention Required)
+1,4.08,-0.63,9.2,37.28,High,10.083813762659442,High,Sick (Attention Required)
+1,4.05,-0.62,9.19,37.44,High,10.061958059940421,High,Sick (Attention Required)
+2,0.47,-1.07,10.17,34.84,High,10.23692825021256,High,Sick (Attention Required)
+1,4.06,-0.63,9.2,37.6,High,10.075738186356372,High,Sick (Attention Required)
+2,0.49,-1.06,10.15,35.12,High,10.216956493985869,High,Sick (Attention Required)
+1,4.05,-0.62,9.17,37.98,High,10.0436945393615,High,Sick (Attention Required)
+2,0.46,-1.04,10.16,35.45,High,10.223443646834466,High,Sick (Attention Required)
+1,4.07,-0.63,9.18,38.22,High,10.061520759805646,High,Sick (Attention Required)
+1,4.08,-0.63,9.2,38.4,High,10.083813762659442,High,Sick (Attention Required)
+1,4.06,-0.63,9.13,38.56,High,10.011862963504845,High,Sick (Attention Required)
+1,4.07,-0.61,9.19,38.77,High,10.069414084245418,High,Sick (Attention Required)
+2,0.54,-0.96,10.19,36.56,High,10.24935607733481,High,Sick (Attention Required)
+1,4.06,-0.61,9.18,39.1,High,10.056246814791292,High,Sick (Attention Required)
+1,4.07,-0.62,9.17,39.35,High,10.051775962485435,High,Sick (Attention Required)
+1,4.05,-0.64,9.17,39.55,High,10.044948979462266,High,Sick (Attention Required)
+1,4.04,-0.61,9.16,39.69,High,10.029920238965014,High,Sick (Attention Required)
+1,4.04,-0.64,9.16,39.69,High,10.031789471475166,High,Sick (Attention Required)
+1,3.99,-0.65,9.15,39.72,High,10.003254470421115,High,Sick (Attention Required)
+1,4.08,-0.74,9.16,39.92,High,10.054829685280602,High,Sick (Attention Required)
+1,4.04,-0.74,9.12,40.0,High,10.002179762431787,High,Sick (Attention Required)
+1,4.07,-0.75,9.16,40.23,High,10.051517298398288,High,Sick (Attention Required)
+1,4.08,-0.77,9.16,40.39,High,10.057082081796887,High,Sick (Attention Required)
+1,4.07,-0.77,9.13,40.55,High,10.025701970435787,High,Sick (Attention Required)
+1,6.02,-0.44,9.2,40.35,High,11.003363122245853,High,Sick (Attention Required)
+1,-2.38,1.1,10.16,40.48,High,10.492854711659739,High,Sick (Attention Required)
+1,0.72,2.57,6.75,39.58,High,7.258498467314022,Normal,Sick (Attention Required)
+2,-0.15,-5.34,8.73,38.02,High,10.234793598309642,High,Sick (Attention Required)
+1,-10.9,-2.3,0.88,38.97,High,11.174721473039048,High,Sick (Attention Required)
+1,-8.27,-3.95,-1.64,38.3,High,9.310477968396683,Normal,Sick (Attention Required)
+2,0.49,-3.23,9.72,37.74,High,10.25433566838925,High,Sick (Attention Required)
+1,-8.1,-3.01,-1.14,37.61,High,8.716059889651975,Normal,Sick (Attention Required)
+2,-0.37,-4.04,9.31,37.53,High,10.155520666120472,High,Sick (Attention Required)
+2,-0.4,-0.37,10.09,36.97,High,10.104701875859574,High,Sick (Attention Required)
+1,-8.97,-1.04,-2.87,36.9,High,9.475199206349174,Normal,Sick (Attention Required)
+1,-8.14,-2.86,-2.6,36.85,High,9.011059871069552,Normal,Sick (Attention Required)
+1,-8.76,-2.1,-2.76,36.42,High,9.421528538406069,Normal,Sick (Attention Required)
+1,3.08,4.65,2.25,36.44,High,6.0142663725511865,Low,Sick (Attention Required)
+2,-0.93,-1.65,9.82,36.56,High,10.000989950999852,High,Sick (Attention Required)
+1,-7.17,0.92,14.81,36.36,High,16.480030339777898,High,Sick (Attention Required)
+2,-0.37,-1.68,9.71,36.67,High,9.861206822696705,Normal,Sick (Attention Required)
+1,-1.07,-4.36,8.52,35.84,High,9.630415359682052,Normal,Sick (Attention Required)
+2,-0.57,-1.84,9.68,35.47,High,9.869797363674696,Normal,Sick (Attention Required)
+1,-2.19,-2.37,10.12,35.57,High,10.6220242891833,High,Sick (Attention Required)
+2,-3.99,-0.42,9.54,34.85,High,10.34930432444616,High,Sick (Attention Required)
+1,-3.41,-1.76,9.54,35.73,High,10.282864386930326,High,Sick (Attention Required)
+2,-1.75,-0.11,9.63,34.3,High,9.788334894148239,Normal,Sick (Attention Required)
+1,1.18,0.08,9.45,35.94,High,9.52372301151183,Normal,Sick (Attention Required)
+2,-2.04,-1.02,8.18,34.21,High,8.492019783302439,Normal,Sick (Attention Required)
+1,-8.6,-8.53,11.78,35.54,High,16.896428616722527,High,Sick (Attention Required)
+2,-5.6,1.01,8.77,33.67,Normal,10.454329246776188,High,Healthy Cow
+1,3.62,0.69,9.61,34.93,High,10.292356387144782,High,Sick (Attention Required)
+2,-0.6,0.66,9.03,33.18,Normal,9.073946219809768,Normal,Healthy Cow
+1,4.91,-1.7,8.34,34.39,High,9.826174230085684,Normal,Sick (Attention Required)
+2,4.02,-0.98,7.86,32.97,Normal,8.882589712465617,Normal,Healthy Cow
+1,2.35,-2.16,9.36,33.81,Normal,9.889271965114519,Normal,Healthy Cow
+2,2.93,3.24,9.77,32.63,Normal,10.702121285053725,High,Healthy Cow
+1,1.36,0.1,10.33,33.72,Normal,10.419620914409506,High,Healthy Cow
+2,0.11,-1.64,8.46,32.59,Normal,8.618195866885367,Normal,Healthy Cow
+1,2.29,-0.31,9.8,33.22,Normal,10.068773510214639,High,Healthy Cow
+2,0.83,-1.02,10.8,32.52,Normal,10.879765622475514,High,Healthy Cow
+1,-1.76,-3.07,5.66,33.13,Normal,6.675185390683917,Low,Healthy Cow
+2,0.93,-0.48,8.85,32.32,Normal,8.911666510816032,Normal,Healthy Cow
+1,1.16,-0.78,4.98,33.37,Normal,5.172465562959313,Low,Healthy Cow
+2,-1.14,2.17,12.55,32.61,Normal,12.78714197934785,High,Healthy Cow
+1,-2.97,-6.95,6.01,33.42,Normal,9.65626739480634,Normal,Healthy Cow
+2,3.66,0.3,10.21,32.86,Normal,10.850331792161935,High,Healthy Cow
+1,0.9,-0.85,13.57,33.97,Normal,13.626349474455733,High,Healthy Cow
+2,4.07,-0.32,9.38,33.13,Normal,10.229941348805475,High,Healthy Cow
+1,-0.49,-4.98,8.19,33.77,Normal,9.597739317151722,Normal,Healthy Cow
+2,3.51,-0.11,9.56,33.34,Normal,10.184586393172774,High,Healthy Cow
+1,4.3,-3.33,18.05,33.93,Normal,18.851562269477828,High,Healthy Cow
+2,-0.16,-0.42,11.57,33.27,Normal,11.578726182097926,High,Healthy Cow
+2,2.82,0.08,9.22,32.89,Normal,9.641950010241704,Normal,Healthy Cow
+1,2.26,-1.21,10.87,34.3,High,11.168195915187017,High,Sick (Attention Required)
+1,-2.58,-0.25,3.88,34.3,High,4.666186880098138,Low,Sick (Attention Required)
+2,9.01,-3.19,16.46,33.15,Normal,19.033859303882647,High,Healthy Cow
+1,5.89,-1.58,6.55,33.93,Normal,8.949357518838992,Normal,Healthy Cow
+2,-5.04,2.21,10.07,33.26,Normal,11.475652486895898,High,Healthy Cow
+1,-2.48,-3.5,7.51,34.04,High,8.648728230208185,Normal,Sick (Attention Required)
+2,4.4,-1.01,10.99,33.44,Normal,11.881085808965441,High,Healthy Cow
+1,0.11,-4.41,9.36,33.55,Normal,10.347453793083591,High,Healthy Cow
+2,2.19,-2.37,7.98,33.76,Normal,8.607752319856793,Normal,Healthy Cow
+1,1.59,-1.5,8.36,34.27,High,8.641047390218386,Normal,Sick (Attention Required)
+1,5.06,-2.6,9.94,34.47,High,11.452824979017185,High,Sick (Attention Required)
+2,-0.56,-2.39,9.43,34.13,High,9.744259848751982,Normal,Sick (Attention Required)
+1,3.88,-1.89,9.0,34.19,High,9.981307529577474,Normal,Sick (Attention Required)
+2,3.26,-4.16,11.4,34.12,High,12.565556095931449,High,Sick (Attention Required)
+1,0.51,-3.7,11.67,34.12,High,12.253122051134559,High,Sick (Attention Required)
+2,0.48,-3.69,14.73,33.61,Normal,15.192741688056175,High,Healthy Cow
+1,4.26,-0.39,8.62,34.62,High,9.623102410345636,Normal,Sick (Attention Required)
+2,-1.12,-0.21,10.62,33.84,Normal,10.680959694709085,High,Healthy Cow
+1,-1.92,1.72,9.68,35.15,High,10.017344957622255,High,Sick (Attention Required)
+2,1.64,-2.47,9.98,34.41,High,10.411095043269945,High,Sick (Attention Required)
+1,1.07,1.37,8.31,35.57,High,8.48987043481819,Normal,Sick (Attention Required)
+2,1.56,-1.96,9.84,34.59,High,10.15385641025123,High,Sick (Attention Required)
+1,-1.13,-1.67,9.75,35.69,High,9.956319601137762,Normal,Sick (Attention Required)
+1,1.36,-1.04,10.9,36.06,High,11.033639472087168,High,Sick (Attention Required)
+2,1.64,-0.97,10.19,35.24,High,10.366609860508882,High,Sick (Attention Required)
+1,1.75,0.93,10.27,36.3,High,10.459459833088896,High,Sick (Attention Required)
+2,1.15,-0.41,10.24,35.63,High,10.312526363602665,High,Sick (Attention Required)
+1,1.88,0.86,9.47,36.68,High,9.693033580876525,Normal,Sick (Attention Required)
+2,1.24,-0.34,10.18,36.04,High,10.260877155487243,High,Sick (Attention Required)
+1,0.78,1.86,6.19,36.9,High,6.5103072124132515,Low,Sick (Attention Required)
+2,0.3,0.59,10.54,36.44,High,10.560762283093014,High,Sick (Attention Required)
+2,0.31,0.31,9.9,36.92,High,9.909702316416977,Normal,Sick (Attention Required)
+1,3.3,0.21,10.3,36.6,High,10.817767791924544,High,Sick (Attention Required)
+2,0.31,0.11,10.22,37.38,High,10.225292171864822,High,Sick (Attention Required)
+1,3.63,-0.39,9.07,36.77,High,9.777213304413483,Normal,Sick (Attention Required)
+1,-2.4,2.32,2.36,36.36,High,4.088031311034689,Low,Sick (Attention Required)
+2,1.59,-0.6,7.99,37.32,High,8.168733071902889,Normal,Sick (Attention Required)
+1,2.9,-1.76,8.67,36.52,High,9.310021482252337,Normal,Sick (Attention Required)
+2,2.13,1.83,9.74,37.65,High,10.136735174601338,High,Sick (Attention Required)
+1,6.11,0.22,11.43,36.58,High,12.96246118605568,High,Sick (Attention Required)
+2,1.8,1.96,9.91,37.82,High,10.261076941530066,High,Sick (Attention Required)
+1,4.99,-3.92,17.29,36.48,High,18.41767086251679,High,Sick (Attention Required)
+2,0.41,1.2,9.79,38.04,High,9.87178808524575,Normal,Sick (Attention Required)
+1,6.17,1.9,10.23,36.18,High,12.096768163439357,High,Sick (Attention Required)
+2,1.08,1.33,10.05,38.19,High,10.194988965173039,High,Sick (Attention Required)
+1,-0.5,-3.16,8.55,36.1,High,9.128970369105161,Normal,Sick (Attention Required)
+2,1.0,1.44,10.06,38.22,High,10.211620831190316,High,Sick (Attention Required)
+1,9.52,0.91,13.49,35.29,High,16.535978954993865,High,Sick (Attention Required)
+2,0.72,1.83,9.9,38.04,High,10.093428555253166,High,Sick (Attention Required)
+1,4.03,-0.26,17.94,34.93,High,18.388912420260205,High,Sick (Attention Required)
+2,1.69,3.22,9.32,37.76,High,10.004344056458676,High,Sick (Attention Required)
+1,3.65,-2.07,9.78,34.53,High,10.642170831179135,High,Sick (Attention Required)
+2,1.57,-1.35,9.75,37.23,High,9.967441998827985,Normal,Sick (Attention Required)
+1,1.93,-0.83,9.25,34.68,High,9.485583798586147,Normal,Sick (Attention Required)
+2,-1.91,-1.12,10.89,36.94,High,11.112812425304407,High,Sick (Attention Required)
+1,1.28,-2.85,8.83,34.94,High,9.366418739304795,Normal,Sick (Attention Required)
+2,-2.26,1.02,9.94,37.24,High,10.244588815565024,High,Sick (Attention Required)
+1,2.63,-1.83,9.35,34.99,High,9.8837391709818,Normal,Sick (Attention Required)
+2,-1.19,1.75,9.95,37.64,High,10.172566047954664,High,Sick (Attention Required)
+1,4.59,-0.17,6.74,34.82,High,8.156261398459469,Normal,Sick (Attention Required)
+2,-1.71,1.21,9.83,37.88,High,10.050726341911812,High,Sick (Attention Required)
+1,4.92,-1.27,8.1,34.65,High,9.561866972511174,Normal,Sick (Attention Required)
+2,1.05,0.92,11.83,37.39,High,11.912086299217279,High,Sick (Attention Required)
+1,14.0,-0.42,18.96,34.76,High,23.572399114218307,High,Sick (Attention Required)
+2,2.96,-3.33,9.56,36.61,High,10.547231864332936,High,Sick (Attention Required)
+1,7.85,0.3,14.72,34.78,High,16.685050194710232,High,Sick (Attention Required)
+2,4.75,-2.79,8.58,36.07,High,10.196224791558883,High,Sick (Attention Required)
+1,3.38,2.77,4.27,34.78,High,6.109844515206585,Low,Sick (Attention Required)
+2,0.2,-0.71,10.04,35.84,High,10.06706014683532,High,Sick (Attention Required)
+1,2.15,0.02,8.35,34.97,High,8.622377862283699,Normal,Sick (Attention Required)
+2,0.31,-0.58,10.22,36.27,High,10.241137632118807,High,Sick (Attention Required)
+1,4.39,-2.43,9.45,34.73,High,10.69950933454427,High,Sick (Attention Required)
+2,0.58,-0.28,10.19,36.85,High,10.210333001425566,High,Sick (Attention Required)
+1,2.69,-0.42,7.6,34.78,High,8.072948655850599,Normal,Sick (Attention Required)
+2,-2.16,1.0,9.79,36.93,High,10.075202231220969,High,Sick (Attention Required)
+2,-0.08,-0.76,9.96,37.09,High,9.989274247912109,Normal,Sick (Attention Required)
+1,2.97,-1.48,10.36,34.79,High,10.87846036900443,High,Sick (Attention Required)
+2,-0.78,-1.32,10.18,37.5,High,10.294814228532733,High,Sick (Attention Required)
+1,5.26,-2.38,10.03,34.86,High,11.572938261305984,High,Sick (Attention Required)
+2,-0.08,2.4,9.81,37.4,High,10.099628706046575,High,Sick (Attention Required)
+1,3.29,-1.46,8.2,34.51,High,8.955205190279003,Normal,Sick (Attention Required)
+2,0.63,0.56,10.19,36.33,High,10.224803176589758,High,Sick (Attention Required)
+1,4.65,-1.52,8.77,33.77,Normal,10.042200953974183,High,Healthy Cow
+2,1.77,-1.58,8.67,35.71,High,8.988781897454182,Normal,Sick (Attention Required)
+1,5.12,-0.8,8.27,33.19,Normal,9.75947232180101,Normal,Healthy Cow
+2,1.29,-2.14,9.95,35.94,High,10.258957062001965,High,Sick (Attention Required)
+1,3.93,0.29,8.65,33.1,Normal,9.505340604102518,Normal,Healthy Cow
+2,0.06,-1.91,10.05,36.07,High,10.230063538414608,High,Sick (Attention Required)
+1,2.43,2.17,4.78,33.17,Normal,5.784652107084747,Low,Healthy Cow
+2,-0.86,4.56,10.55,36.34,High,11.525437084987276,High,Sick (Attention Required)
+1,6.33,-0.5,10.39,33.05,Normal,12.176657997989432,High,Healthy Cow
+2,0.24,1.15,10.12,36.4,High,10.18795857863586,High,Sick (Attention Required)
+1,3.64,-0.96,6.78,32.78,Normal,7.754972598275251,Normal,Healthy Cow
+2,0.16,1.49,10.24,36.24,High,10.349072422202871,High,Sick (Attention Required)
+1,5.57,-2.9,9.99,32.45,Normal,11.799788133691216,High,Healthy Cow
+2,-0.67,2.77,9.36,35.79,High,9.784242433627654,Normal,Sick (Attention Required)
+1,17.69,1.43,19.61,32.4,Normal,26.448688058200545,High,Healthy Cow
+2,-1.59,1.31,6.19,35.62,High,6.523825564804749,Low,Sick (Attention Required)
+1,3.49,-4.76,19.61,32.39,Normal,20.479008765074543,High,Healthy Cow
+2,-0.15,-0.7,13.34,35.62,High,13.359195335049188,High,Sick (Attention Required)
+1,3.68,-0.17,7.7,32.31,Normal,8.535883082610727,Normal,Healthy Cow
+2,-3.89,1.22,10.89,35.37,High,11.628095286847284,High,Sick (Attention Required)
+1,8.62,1.66,12.53,32.16,Normal,15.299048990051634,High,Healthy Cow
+2,0.36,-2.86,10.61,34.85,High,10.994603221581032,High,Sick (Attention Required)
+1,-2.48,-4.58,7.34,32.08,Normal,9.000133332345694,Normal,Healthy Cow
+2,-0.43,0.77,8.29,34.38,High,8.33677995391506,Normal,Sick (Attention Required)
+1,-2.46,-4.97,6.05,31.96,Normal,8.207009199458716,Normal,Healthy Cow
+2,1.79,0.77,9.08,34.13,High,9.28673247165008,Normal,Sick (Attention Required)
+1,5.49,-3.49,14.08,31.61,Normal,15.510209540815366,High,Healthy Cow
+2,2.32,-0.97,13.2,33.6,Normal,13.437384418107564,High,Healthy Cow
+1,3.23,-1.85,9.75,31.58,Normal,10.436373891347511,High,Healthy Cow
+2,0.47,-1.55,9.81,33.6,Normal,9.94281147362254,Normal,Healthy Cow
+1,5.27,-1.72,14.04,31.24,Normal,15.094797116887658,High,Healthy Cow
+2,3.38,-1.41,8.42,33.01,Normal,9.181987802213635,Normal,Healthy Cow
+1,4.75,-0.22,6.97,30.81,Normal,8.43752333330107,Normal,Healthy Cow
+2,-0.68,-3.0,8.64,33.06,Normal,9.17125945549465,Normal,Healthy Cow
+1,1.56,0.5,10.88,30.56,Normal,11.002636047784186,High,Healthy Cow
+2,-1.09,0.67,6.6,32.47,Normal,6.722871410342458,Low,Healthy Cow
+1,3.55,-1.48,6.9,30.74,Normal,7.899550620130237,Normal,Healthy Cow
+1,5.83,-2.12,13.75,31.13,Normal,15.084621307808824,High,Healthy Cow
+2,-3.85,-1.1,16.36,32.01,Normal,16.842864958195207,High,Healthy Cow
+1,3.88,-1.54,9.96,31.74,Normal,10.79942591066766,High,Healthy Cow
+1,2.32,-2.01,9.94,31.97,Normal,10.403177399237215,High,Healthy Cow
+2,0.28,-1.19,7.75,31.99,Normal,7.845826916265742,Normal,Healthy Cow
+1,4.32,-0.94,12.67,31.99,Normal,13.41919893287226,High,Healthy Cow
+2,1.34,-0.62,9.19,32.04,Normal,9.307851524385205,Normal,Healthy Cow
+1,0.43,-2.3,9.34,31.63,Normal,9.628629185922573,Normal,Healthy Cow
+2,0.67,-2.95,9.95,32.56,Normal,10.399706726634168,High,Healthy Cow
+1,3.29,-2.3,8.38,31.48,Normal,9.291851268719276,Normal,Healthy Cow
+2,0.92,-2.87,9.53,33.03,Normal,9.99520885224516,Normal,Healthy Cow
+1,1.6,3.72,2.34,31.36,Normal,4.6769648277488685,Low,Healthy Cow
+2,-0.28,-2.53,11.09,33.29,Normal,11.378374224817884,High,Healthy Cow
+1,4.04,0.46,8.47,31.43,Normal,9.395429740038505,Normal,Healthy Cow
+2,0.84,-1.92,11.83,32.79,Normal,12.014195770004749,High,Healthy Cow
+1,3.77,-5.7,9.74,31.26,Normal,11.898340220383682,High,Healthy Cow
+2,1.92,-1.61,12.28,33.15,Normal,12.533032354542136,High,Healthy Cow
+1,1.8,-1.81,9.95,30.77,Normal,10.27222468601617,High,Healthy Cow
+2,1.6,-1.83,12.75,32.97,Normal,12.97965330815889,High,Healthy Cow
+1,3.74,0.04,9.9,30.53,Normal,10.582967447743568,High,Healthy Cow
+2,1.37,-1.06,10.03,32.59,Normal,10.178477292797778,High,Healthy Cow
+1,3.01,-1.57,10.11,30.24,Normal,10.664759725375907,High,Healthy Cow
+2,2.71,-0.94,9.19,32.92,Normal,9.627242595883828,Normal,Healthy Cow
+1,2.3,-0.15,10.32,30.31,Normal,10.57425647504353,High,Healthy Cow
+2,2.0,-2.0,9.8,32.92,Normal,10.200000000000001,High,Healthy Cow
+1,2.92,-2.6,7.08,30.02,Normal,8.087817999930513,Normal,Healthy Cow
+2,2.29,-1.34,12.73,33.16,Normal,13.003561050727606,High,Healthy Cow
+1,1.54,-3.35,11.26,30.01,Normal,11.84827835594691,High,Healthy Cow
+2,1.65,-1.53,9.02,33.46,Normal,9.296440178907194,Normal,Healthy Cow
+2,1.12,-1.85,9.98,33.59,Normal,10.211625727571493,High,Healthy Cow
+2,1.55,-2.93,9.7,33.89,Normal,10.250726803500324,High,Healthy Cow
+1,1.63,-2.67,11.37,31.47,Normal,11.792484895050745,High,Healthy Cow
+2,1.36,-2.06,8.38,33.52,Normal,8.735994505492778,Normal,Healthy Cow
+1,3.51,-2.31,8.66,31.77,Normal,9.625580501974932,Normal,Healthy Cow
+2,2.59,-2.69,11.34,33.22,Normal,11.939003308484338,High,Healthy Cow
+1,4.49,-2.43,7.04,32.16,Normal,8.696355558508403,Normal,Healthy Cow
+2,2.1,-0.11,10.55,33.06,Normal,10.75753689280218,High,Healthy Cow
+1,4.04,0.33,8.64,32.88,Normal,9.54358947147246,Normal,Healthy Cow
+2,2.98,-0.97,12.04,33.01,Normal,12.441177596996194,High,Healthy Cow
+1,1.56,-0.29,10.99,33.35,Normal,11.103954250626217,High,Healthy Cow
+2,1.53,0.06,10.21,33.24,Normal,10.324175511875028,High,Healthy Cow
+1,4.21,1.21,10.08,33.52,Normal,10.99065967082959,High,Healthy Cow
+2,3.26,0.08,9.82,33.44,Normal,10.347289500154135,High,Healthy Cow
+1,2.41,0.7,9.77,33.42,Normal,10.087170068953927,High,Healthy Cow
+2,-0.15,-0.29,12.32,33.41,Normal,12.324325539355083,High,Healthy Cow
+1,2.24,-0.19,9.53,32.53,Normal,9.791557588044917,Normal,Healthy Cow
+2,2.38,-1.4,13.71,33.09,Normal,13.985295849570006,High,Healthy Cow
+1,1.46,0.69,9.5,31.48,Normal,9.636270025274301,Normal,Healthy Cow
+2,0.92,-1.42,12.36,32.95,Normal,12.4752715401309,High,Healthy Cow
+1,1.47,-4.32,7.7,30.74,Normal,8.950603331619607,Normal,Healthy Cow
+2,2.55,-0.45,8.05,32.67,Normal,8.45621073531165,Normal,Healthy Cow
+1,-2.21,-3.08,6.07,30.46,Normal,7.15649355480741,Normal,Healthy Cow
+2,2.05,-0.94,10.74,32.52,Normal,10.974228902296508,High,Healthy Cow
+1,-0.93,-3.84,7.6,30.26,Normal,8.565658176696056,Normal,Healthy Cow
+2,2.32,0.03,11.71,32.43,Normal,11.937646334181625,High,Healthy Cow
+1,1.52,-2.07,10.33,29.81,Normal,10.644444560426814,High,Healthy Cow
+2,-1.19,-0.08,14.31,32.28,Normal,14.35961698653554,High,Healthy Cow
+1,0.85,-1.04,14.26,29.37,Normal,14.323117677377367,High,Healthy Cow
+2,0.91,2.63,10.34,32.0,Normal,10.70796899509893,High,Healthy Cow
+1,3.36,1.12,9.91,28.82,Normal,10.52388236346264,High,Healthy Cow
+2,4.19,-1.71,9.22,31.59,Normal,10.270764333777697,High,Healthy Cow
+1,3.64,1.58,9.53,28.58,Normal,10.323124527002472,High,Healthy Cow
+2,2.48,0.15,10.97,31.09,Normal,11.247835347301276,High,Healthy Cow
+1,3.36,0.81,9.59,28.4,Normal,10.19381184837154,High,Healthy Cow
+2,1.91,-0.81,10.04,30.84,Normal,10.252111977539066,High,Healthy Cow
+1,4.39,1.24,9.33,28.31,Normal,10.385499506523507,High,Healthy Cow
+2,-1.61,0.37,6.61,30.05,Normal,6.81330316366445,Low,Healthy Cow
+1,4.53,-4.42,13.25,28.39,Normal,14.683998093162502,High,Healthy Cow
+2,3.54,-2.95,12.23,30.37,Normal,13.069315207768156,High,Healthy Cow
+1,2.56,-0.18,9.71,28.67,Normal,10.043410775229699,High,Healthy Cow
+2,1.76,-1.12,9.66,30.39,Normal,9.882691940964264,Normal,Healthy Cow
+1,3.82,3.29,11.31,28.72,Normal,12.38275413629779,High,Healthy Cow
+2,2.47,-0.38,10.33,30.44,Normal,10.627991343617099,High,Healthy Cow
+1,3.47,1.19,9.65,28.75,Normal,10.323734789309535,High,Healthy Cow
+2,2.23,0.16,10.08,30.22,Normal,10.324964890981471,High,Healthy Cow
+1,3.24,-1.39,8.97,28.65,Normal,9.637976966148031,Normal,Healthy Cow
+2,2.95,0.33,10.09,29.94,Normal,10.517580520252745,High,Healthy Cow
+1,1.0,-0.54,12.94,28.06,Normal,12.989811392010276,High,Healthy Cow
+2,2.85,0.41,9.88,29.67,Normal,10.29101549896802,High,Healthy Cow
+1,2.32,-1.28,8.94,27.72,Normal,9.324398103899252,Normal,Healthy Cow
+2,3.13,0.4,9.76,29.57,Normal,10.257411954289445,High,Healthy Cow
+1,0.63,-2.84,10.98,27.24,Normal,11.358824763152217,High,Healthy Cow
+2,3.12,0.4,9.83,29.32,Normal,10.321012547226168,High,Healthy Cow
+1,2.69,-1.81,10.2,26.89,Low,10.702906147397538,High,Sick (Attention Required)
+2,2.98,0.32,9.81,29.05,Normal,10.257626431099936,High,Healthy Cow
+1,0.55,-0.27,10.49,26.71,Low,10.50787799700777,High,Sick (Attention Required)
+2,3.2,0.66,9.9,28.82,Normal,10.425238606382111,High,Healthy Cow
+1,0.23,-3.22,9.03,26.53,Low,9.589692382970373,Normal,Sick (Attention Required)
+2,2.99,0.28,9.74,28.76,Normal,10.192453090399779,High,Healthy Cow
+1,4.11,-0.84,14.35,26.52,Low,14.950591961524466,High,Sick (Attention Required)
+2,2.85,0.37,9.78,28.67,Normal,10.193517547932116,High,Healthy Cow
+1,1.11,-2.06,6.24,26.72,Low,6.6643304239810925,Low,Sick (Attention Required)
+2,-0.3,-0.75,8.08,28.64,Normal,8.120277088868335,Normal,Healthy Cow
+1,3.54,-0.47,10.45,26.87,Low,11.04332377502353,High,Sick (Attention Required)
+2,1.89,0.54,10.51,28.77,Normal,10.692230824294807,High,Healthy Cow
+1,1.19,-1.01,7.88,27.16,Normal,8.03309404899507,Normal,Healthy Cow
+2,2.43,-1.15,9.44,28.82,Normal,9.815345128929497,Normal,Healthy Cow
+1,3.49,-2.41,9.08,28.23,Normal,10.021706441519827,High,Healthy Cow
+2,3.13,-0.61,10.42,28.96,Normal,10.89703629433251,High,Healthy Cow
+1,3.38,-2.18,9.5,29.24,Normal,10.316336559069795,High,Healthy Cow
+2,2.42,-0.58,9.58,28.98,Normal,9.897939179445386,Normal,Healthy Cow
+1,3.13,-2.11,9.16,30.27,Normal,9.90730033863918,Normal,Healthy Cow
+1,3.3,-2.21,9.65,31.02,Normal,10.435353372071308,High,Healthy Cow
+2,-2.89,-2.01,12.17,29.25,Normal,12.668902872782631,High,Healthy Cow
+1,1.42,-0.4,9.82,31.81,Normal,9.930196372680653,Normal,Healthy Cow
+2,-0.57,1.15,10.27,29.68,Normal,10.349893719261082,High,Healthy Cow
+1,2.8,-1.19,9.57,32.49,Normal,10.04196195969692,High,Healthy Cow
+2,0.71,0.73,8.74,29.9,Normal,8.799124956494254,Normal,Healthy Cow
+1,2.91,0.51,8.23,32.77,Normal,8.744203794514398,Normal,Healthy Cow
+2,2.68,1.25,10.67,29.83,Normal,11.072208451794971,High,Healthy Cow
+1,2.32,-0.2,9.44,33.27,Normal,9.722962511498231,Normal,Healthy Cow
+2,-1.04,1.2,11.51,29.84,Normal,11.61902319474404,High,Healthy Cow
+1,2.27,-0.66,7.82,33.34,Normal,8.169510389246103,Normal,Healthy Cow
+2,3.38,-0.14,9.76,29.79,Normal,10.329646654169736,High,Healthy Cow
+1,3.11,-1.62,9.86,33.09,Normal,10.464994027709714,High,Healthy Cow
+2,3.27,-0.46,9.88,29.67,Normal,10.417240517526704,High,Healthy Cow
+1,2.36,2.37,13.68,32.8,Normal,14.082929382766924,High,Healthy Cow
+2,3.32,-0.37,9.77,29.51,Normal,10.325318397027763,High,Healthy Cow
+1,0.65,-3.16,11.97,32.9,Normal,12.397136766205332,High,Healthy Cow
+2,3.08,-0.5,9.57,29.57,Normal,10.065848200723076,High,Healthy Cow
+1,3.1,-1.05,9.72,32.87,Normal,10.256261502126398,High,Healthy Cow
+2,2.21,-1.1,8.38,29.54,Normal,8.736046016362323,Normal,Healthy Cow
+1,2.24,-0.64,9.73,32.34,Normal,10.005003748125235,High,Healthy Cow
+2,5.04,-0.21,11.26,29.51,Normal,12.338285942544855,High,Healthy Cow
+1,-1.43,-3.62,12.9,31.87,Normal,13.474394234992532,High,Healthy Cow
+2,2.63,0.51,10.08,29.45,Normal,10.429928091794306,High,Healthy Cow
+1,2.74,-3.51,12.99,31.34,Normal,13.731999126128724,High,Healthy Cow
+2,2.22,0.9,9.72,29.35,Normal,10.010834131080188,High,Healthy Cow
+1,-0.04,1.22,11.17,31.17,Normal,11.236498564944508,High,Healthy Cow
+2,0.53,-0.03,9.71,29.49,Normal,9.72449998714587,Normal,Healthy Cow
+1,0.75,-0.6,7.97,31.08,Normal,8.027664666638735,Normal,Healthy Cow
+2,1.72,0.91,9.63,29.58,Normal,9.824632308641378,Normal,Healthy Cow
+1,2.61,-1.69,8.42,30.84,Normal,8.975778517766578,Normal,Healthy Cow
+2,-2.34,3.61,8.26,29.63,Normal,9.313178834318602,Normal,Healthy Cow
+1,1.56,-3.72,9.83,30.22,Normal,10.62548351840988,High,Healthy Cow
+2,2.73,1.58,10.77,29.5,Normal,11.222397248360084,High,Healthy Cow
+1,3.51,-0.56,8.98,30.0,Normal,9.657851727998313,Normal,Healthy Cow
+2,1.38,2.05,11.87,29.3,Normal,12.124512361328186,High,Healthy Cow
+1,2.32,-2.73,9.99,29.74,Normal,10.612982615645802,High,Healthy Cow
+2,2.31,0.61,9.96,29.16,Normal,10.242548510990808,High,Healthy Cow
+1,3.61,-3.34,8.78,29.61,Normal,10.063602734607521,High,Healthy Cow
+2,0.59,1.03,10.17,29.12,Normal,10.239038040753634,High,Healthy Cow
+1,1.79,0.65,5.93,29.45,Normal,6.228282267206585,Low,Healthy Cow
+2,0.13,1.27,10.03,29.15,Normal,10.1109198394607,High,Healthy Cow
+1,2.3,1.15,10.39,29.29,Normal,10.703485413639802,High,Healthy Cow
+2,1.09,1.1,9.38,29.11,Normal,9.506971126494495,Normal,Healthy Cow
+1,2.92,2.26,8.98,29.21,Normal,9.709500502085573,Normal,Healthy Cow
+2,2.31,-0.22,10.98,29.19,Normal,11.222517542868891,High,Healthy Cow
+1,5.36,1.13,7.4,29.06,Normal,9.20687243313385,Normal,Healthy Cow
+2,1.07,1.0,10.38,29.25,Normal,10.482809737851776,High,Healthy Cow
+1,-1.06,3.28,9.17,28.95,Normal,9.796473855423695,Normal,Healthy Cow
+2,-0.82,0.72,9.35,29.34,Normal,9.413463762080353,Normal,Healthy Cow
+1,1.4,1.46,9.88,28.79,Normal,10.08493926605411,High,Healthy Cow
+2,-0.85,2.53,9.51,29.4,Normal,9.877423753185848,Normal,Healthy Cow
+1,1.69,-0.9,10.51,28.57,Normal,10.682986473828374,High,Healthy Cow
+2,2.25,2.42,9.64,29.47,Normal,10.190608421482988,High,Healthy Cow
+1,-2.32,-1.52,8.88,28.46,Normal,9.303074760529446,Normal,Healthy Cow
+2,2.72,-2.23,6.5,29.56,Normal,7.390622436574609,Normal,Healthy Cow
+1,1.42,-0.54,10.23,28.34,Normal,10.342190290262504,High,Healthy Cow
+2,2.44,0.83,10.14,29.41,Normal,10.462413679452748,High,Healthy Cow
+1,0.15,-0.21,10.13,28.24,Normal,10.133286732348987,High,Healthy Cow
+2,3.39,1.49,9.31,28.93,Normal,10.019396189391854,High,Healthy Cow
+1,-3.13,0.78,9.07,28.22,Normal,9.626536241037064,Normal,Healthy Cow
+2,0.72,3.42,8.8,28.85,Normal,9.468621863819466,Normal,Healthy Cow
+1,-1.27,0.76,9.93,28.28,Normal,10.039691230311817,High,Healthy Cow
+2,4.69,1.02,8.98,28.69,Normal,10.182185423571898,High,Healthy Cow
+1,-1.24,0.74,9.95,28.35,Normal,10.054237912442693,High,Healthy Cow
+2,4.59,1.22,9.39,28.51,Normal,10.522765796120334,High,Healthy Cow
+1,-1.22,0.73,9.93,28.27,Normal,10.031261137065469,High,Healthy Cow
+2,4.44,1.11,9.24,28.24,Normal,10.311319023286982,High,Healthy Cow
+1,-1.2,0.73,9.94,28.27,Normal,10.038749922176565,High,Healthy Cow
+2,2.72,-6.59,7.23,28.06,Normal,10.153787470692894,High,Healthy Cow
+1,-1.2,0.74,9.97,28.29,Normal,10.069185667172892,High,Healthy Cow
+2,2.85,-7.87,5.8,29.48,Normal,10.183290234496903,High,Healthy Cow
+1,-1.18,0.74,9.95,28.25,Normal,10.047014481924467,High,Healthy Cow
+2,3.53,-1.68,9.25,29.61,Normal,10.042200953974183,High,Healthy Cow
+1,-8.34,-0.63,10.14,28.23,Normal,13.144280124829965,High,Healthy Cow
+2,3.01,-1.65,11.28,29.35,Normal,11.790716687292592,High,Healthy Cow
+1,1.52,-4.17,9.34,27.97,Normal,10.34093322674506,High,Healthy Cow
+2,1.14,-1.7,8.69,29.17,Normal,8.927804881380416,Normal,Healthy Cow
+2,2.99,-2.66,9.44,29.08,Normal,10.253258018795782,High,Healthy Cow
+1,4.56,1.3,13.27,27.74,Normal,14.09171742549502,High,Healthy Cow
+2,1.02,-1.56,10.37,28.9,Normal,10.536171031261784,High,Healthy Cow
+1,6.04,-1.96,9.01,27.63,Normal,11.022853532547732,High,Healthy Cow
+2,3.83,-0.95,9.65,28.78,Normal,10.425636671206224,High,Healthy Cow
+1,1.32,-2.24,11.46,27.53,Normal,11.751238232628934,High,Healthy Cow
+2,2.42,-1.55,8.3,28.53,Normal,8.783444654576018,Normal,Healthy Cow
+1,0.29,-1.54,7.28,27.48,Normal,7.4467509693825535,Normal,Healthy Cow
+2,4.65,-1.32,9.91,28.39,Normal,11.026014692535105,High,Healthy Cow
+1,3.56,-0.73,5.59,27.35,Normal,6.667428289828095,Low,Healthy Cow
+2,1.87,0.21,11.08,28.22,Normal,11.238656503337042,High,Healthy Cow
+1,5.59,-2.97,11.32,27.37,Normal,12.969633765068311,High,Healthy Cow
+2,-0.99,0.39,11.23,28.0,Normal,11.280296981906107,High,Healthy Cow
+1,-0.3,-2.27,12.16,27.07,Normal,12.37370195212411,High,Healthy Cow
+2,3.01,-0.71,10.4,27.91,Normal,10.850078340731002,High,Healthy Cow
+1,1.46,-1.97,8.49,26.92,Low,8.837001753988737,Normal,Sick (Attention Required)
+2,2.68,-1.49,9.01,27.79,Normal,9.517489164690444,Normal,Healthy Cow
+1,2.45,1.22,9.22,26.85,Low,9.61765563949968,Normal,Sick (Attention Required)
+2,1.91,0.15,12.14,27.78,Normal,12.290248166737726,High,Healthy Cow
+1,-0.19,-2.18,11.38,26.85,Low,11.588481350030296,High,Sick (Attention Required)
+2,1.97,-1.91,11.82,27.84,Normal,12.1343067375108,High,Healthy Cow
+1,5.09,3.59,5.09,26.81,Low,8.04389830865607,Normal,Sick (Attention Required)
+2,1.28,0.25,7.9,27.87,Normal,8.00692824995953,Normal,Healthy Cow
+1,3.84,1.4,8.85,26.86,Low,9.748235737814305,Normal,Sick (Attention Required)
+2,3.42,0.27,10.52,27.99,Normal,11.065247398951367,High,Healthy Cow
+1,5.07,-1.08,9.54,26.86,Low,10.85738918893488,High,Sick (Attention Required)
+2,3.86,0.36,9.4,28.05,Normal,10.168047993592477,High,Healthy Cow
+1,1.91,-2.01,7.74,26.82,Low,8.221666497736331,Normal,Sick (Attention Required)
+2,0.29,1.02,13.33,28.01,Normal,13.372112772482888,High,Healthy Cow
+1,8.67,-1.52,10.81,26.83,Low,13.940423236042728,High,Sick (Attention Required)
+2,2.75,-0.56,8.82,27.9,Normal,9.255727956244176,Normal,Healthy Cow
+1,0.27,-0.47,10.0,26.88,Low,10.01467922601618,High,Sick (Attention Required)
+2,1.18,-0.04,10.89,27.77,Normal,10.953816686434005,High,Healthy Cow
+1,0.92,-4.93,7.59,26.85,Low,9.097219355385468,Normal,Sick (Attention Required)
+2,-0.06,-0.57,10.16,27.77,Normal,10.176153497269977,High,Healthy Cow
+1,4.96,-2.21,10.48,26.84,Low,11.803224135802896,High,Sick (Attention Required)
+2,1.77,-1.38,9.48,27.81,Normal,9.742058304075172,Normal,Healthy Cow
+1,2.97,-1.79,12.36,26.9,Low,12.837234904760448,High,Sick (Attention Required)
+2,4.32,-0.51,12.03,28.03,Normal,12.792318007304226,High,Healthy Cow
+1,3.75,-0.84,6.79,27.36,Normal,7.802063829526134,Normal,Healthy Cow
+2,1.36,0.35,8.57,28.58,Normal,8.684296171826476,Normal,Healthy Cow
+1,5.76,-1.11,8.82,27.92,Normal,10.592549268235668,High,Healthy Cow
+2,2.36,-0.44,8.56,29.01,Normal,8.8902643380273,Normal,Healthy Cow
+1,2.43,-1.73,9.04,28.19,Normal,9.519422251376392,Normal,Healthy Cow
+2,3.63,-1.58,10.09,29.58,Normal,10.838883706360171,High,Healthy Cow
+1,6.92,-0.26,11.16,28.31,Normal,13.133910308815118,High,Healthy Cow
+2,0.94,1.29,10.4,29.98,Normal,10.521772664337508,High,Healthy Cow
+1,1.37,-1.8,7.18,28.65,Normal,7.527901433998721,Normal,Healthy Cow
+2,2.29,4.02,12.85,30.18,Normal,13.657488788207003,High,Healthy Cow
+1,5.14,-1.5,10.84,28.69,Normal,12.090293627534445,High,Healthy Cow
+2,1.69,0.87,8.98,30.35,Normal,9.178965083276001,Normal,Healthy Cow
+1,2.82,-2.28,8.5,29.04,Normal,9.241255325982504,Normal,Healthy Cow
+2,4.91,-0.74,11.76,30.57,Normal,12.765316290636907,High,Healthy Cow
+1,6.92,-2.37,6.73,29.43,Normal,9.939627759629634,Normal,Healthy Cow
+2,1.19,2.54,11.06,30.72,Normal,11.410140227008606,High,Healthy Cow
+1,6.08,-2.66,10.75,29.24,Normal,12.633467457511417,High,Healthy Cow
+2,-0.55,1.71,12.14,30.55,Normal,12.272171771939961,High,Healthy Cow
+1,2.01,-1.15,8.6,28.75,Normal,8.90632359618715,Normal,Healthy Cow
+2,1.93,-0.53,10.79,30.16,Normal,10.97405576803763,High,Healthy Cow
+1,4.24,-2.23,8.35,28.47,Normal,9.626681671271779,Normal,Healthy Cow
+2,1.9,-0.37,8.35,29.87,Normal,8.571429285714256,Normal,Healthy Cow
+1,5.26,-2.36,9.98,28.15,Normal,11.525519511067603,High,Healthy Cow
+2,1.57,-1.15,8.03,29.6,Normal,8.262463313080428,Normal,Healthy Cow
+1,3.3,-1.43,6.89,27.95,Normal,7.772194027428806,Normal,Healthy Cow
+2,2.76,-0.81,8.35,29.47,Normal,8.83154573107109,Normal,Healthy Cow
+1,8.78,-3.83,12.91,27.79,Normal,16.075615073769338,High,Healthy Cow
+2,1.55,-1.46,8.92,29.34,Normal,9.170632475462092,Normal,Healthy Cow
+1,2.07,-1.24,4.81,27.71,Normal,5.381319540781796,Low,Healthy Cow
+2,2.34,-0.6,6.84,29.32,Normal,7.254047146248775,Normal,Healthy Cow
+1,3.17,-2.5,8.38,27.92,Normal,9.301790150288278,Normal,Healthy Cow
+2,2.54,-1.06,8.6,29.64,Normal,9.02968437986622,Normal,Healthy Cow
+1,7.07,-2.75,10.0,28.43,Normal,12.551788717151034,High,Healthy Cow
+2,1.89,0.03,10.24,30.42,Normal,10.413001488523854,High,Healthy Cow
+1,5.93,-1.91,10.96,29.02,Normal,12.606926667511,High,Healthy Cow
+2,0.86,-0.96,6.85,31.18,Normal,6.970200857938026,Low,Healthy Cow
+1,4.9,-1.68,8.13,29.58,Normal,9.639984439821468,Normal,Healthy Cow
+2,2.28,1.82,11.49,31.72,Normal,11.854572957302173,High,Healthy Cow
+1,4.48,-3.19,8.29,30.12,Normal,9.948396855775306,Normal,Healthy Cow
+2,2.34,1.28,8.21,32.3,Normal,8.632386691987334,Normal,Healthy Cow
+1,-0.03,-10.41,7.44,30.75,Normal,12.795413240689024,High,Healthy Cow
+2,3.47,-0.1,8.79,32.81,Normal,9.450661352519198,Normal,Healthy Cow
+1,0.77,-3.82,8.6,31.57,Normal,9.441678876132146,Normal,Healthy Cow
+2,3.03,0.67,8.75,33.07,Normal,9.283980827209845,Normal,Healthy Cow
+1,5.94,3.35,10.55,32.21,Normal,12.56218929964041,High,Healthy Cow
+2,1.82,2.71,11.27,33.12,Normal,11.733260416440094,High,Healthy Cow
+1,3.11,0.51,7.11,32.21,Normal,7.777165293344356,Normal,Healthy Cow
+2,1.44,0.23,9.28,33.21,Normal,9.393875664495459,Normal,Healthy Cow
+1,2.62,-3.53,8.09,32.17,Normal,9.207247145591346,Normal,Healthy Cow
+2,1.64,0.61,10.12,33.23,Normal,10.270155792391856,High,Healthy Cow
+1,1.36,4.05,8.51,31.82,Normal,9.522195125074889,Normal,Healthy Cow
+2,-0.5,0.9,10.35,33.0,Normal,10.40108167451828,High,Healthy Cow
+1,9.24,0.58,9.11,31.34,Normal,12.988691235070606,High,Healthy Cow
+2,3.68,0.11,9.52,32.64,Normal,10.207100469771031,High,Healthy Cow
+1,5.96,0.88,7.41,30.89,Normal,9.550083769266111,Normal,Healthy Cow
+2,-0.28,-0.05,14.25,32.28,Normal,14.252838313823672,High,Healthy Cow
+1,1.82,-0.79,5.65,30.49,Normal,5.988238472205328,Low,Healthy Cow
+2,1.69,0.21,9.88,32.02,Normal,10.025696983252587,High,Healthy Cow
+1,0.65,0.34,7.13,30.18,Normal,7.167635593415725,Normal,Healthy Cow
+2,0.92,0.01,14.11,31.81,Normal,14.13996463927686,High,Healthy Cow
+1,3.0,-1.14,7.35,29.77,Normal,8.020105984337114,Normal,Healthy Cow
+2,3.17,-1.1,12.9,31.54,Normal,13.329249791342347,High,Healthy Cow
+1,6.31,-5.33,12.64,29.46,Normal,15.09949005761453,High,Healthy Cow
+2,1.48,-0.17,10.25,31.2,Normal,10.357692793281716,High,Healthy Cow
+1,4.06,-0.48,8.74,29.21,Normal,9.648917037678373,Normal,Healthy Cow
+2,3.18,-0.42,12.09,30.95,Normal,12.508273262125353,High,Healthy Cow
+1,5.13,-0.41,6.96,29.02,Normal,8.65601524952446,Normal,Healthy Cow
+2,3.18,-0.1,11.67,30.8,Normal,12.095920800005263,High,Healthy Cow
+1,-0.55,-2.68,10.43,28.85,Normal,10.782847490343169,High,Healthy Cow
+2,0.04,-1.58,8.15,30.74,Normal,8.30183714607797,Normal,Healthy Cow
+1,4.64,2.02,9.79,28.69,Normal,11.020621579566189,High,Healthy Cow
+2,3.02,2.89,8.68,30.71,Normal,9.634048993024688,Normal,Healthy Cow
+2,2.07,0.28,10.02,24.33,Low,10.235414012144306,High,Sick (Attention Required)
+1,-0.81,-0.58,9.9,24.19,Low,9.950000000000001,Normal,Sick (Attention Required)
+2,2.06,0.28,10.05,24.35,Low,10.2627725298771,High,Sick (Attention Required)
+1,-0.79,-0.56,9.86,24.17,Low,9.907436600856954,Normal,Sick (Attention Required)
+2,2.04,0.3,10.03,24.37,Low,10.239750973534463,High,Sick (Attention Required)
+1,-0.81,-0.58,9.85,24.16,Low,9.90025252203195,Normal,Sick (Attention Required)
+2,2.06,0.3,10.04,24.39,Low,10.253545728185932,High,Sick (Attention Required)
+1,-0.79,-0.59,9.88,24.15,Low,9.929078507092187,Normal,Sick (Attention Required)
+2,2.07,0.27,10.03,24.43,Low,10.244935334105334,High,Sick (Attention Required)
+1,-0.83,-0.59,9.86,24.14,Low,9.91244672116829,Normal,Sick (Attention Required)
+2,1.11,-1.31,9.93,24.5,Low,10.077355803979534,High,Sick (Attention Required)
+1,-0.8,-0.59,9.87,24.15,Low,9.919929435232893,Normal,Sick (Attention Required)
+2,0.02,-0.22,10.64,24.66,Low,10.642292986006353,High,Sick (Attention Required)
+1,-3.1,0.29,10.41,24.16,Low,10.865643101077818,High,Sick (Attention Required)
+2,1.2,-0.53,9.28,24.87,Low,9.372262266923606,Normal,Sick (Attention Required)
+1,-2.11,-0.37,9.7,24.22,Low,9.93373041711924,Normal,Sick (Attention Required)
+2,3.9,0.74,9.44,25.12,Low,10.240664040969218,High,Sick (Attention Required)
+1,-0.77,4.66,8.68,24.23,Low,9.88184699335099,Normal,Sick (Attention Required)
+2,1.66,-2.27,9.57,25.37,Low,9.974637838037028,Normal,Sick (Attention Required)
+1,-2.85,5.05,7.87,24.28,Low,9.775576709330249,Normal,Sick (Attention Required)
+2,-0.76,-0.93,10.1,25.57,Low,10.171160209140352,High,Sick (Attention Required)
+1,-3.33,4.85,7.76,24.35,Low,9.738018278890218,Normal,Sick (Attention Required)
+2,-1.4,-0.3,10.12,25.77,Low,10.220782748889636,High,Sick (Attention Required)
+1,-3.65,4.62,7.59,24.42,Low,9.605987716002973,Normal,Sick (Attention Required)
+2,-0.36,-0.3,10.13,25.94,Low,10.140833299093325,High,Sick (Attention Required)
+1,-4.39,5.14,6.86,24.47,Low,9.630747634529731,Normal,Sick (Attention Required)
+2,-0.13,-0.32,11.73,26.07,Low,11.735084149676986,High,Sick (Attention Required)
+1,-4.6,5.12,6.84,24.49,Low,9.703607576566563,Normal,Sick (Attention Required)
+2,1.3,0.39,10.05,26.21,Low,10.141232666692941,High,Sick (Attention Required)
+1,-4.6,5.0,6.79,24.56,Low,9.6054203447845,Normal,Sick (Attention Required)
+2,-0.45,0.92,10.72,26.34,Low,10.768811447880402,High,Sick (Attention Required)
+1,-4.67,5.02,6.77,24.57,Low,9.63546573861378,Normal,Sick (Attention Required)
+2,1.89,-1.02,11.19,26.42,Low,11.394235384614449,High,Sick (Attention Required)
+1,-4.8,5.19,6.46,24.62,Low,9.576413733752318,Normal,Sick (Attention Required)
+2,3.1,0.33,10.03,26.55,Low,10.503323283608859,High,Sick (Attention Required)
+1,-5.01,4.79,6.79,24.65,Low,9.703004689270227,Normal,Sick (Attention Required)
+2,1.22,1.79,10.81,26.67,Low,11.02490816288281,High,Sick (Attention Required)
+1,2.06,5.47,7.93,24.68,Low,9.851365387599833,Normal,Sick (Attention Required)
+2,1.72,1.36,10.21,26.82,Low,10.442801348297305,High,Sick (Attention Required)
+1,-1.61,0.99,7.51,24.69,Low,7.744178458687532,Normal,Sick (Attention Required)
+2,1.73,0.71,9.88,27.02,Normal,10.055416450848767,High,Healthy Cow
+1,-2.15,1.05,9.61,24.71,Low,9.903388309058672,Normal,Sick (Attention Required)
+2,1.51,0.22,10.21,27.2,Normal,10.323400602514658,High,Healthy Cow
+1,-0.57,1.63,10.23,24.72,Low,10.374714453901852,High,Sick (Attention Required)
+2,1.74,-0.13,9.82,27.3,Normal,9.973810706044105,Normal,Healthy Cow
+1,-0.18,1.44,10.95,24.72,Low,11.045745787406117,High,Sick (Attention Required)
+2,0.65,1.64,10.83,27.39,Normal,10.972738947045082,High,Healthy Cow
+1,-2.02,0.53,11.68,24.69,Low,11.865230718363634,High,Sick (Attention Required)
+2,-0.27,0.09,10.53,27.46,Normal,10.533845451685723,High,Healthy Cow
+1,-0.48,-0.84,11.48,24.67,Low,11.520694423514582,High,Sick (Attention Required)
+2,2.18,0.84,9.88,27.53,Normal,10.152457830496022,High,Healthy Cow
+1,-0.36,1.34,9.84,24.65,Low,9.937343709462805,Normal,Sick (Attention Required)
+2,0.13,0.87,9.62,27.54,Normal,9.66013457463197,Normal,Healthy Cow
+1,0.8,1.39,10.18,24.67,Low,10.305556753518948,High,Sick (Attention Required)
+2,2.44,1.93,9.99,27.66,Normal,10.463202186711294,High,Healthy Cow
+1,1.28,0.71,9.17,24.64,Low,9.286086366171704,Normal,Sick (Attention Required)
+2,0.99,1.39,10.82,27.74,Normal,10.953748216934695,High,Healthy Cow
+1,-2.84,1.27,9.34,24.61,Low,9.844495924119222,Normal,Sick (Attention Required)
+2,2.24,0.6,10.28,27.75,Normal,10.538311060127233,High,Healthy Cow
+1,-0.22,-1.3,10.63,24.6,Low,10.711456483597365,High,Sick (Attention Required)
+2,2.52,0.52,9.83,27.83,Normal,10.161185954405125,High,Healthy Cow
+1,0.31,-0.71,10.73,24.6,Low,10.75793195739776,High,Sick (Attention Required)
+2,2.03,0.45,10.04,27.9,Normal,10.253048327204938,High,Healthy Cow
+1,1.75,1.77,10.18,24.58,Low,10.479875953464335,High,Sick (Attention Required)
+2,1.72,0.71,10.03,28.03,Normal,10.201146994333529,High,Healthy Cow
+1,0.43,1.47,10.14,24.59,Low,10.255018283747718,High,Sick (Attention Required)
+2,1.91,1.21,10.14,28.12,Normal,10.3890230532038,High,Healthy Cow
+1,0.95,1.54,9.82,24.61,Low,9.985314216387986,Normal,Sick (Attention Required)
+2,2.39,-0.08,10.03,28.21,Normal,10.311129908986695,High,Healthy Cow
+1,1.83,2.12,9.24,24.58,Low,9.655097099459953,Normal,Sick (Attention Required)
+2,2.33,-0.41,10.0,28.29,Normal,10.27604009334335,High,Healthy Cow
+1,1.37,2.6,9.48,24.63,Low,9.925084382512825,Normal,Sick (Attention Required)
+2,2.53,-0.27,10.05,28.4,Normal,10.367077698175123,High,Healthy Cow
+1,0.07,2.81,9.48,24.64,Low,9.887942151934345,Normal,Sick (Attention Required)
+2,2.66,0.26,10.02,28.5,Normal,10.370323042220045,High,Healthy Cow
+1,1.3,1.12,10.4,24.67,Low,10.540607193136458,High,Sick (Attention Required)
+2,1.83,0.02,9.72,28.56,Normal,9.890788643985879,Normal,Healthy Cow
+1,-0.57,3.59,9.41,24.67,Low,10.08767069248397,High,Sick (Attention Required)
+2,1.25,-0.97,10.21,28.59,Normal,10.331868175697947,High,Healthy Cow
+1,0.49,1.81,9.74,24.63,Low,9.918860821687137,Normal,Sick (Attention Required)
+2,1.52,-1.69,9.85,28.6,Normal,10.108857502210624,High,Healthy Cow
+1,-1.59,5.12,8.55,24.67,Low,10.091828377454702,High,Sick (Attention Required)
+2,-1.67,-4.93,9.27,28.52,Normal,10.631401600917913,High,Healthy Cow
+1,-1.36,8.16,5.46,25.66,Low,9.911952380837995,Normal,Sick (Attention Required)
+2,-2.06,-2.11,8.97,28.41,Normal,9.442277267693425,Normal,Healthy Cow
+1,-4.38,2.07,12.01,26.15,Low,12.95026640652616,High,Sick (Attention Required)
+2,0.09,-0.32,10.64,28.22,Normal,10.645191402694458,High,Healthy Cow
+1,-2.09,2.17,8.8,25.64,Low,9.301451499631657,Normal,Sick (Attention Required)
+2,-2.09,-4.71,7.98,27.99,Normal,9.499084166381515,Normal,Healthy Cow
+1,0.11,3.81,10.56,25.48,Low,11.226833925911615,High,Sick (Attention Required)
+2,-1.21,-3.83,8.23,27.82,Normal,9.157832713038603,Normal,Healthy Cow
+1,0.74,0.45,10.82,25.29,Low,10.854607316711185,High,Sick (Attention Required)
+2,-1.58,-1.97,9.76,27.68,Normal,10.081413591357117,High,Healthy Cow
+1,-1.05,3.07,9.4,25.14,Low,9.94421439833233,Normal,Sick (Attention Required)
+2,-1.46,-4.18,9.19,27.49,Normal,10.200985246533786,High,Healthy Cow
+1,2.55,1.26,8.94,25.11,Low,9.381561703682388,Normal,Sick (Attention Required)
+2,-1.8,-3.47,9.63,27.26,Normal,10.393161213028499,High,Healthy Cow
+1,2.35,2.39,9.5,24.99,Low,10.073956521645306,High,Sick (Attention Required)
+2,-1.65,-3.51,9.32,27.02,Normal,10.09480064191463,High,Healthy Cow
+1,1.01,2.21,8.31,24.94,Low,8.657961653876738,Normal,Sick (Attention Required)
+2,-2.32,-3.86,9.04,26.81,Low,10.099683163347253,High,Sick (Attention Required)
+1,3.06,1.75,11.08,24.88,Low,11.627230968721658,High,Sick (Attention Required)
+2,-1.07,-1.13,10.59,26.55,Low,10.703732993680289,High,Sick (Attention Required)
+1,2.63,-0.04,8.51,24.84,Low,8.907221789087773,Normal,Sick (Attention Required)
+2,-1.29,-1.94,9.09,26.32,Low,9.38380519831907,Normal,Sick (Attention Required)
+1,3.15,0.23,9.7,24.77,Low,10.201245022054906,High,Sick (Attention Required)
+2,-2.25,-3.11,9.2,26.17,Low,9.96868095587375,Normal,Sick (Attention Required)
+2,-1.36,-0.76,10.94,26.07,Low,11.050375559228744,High,Sick (Attention Required)
+1,3.79,0.37,9.04,24.67,Low,9.809311902473077,Normal,Sick (Attention Required)
+2,-2.23,-2.95,10.11,25.97,Low,10.76510566599325,High,Sick (Attention Required)
+1,0.21,3.66,8.64,24.59,Low,9.385590018746823,Normal,Sick (Attention Required)
+2,-1.57,-3.32,9.3,25.87,Low,9.99886493558144,Normal,Sick (Attention Required)
+1,-4.23,3.99,7.55,24.46,Low,9.529716679943848,Normal,Sick (Attention Required)
+2,-3.3,-3.71,8.49,25.82,Low,9.835354594522762,Normal,Sick (Attention Required)
+1,-2.0,3.71,11.8,24.35,Low,12.530127692884857,High,Sick (Attention Required)
+2,0.85,-2.21,8.72,25.6,Low,9.035762281069594,Normal,Sick (Attention Required)
+1,2.43,1.64,8.65,24.27,Low,9.133290754158656,Normal,Sick (Attention Required)
+2,-4.98,-4.99,13.57,25.22,Low,15.292004446768907,High,Sick (Attention Required)
+1,-1.52,0.85,11.08,24.2,Low,11.21602870895042,High,Sick (Attention Required)
+2,0.47,-2.79,5.03,24.92,Low,5.771126406517189,Low,Sick (Attention Required)
+1,0.51,-1.01,12.87,24.17,Low,12.919640087866224,High,Sick (Attention Required)
+2,-2.68,0.26,17.05,24.64,Low,17.26130064624332,High,Sick (Attention Required)
+1,2.96,-0.77,5.08,24.0,Low,5.929662722280248,Low,Sick (Attention Required)
+2,-0.06,-4.53,9.38,24.28,Low,10.416760532910413,High,Sick (Attention Required)
+1,0.91,1.73,10.14,23.96,Low,10.326693565706305,High,Sick (Attention Required)
+2,-2.08,-0.17,11.01,24.18,Low,11.206043012589234,High,Sick (Attention Required)
+1,2.66,1.28,7.69,23.89,Low,8.237117214171473,Normal,Sick (Attention Required)
+2,-1.53,-2.01,9.86,24.18,Low,10.178437994112848,High,Sick (Attention Required)
+1,2.47,-0.09,9.89,23.79,Low,10.194169902449145,High,Sick (Attention Required)
+2,-2.23,-3.22,10.8,24.25,Low,11.488311451209878,High,Sick (Attention Required)
+1,-1.42,-9.76,15.68,23.69,Low,18.52394126529233,High,Sick (Attention Required)
+2,-2.06,-4.69,9.07,24.19,Low,10.416554132725468,High,Sick (Attention Required)
+1,3.35,-0.02,10.94,23.65,Low,11.441437846704408,High,Sick (Attention Required)
+2,0.14,-1.1,8.98,24.19,Low,9.048204241726642,Normal,Sick (Attention Required)
+1,4.22,-1.23,15.16,23.62,Low,15.78438785635984,High,Sick (Attention Required)
+2,-4.4,-2.4,9.37,24.15,Low,10.626236398650276,High,Sick (Attention Required)
+1,1.98,0.53,8.85,23.5,Low,9.08426111469722,Normal,Sick (Attention Required)
+2,-2.37,-5.1,9.5,24.12,Low,11.03978713562902,High,Sick (Attention Required)
+1,2.08,0.98,9.48,23.46,Low,9.754855201385617,Normal,Sick (Attention Required)
+2,-1.96,-4.46,9.14,24.1,Low,10.357258324479504,High,Sick (Attention Required)
+1,4.31,-1.38,9.82,23.45,Low,10.8126268778683,High,Sick (Attention Required)
+2,-3.08,-4.66,10.54,24.07,Low,11.928688108924636,High,Sick (Attention Required)
+1,1.26,1.08,8.2,23.47,Low,8.366241689074013,Normal,Sick (Attention Required)
+2,-2.16,-3.38,8.82,24.07,Low,9.689293059867682,Normal,Sick (Attention Required)
+1,-0.64,3.78,9.67,23.64,Low,10.402254563314628,High,Sick (Attention Required)
+2,-2.36,-2.97,9.53,24.04,Low,10.257260842934627,High,Sick (Attention Required)
+1,-1.49,3.95,8.9,23.57,Low,9.850512677013313,Normal,Sick (Attention Required)
+2,-2.58,-1.44,8.96,24.04,Low,9.434595910795545,Normal,Sick (Attention Required)
+1,-4.33,6.02,7.53,25.29,Low,10.568358434496817,High,Sick (Attention Required)
+2,-2.64,-4.02,8.36,24.03,Low,9.644666920117043,Normal,Sick (Attention Required)
+1,-4.84,1.17,10.32,26.01,Low,11.458485938377722,High,Sick (Attention Required)
+2,-2.38,-6.09,7.49,24.07,Low,9.942464483215415,Normal,Sick (Attention Required)
+1,-4.11,1.23,8.66,26.43,Low,9.66439858449557,Normal,Sick (Attention Required)
+2,-2.43,-3.24,7.91,24.14,Low,8.886540384199016,Normal,Sick (Attention Required)
+1,0.84,3.85,7.04,26.67,Low,8.06781878824754,Normal,Sick (Attention Required)
+2,-1.13,-3.08,7.64,24.07,Low,8.314619654560273,Normal,Sick (Attention Required)
+1,-1.92,2.69,7.94,26.14,Low,8.600354643850451,Normal,Sick (Attention Required)
+2,-1.08,0.57,4.68,24.02,Low,4.836703422787053,Low,Sick (Attention Required)
+1,3.66,0.01,9.09,25.72,Low,9.799173434530077,Normal,Sick (Attention Required)
+2,1.48,-5.86,9.53,23.85,Low,11.284985600345266,High,Sick (Attention Required)
+1,2.66,4.73,7.67,25.35,Low,9.395605355696885,Normal,Sick (Attention Required)
+2,-2.56,-0.54,12.46,23.69,Low,12.731724156609742,High,Sick (Attention Required)
+1,1.12,1.25,9.18,25.07,Low,9.33216480780317,Normal,Sick (Attention Required)
+2,2.53,-3.81,8.62,23.53,Low,9.758145315581235,Normal,Sick (Attention Required)
+1,3.24,1.9,11.73,24.77,Low,12.316675687863183,High,Sick (Attention Required)
+2,1.77,-5.99,13.99,23.44,Low,15.321001925461664,High,Sick (Attention Required)
+1,0.75,0.39,8.58,24.47,Low,8.621542785372002,Normal,Sick (Attention Required)
+2,0.14,-0.37,5.04,23.32,Low,5.055501953317791,Low,Sick (Attention Required)
+1,2.96,2.08,6.77,24.28,Low,7.675995049503354,Normal,Sick (Attention Required)
+2,-1.77,-2.55,9.17,23.29,Low,9.681131132259289,Normal,Sick (Attention Required)
+1,3.67,0.2,11.89,24.07,Low,12.445119525340045,High,Sick (Attention Required)
+2,-2.06,-1.91,9.31,23.34,Low,9.72459767805332,Normal,Sick (Attention Required)
+1,2.33,1.65,10.07,23.93,Low,10.466914540589315,High,Sick (Attention Required)
+2,-2.29,-2.19,11.06,23.31,Low,11.504946762154097,High,Sick (Attention Required)
+2,0.24,-3.42,7.26,23.32,Low,8.02879816660003,Normal,Sick (Attention Required)
+1,4.22,1.45,13.41,23.59,Low,14.132904867719162,High,Sick (Attention Required)
+2,-2.7,-3.32,9.35,23.26,Low,10.282747687267252,High,Sick (Attention Required)
+1,3.56,1.79,8.83,23.52,Low,9.687445483717573,Normal,Sick (Attention Required)
+2,-1.62,-4.23,10.04,23.21,Low,11.014485916283155,High,Sick (Attention Required)
+1,3.67,0.79,9.08,23.39,Low,9.825446554737347,Normal,Sick (Attention Required)
+2,-1.45,-4.34,9.92,23.18,Low,10.924490834816972,High,Sick (Attention Required)
+1,3.77,-0.96,8.89,23.32,Low,9.703947650312218,Normal,Sick (Attention Required)
+2,-1.53,-3.49,9.2,23.22,Low,9.95796163880942,Normal,Sick (Attention Required)
+1,2.28,1.1,9.76,23.34,Low,10.082955915801675,High,Sick (Attention Required)
+2,-1.62,-2.97,9.65,23.3,Low,10.22583981881195,High,Sick (Attention Required)
+1,3.08,4.41,8.76,23.36,Low,10.279693575199603,High,Sick (Attention Required)
+2,-1.53,-3.2,7.31,23.27,Low,8.125084614944019,Normal,Sick (Attention Required)
+1,2.53,1.19,10.63,23.25,Low,10.99153765403185,High,Sick (Attention Required)
+2,-2.09,-2.63,11.64,23.25,Low,12.11505674770036,High,Sick (Attention Required)
+1,5.54,3.22,9.04,23.18,Low,11.080685899347566,High,Sick (Attention Required)
+2,-0.82,-2.67,8.15,23.25,Low,8.615323557475946,Normal,Sick (Attention Required)
+1,1.21,2.87,6.16,23.19,Low,6.9026516643968066,Low,Sick (Attention Required)
+2,0.72,-2.45,8.94,23.25,Low,9.297553441631836,Normal,Sick (Attention Required)
+1,0.59,-4.56,8.57,23.14,Low,9.725564250983076,Normal,Sick (Attention Required)
+2,-1.66,-2.88,9.64,23.25,Low,10.197038785843663,High,Sick (Attention Required)
+1,1.42,-0.35,9.33,23.14,Low,9.44392926699475,Normal,Sick (Attention Required)
+2,-3.1,-2.01,9.22,23.27,Low,9.932698525577026,Normal,Sick (Attention Required)
+1,1.56,0.65,9.62,23.15,Low,9.767317953256153,Normal,Sick (Attention Required)
+2,-2.88,-2.03,9.36,23.26,Low,10.001244922508397,High,Sick (Attention Required)
+1,2.04,-0.71,9.71,23.11,Low,9.947351406278962,Normal,Sick (Attention Required)
+2,-2.83,-2.06,9.2,23.29,Low,9.843398803258962,Normal,Sick (Attention Required)
+1,0.65,-1.27,12.81,23.15,Low,12.889200906184993,High,Sick (Attention Required)
+2,-2.92,-1.83,9.51,23.33,Low,10.115107513022291,High,Sick (Attention Required)
+1,0.81,-0.74,9.13,23.16,Low,9.19568377011737,Normal,Sick (Attention Required)
+2,-2.6,-1.76,9.49,23.38,Low,9.99588415299017,Normal,Sick (Attention Required)
+1,-0.83,-4.88,9.09,23.01,Low,10.350429942760831,High,Sick (Attention Required)
+2,-2.55,-1.81,9.31,23.75,Low,9.821135372246937,Normal,Sick (Attention Required)
+1,2.46,3.7,7.3,22.95,Low,8.545852795362205,Normal,Sick (Attention Required)
+2,-2.32,-1.45,9.75,25.46,Low,10.12656901423182,High,Sick (Attention Required)
+1,2.31,0.77,9.87,22.89,Low,10.165918551709924,High,Sick (Attention Required)
+2,-2.73,-1.82,9.71,26.24,Low,10.249360955688896,High,Sick (Attention Required)
+1,1.49,0.21,9.74,22.88,Low,9.855546661652006,Normal,Sick (Attention Required)
+2,-2.68,-1.27,9.48,26.34,Low,9.933060958234375,Normal,Sick (Attention Required)
+1,-0.44,2.36,9.66,22.87,Low,9.95383343240181,Normal,Sick (Attention Required)
+2,-2.56,-1.22,9.46,26.0,Low,9.875910084645366,Normal,Sick (Attention Required)
+1,-2.45,4.75,10.65,22.9,Low,11.915850787921105,High,Sick (Attention Required)
+2,-2.47,-0.95,9.8,25.95,Low,10.151029504439439,High,Sick (Attention Required)
+1,3.11,0.12,6.64,22.89,Low,7.3332189385017,Normal,Sick (Attention Required)
+2,-2.42,-0.78,9.8,26.25,Low,10.124465417986276,High,Sick (Attention Required)
+1,8.48,0.31,19.35,22.89,Low,21.12886651006154,High,Sick (Attention Required)
+2,-1.28,-1.89,8.22,25.91,Low,8.531055034402252,Normal,Sick (Attention Required)
+1,0.15,-7.78,12.88,22.92,Low,15.048099547783435,High,Sick (Attention Required)
+2,-2.07,-2.96,10.52,25.47,Low,11.122809896784174,High,Sick (Attention Required)
+1,5.27,0.56,8.44,22.99,Low,9.965947019726725,Normal,Sick (Attention Required)
+2,-1.86,-1.67,9.69,25.1,Low,10.00722738824296,High,Sick (Attention Required)
+1,2.31,0.65,8.7,22.97,Low,9.024887810937042,Normal,Sick (Attention Required)
+1,1.1,3.31,11.12,22.96,Low,11.654205249608399,High,Sick (Attention Required)
+2,-3.35,-3.15,9.66,24.54,Low,10.69862608001607,High,Sick (Attention Required)
+1,4.67,-3.11,12.94,22.97,Low,14.104063244327854,High,Sick (Attention Required)
+2,-0.81,-3.54,9.31,24.26,Low,9.993187679614548,Normal,Sick (Attention Required)
+1,2.58,-0.16,6.88,22.95,Low,7.349585022298878,Normal,Sick (Attention Required)
+2,-2.74,-1.62,9.55,24.09,Low,10.066503861818164,High,Sick (Attention Required)
+1,-0.76,3.35,8.0,22.98,Low,8.706325286824516,Normal,Sick (Attention Required)
+2,1.22,-3.11,8.07,23.9,Low,8.73415136117986,Normal,Sick (Attention Required)
+1,-2.32,-2.65,6.28,22.89,Low,7.200229163019744,Normal,Sick (Attention Required)
+2,-0.2,-5.6,8.56,23.79,Low,10.231011680180996,High,Sick (Attention Required)
+1,-4.51,-0.84,8.52,22.94,Low,9.67657480723422,Normal,Sick (Attention Required)
+2,-0.82,-6.28,6.7,23.72,Low,9.219587843282367,Normal,Sick (Attention Required)
+1,-7.85,-6.24,5.93,22.88,Low,11.650107295643247,High,Sick (Attention Required)
+2,-0.6,-5.39,8.51,23.71,Low,10.091194181066976,High,Sick (Attention Required)
+1,-8.88,-15.1,-0.01,22.87,Low,17.51754834444592,High,Sick (Attention Required)
+2,0.23,-7.39,6.45,23.64,Low,9.811600277222874,Normal,Sick (Attention Required)
+1,-4.87,-8.03,11.53,22.84,Low,14.870733001436076,High,Sick (Attention Required)
+2,2.62,-3.99,9.06,23.61,Low,10.240512682478354,High,Sick (Attention Required)
+1,-6.08,-9.36,5.13,22.8,Low,12.283847117251176,High,Sick (Attention Required)
+2,0.74,-5.99,8.88,23.57,Low,10.736950218753927,High,Sick (Attention Required)
+1,-4.5,-6.83,6.97,22.79,Low,10.7461527999559,High,Sick (Attention Required)
+2,-0.39,-4.36,8.33,23.53,Low,9.410132836469419,Normal,Sick (Attention Required)
+1,1.74,-8.86,1.5,22.78,Low,9.152988582971137,Normal,Sick (Attention Required)
+2,0.23,-3.58,9.45,23.52,Low,10.108006727342438,High,Sick (Attention Required)
+1,0.18,-7.74,5.84,22.75,Low,9.697711070144337,Normal,Sick (Attention Required)
+2,0.82,-3.96,7.87,23.47,Low,8.84821450915381,Normal,Sick (Attention Required)
+1,0.09,-8.39,5.09,22.81,Low,9.813679228505485,Normal,Sick (Attention Required)
+2,-0.14,-4.08,9.31,23.39,Low,10.165731650992958,High,Sick (Attention Required)
+1,2.0,3.68,9.18,22.87,Low,10.09033200643071,High,Sick (Attention Required)
+2,-0.69,-5.8,8.72,23.37,Low,10.49545139572377,High,Sick (Attention Required)
+1,3.02,2.3,7.06,22.91,Low,8.015859280201967,Normal,Sick (Attention Required)
+2,-0.27,-5.33,8.37,23.34,Low,9.926666107006923,Normal,Sick (Attention Required)
+1,3.5,-0.47,8.4,22.94,Low,9.112129279153145,Normal,Sick (Attention Required)
+2,0.41,-4.4,9.82,23.3,Low,10.76849571667278,High,Sick (Attention Required)
+1,0.09,3.68,9.0,22.96,Low,9.723708140416392,Normal,Sick (Attention Required)
+2,0.12,-6.26,8.01,23.29,Low,10.166715300430125,High,Sick (Attention Required)
+1,5.0,3.88,8.41,22.99,Low,10.525326598258127,High,Sick (Attention Required)
+2,-0.02,-6.35,7.85,23.31,Low,10.096801473734144,High,Sick (Attention Required)
+1,4.91,3.26,8.48,23.09,Low,10.326959862418368,High,Sick (Attention Required)
+2,0.13,-6.11,7.97,23.33,Low,10.043400818447903,High,Sick (Attention Required)
+1,3.87,0.81,13.81,23.12,Low,14.364856421141146,High,Sick (Attention Required)
+2,0.21,-5.9,8.35,23.38,Low,10.226270092267269,High,Sick (Attention Required)
+1,3.48,6.32,7.13,23.19,Low,10.143456018537272,High,Sick (Attention Required)
+2,0.14,-5.75,8.46,23.42,Low,10.230039100609538,High,Sick (Attention Required)
+1,2.88,6.97,6.66,23.27,Low,10.061356767354987,High,Sick (Attention Required)
+2,-0.17,-5.74,8.43,23.44,Low,10.200068627220112,High,Sick (Attention Required)
+1,2.82,2.56,9.27,23.38,Low,10.021920973545939,High,Sick (Attention Required)
+2,-0.42,-5.63,8.46,23.5,Low,10.170786596915699,High,Sick (Attention Required)
+1,-3.47,3.9,6.9,23.39,Low,8.652219368462639,Normal,Sick (Attention Required)
+2,-0.49,-5.72,8.45,23.54,Low,10.21572317557597,High,Sick (Attention Required)
+1,0.3,3.21,11.23,23.47,Low,11.683621014052108,High,Sick (Attention Required)
+2,-0.44,-5.28,8.53,23.57,Low,10.041558643955629,High,Sick (Attention Required)
+1,1.09,2.27,9.69,23.55,Low,10.011847981266994,High,Sick (Attention Required)
+2,-0.77,-1.46,10.37,23.58,Low,10.50054284311054,High,Sick (Attention Required)
+1,1.23,1.64,9.78,23.52,Low,9.992542219075183,Normal,Sick (Attention Required)
+2,-0.44,-1.46,10.05,23.6,Low,10.16502336445913,High,Sick (Attention Required)
+1,0.73,2.26,9.62,23.53,Low,9.908829396048757,Normal,Sick (Attention Required)
+2,0.11,-1.54,9.68,23.59,Low,9.802351758634252,Normal,Sick (Attention Required)
+1,2.9,0.35,9.92,23.52,Low,10.341126631078453,High,Sick (Attention Required)
+2,0.13,-1.47,10.06,23.59,Low,10.167664431913556,High,Sick (Attention Required)
+1,2.21,1.07,9.69,23.48,Low,9.996254298486008,Normal,Sick (Attention Required)
+2,0.32,-1.89,9.98,23.57,Low,10.162425891488706,High,Sick (Attention Required)
+1,-3.27,1.66,9.02,23.41,Low,9.736986186700687,Normal,Sick (Attention Required)
+2,1.21,-1.65,9.52,23.57,Low,9.737402117608166,Normal,Sick (Attention Required)
+1,-2.94,1.26,9.43,23.44,Low,9.957715601482098,Normal,Sick (Attention Required)
+2,-0.29,-1.57,9.93,23.52,Low,10.05752951772949,High,Sick (Attention Required)
+1,-3.78,3.71,8.2,23.43,Low,9.761787746104705,Normal,Sick (Attention Required)
+2,2.01,0.2,9.31,23.54,Low,9.526604851677224,Normal,Sick (Attention Required)
+1,-1.31,2.12,9.53,23.44,Low,9.850451766289707,Normal,Sick (Attention Required)
+2,0.79,-9.91,-0.19,23.47,Low,9.943253994543236,Normal,Sick (Attention Required)
+1,1.73,1.35,8.67,23.44,Low,8.943394210253732,Normal,Sick (Attention Required)
+2,4.77,-8.38,4.63,23.33,Low,10.696457357461862,High,Sick (Attention Required)
+1,2.09,1.76,9.38,23.44,Low,9.769856703145651,Normal,Sick (Attention Required)
+2,0.57,-9.93,0.31,23.24,Low,9.951175809923168,Normal,Sick (Attention Required)
+1,7.1,3.35,6.61,23.46,Low,10.26277740185375,High,Sick (Attention Required)
+2,2.56,-9.71,2.17,23.11,Low,10.273587494152178,High,Sick (Attention Required)
+1,0.32,1.38,11.93,23.44,Low,12.01381288351038,High,Sick (Attention Required)
+2,-5.54,-7.61,-1.8,23.03,Low,9.583511882394678,Normal,Sick (Attention Required)
+1,3.17,-0.42,10.73,23.4,Low,11.196347618754967,High,Sick (Attention Required)
+2,-5.23,-7.82,-2.0,22.99,Low,9.61796756076875,Normal,Sick (Attention Required)
+1,3.9,1.45,7.72,23.41,Low,8.76988597417321,Normal,Sick (Attention Required)
+2,-6.67,-6.62,-1.45,22.97,Low,9.508722311646292,Normal,Sick (Attention Required)
+1,-4.64,-1.05,8.42,23.42,Low,9.671013390539793,Normal,Sick (Attention Required)
+2,-6.66,-6.74,-0.99,22.95,Low,9.526977485015907,Normal,Sick (Attention Required)
+1,-4.17,-1.55,8.42,23.43,Low,9.52301422869881,Normal,Sick (Attention Required)
+2,-6.03,-7.33,-0.94,22.91,Low,9.5379976934365,Normal,Sick (Attention Required)
+1,-5.1,-1.12,8.17,23.35,Low,9.69604558570142,Normal,Sick (Attention Required)
+2,-5.5,-7.55,-2.12,22.83,Low,9.578460210284323,Normal,Sick (Attention Required)
+1,-4.89,-1.21,8.29,23.2,Low,9.700530913305725,Normal,Sick (Attention Required)
+2,-5.18,-7.69,-2.18,22.82,Low,9.524751965274476,Normal,Sick (Attention Required)
+1,-1.8,1.36,7.88,23.05,Low,8.196584654598524,Normal,Sick (Attention Required)
+2,-4.81,-7.99,-2.28,22.73,Low,9.600760386552723,Normal,Sick (Attention Required)
+1,-0.87,-4.13,13.35,22.93,Low,14.00129636855102,High,Sick (Attention Required)
+2,-4.49,-7.77,-3.28,22.7,Low,9.554653316578262,Normal,Sick (Attention Required)
+1,2.36,1.3,8.18,22.89,Low,8.612316761475974,Normal,Sick (Attention Required)
+2,-5.63,-7.44,-2.02,22.71,Low,9.54625057286891,Normal,Sick (Attention Required)
+1,0.93,4.03,9.46,22.83,Low,10.324601687232299,High,Sick (Attention Required)
+2,0.87,-4.92,6.73,22.64,Low,8.38189715995132,Normal,Sick (Attention Required)
+1,3.21,2.44,7.49,22.81,Low,8.506338812908878,Normal,Sick (Attention Required)
+2,-1.16,0.99,10.64,22.71,Low,10.748734809269415,High,Sick (Attention Required)
+1,2.01,-0.77,14.95,22.83,Low,15.104155057466802,High,Sick (Attention Required)
+2,-0.72,0.08,10.11,22.79,Low,10.135921270412473,High,Sick (Attention Required)
+1,3.08,0.61,7.62,22.83,Low,8.241535051190404,Normal,Sick (Attention Required)
+2,3.88,-2.99,9.31,22.88,Low,10.520009505699127,High,Sick (Attention Required)
+1,-2.15,-4.1,6.92,22.84,Low,8.325797259121796,Normal,Sick (Attention Required)
+2,3.7,-4.45,7.67,22.89,Low,9.608402572748501,Normal,Sick (Attention Required)
+1,1.21,-1.84,9.38,22.86,Low,9.635045407261972,Normal,Sick (Attention Required)
+2,2.08,-0.98,8.72,22.91,Low,9.018048569396818,Normal,Sick (Attention Required)
+1,-0.73,-2.72,9.54,22.88,Low,9.947004574242438,Normal,Sick (Attention Required)
+2,-0.65,-2.57,10.5,22.9,Low,10.829469054390431,High,Sick (Attention Required)
+1,-0.67,4.92,8.6,22.85,Low,9.930523651852404,Normal,Sick (Attention Required)
+2,-0.16,-2.8,9.51,22.94,Low,9.914923096020463,Normal,Sick (Attention Required)
+1,-2.91,6.38,7.09,25.34,Low,9.971990774163402,Normal,Sick (Attention Required)
+2,-0.71,-3.44,8.71,22.97,Low,9.391581336494937,Normal,Sick (Attention Required)
+1,-2.3,4.8,7.95,26.11,Low,9.567261886245197,Normal,Sick (Attention Required)
+2,1.77,-2.4,9.9,23.0,Low,10.339385861839183,High,Sick (Attention Required)
+1,-2.14,4.8,8.14,26.56,Low,9.68912792773426,Normal,Sick (Attention Required)
+2,3.57,-4.4,9.63,22.98,Low,11.173262728496097,High,Sick (Attention Required)
+1,-2.15,4.44,8.29,26.89,Low,9.646771480656106,Normal,Sick (Attention Required)
+2,10.56,-4.83,1.85,22.98,Low,11.75861386388719,High,Sick (Attention Required)
+1,-2.27,4.63,8.26,27.16,Normal,9.737422656945727,Normal,Healthy Cow
+2,2.63,-0.51,9.6,22.95,Low,9.966794870970306,Normal,Sick (Attention Required)
+1,-0.27,4.51,8.7,27.27,Normal,9.80321375876299,Normal,Healthy Cow
+2,-0.42,1.36,8.84,22.99,Low,8.953859503029964,Normal,Sick (Attention Required)
+1,-0.09,4.18,8.81,27.4,Normal,9.751748561155583,Normal,Healthy Cow
+2,0.65,-0.63,8.7,22.88,Low,8.746965187995205,Normal,Sick (Attention Required)
+1,-0.01,4.05,8.94,27.52,Normal,9.81459117844447,Normal,Healthy Cow
+1,0.2,4.31,8.81,27.58,Normal,9.809801221227676,Normal,Healthy Cow
+1,0.66,4.28,8.81,27.67,Normal,9.816827389742574,Normal,Healthy Cow
+2,1.04,-5.28,13.16,22.74,Low,14.217791671001514,High,Sick (Attention Required)
+1,-0.52,4.58,8.61,27.72,Normal,9.766212162348307,Normal,Healthy Cow
+2,-0.32,-1.24,10.24,22.79,Low,10.319767439240092,High,Sick (Attention Required)
+1,-2.13,5.18,7.86,27.84,Normal,9.65136777871406,Normal,Healthy Cow
+2,-1.09,-0.17,9.34,22.81,Low,9.404924242119124,Normal,Sick (Attention Required)
+1,-2.24,4.85,8.03,27.93,Normal,9.644739498814884,Normal,Healthy Cow
+2,1.05,-1.21,11.3,22.83,Low,11.413001358100331,High,Sick (Attention Required)
+1,-2.16,5.01,7.92,28.03,Normal,9.617281320622787,Normal,Healthy Cow
+2,1.1,-4.82,8.7,22.82,Low,10.006617810229388,High,Sick (Attention Required)
+1,-2.07,4.91,7.98,28.1,Normal,9.59548852325925,Normal,Healthy Cow
+2,1.77,-1.9,9.26,22.84,Low,9.617198136671616,Normal,Sick (Attention Required)
+1,-1.78,4.98,8.07,28.13,Normal,9.648507656627528,Normal,Healthy Cow
+2,6.31,0.65,8.65,22.96,Low,10.726653718658023,High,Sick (Attention Required)
+1,-1.78,4.78,8.15,28.13,Normal,9.614535870233155,Normal,Healthy Cow
+2,4.9,0.84,8.43,23.2,Low,9.786751248499167,Normal,Sick (Attention Required)
+1,-2.24,5.06,7.72,28.11,Normal,9.49839986524046,Normal,Healthy Cow
+2,5.19,-0.12,9.05,23.33,Low,10.433264110526485,High,Sick (Attention Required)
+1,-2.23,5.24,7.72,28.09,Normal,9.593169444974897,Normal,Healthy Cow
+2,4.78,-1.0,7.38,23.43,Low,8.849451960432352,Normal,Sick (Attention Required)
+1,-2.34,5.21,7.83,28.03,Normal,9.691676841496522,Normal,Healthy Cow
+2,6.34,-1.19,7.98,23.52,Low,10.261193887652645,High,Sick (Attention Required)
+1,-2.29,5.18,7.78,27.93,Normal,9.623143976892376,Normal,Healthy Cow
+2,1.52,-3.56,10.63,23.59,Low,11.312864358773158,High,Sick (Attention Required)
+1,-1.18,4.58,8.57,27.86,Normal,9.788447272167328,Normal,Healthy Cow
+2,0.27,-3.09,9.93,31.91,Normal,10.403167786784946,High,Healthy Cow
+1,1.72,-2.17,9.66,31.96,Normal,10.049024828310456,High,Healthy Cow
+2,-0.19,-2.79,9.62,31.95,Normal,10.018213413578291,High,Healthy Cow
+1,2.15,-2.45,9.53,31.82,Normal,10.072035544019888,High,Healthy Cow
+2,0.87,-4.02,10.34,31.68,Normal,11.128023184735014,High,Healthy Cow
+1,5.22,-8.94,0.44,31.41,Normal,10.361737306069866,High,Healthy Cow
+2,0.45,-2.5,9.76,31.33,Normal,10.085142537416116,High,Healthy Cow
+1,0.05,-0.03,9.64,31.55,Normal,9.640176346934739,Normal,Healthy Cow
+2,0.21,-2.61,10.02,31.13,Normal,10.356476234704543,High,Healthy Cow
+1,-1.63,1.59,9.62,31.37,Normal,9.88581812497074,Normal,Healthy Cow
+2,5.22,1.78,10.38,31.1,Normal,11.754199249629895,High,Healthy Cow
+1,-0.29,-0.06,10.24,31.19,Normal,10.244281331552742,High,Healthy Cow
+2,4.51,0.44,9.52,32.12,Normal,10.543438717989496,High,Healthy Cow
+1,-0.72,0.75,9.82,31.08,Normal,9.874882277779315,Normal,Healthy Cow
+2,4.53,1.34,8.73,32.85,Normal,9.926197660735959,Normal,Healthy Cow
+1,-0.95,1.06,9.63,31.06,Normal,9.73462890920861,Normal,Healthy Cow
+2,2.79,0.0,9.81,33.34,Normal,10.199029365581806,High,Healthy Cow
+1,-4.31,0.82,10.51,31.18,Normal,11.388968346606289,High,Healthy Cow
+2,5.6,1.44,8.27,33.69,Normal,10.090911752661402,High,Healthy Cow
+1,-0.04,-1.37,9.68,31.25,Normal,9.776548470702735,Normal,Healthy Cow
+2,5.81,1.48,8.27,33.96,Normal,10.214665926989486,High,Healthy Cow
+1,-0.1,-0.96,9.85,32.0,Normal,9.897176365004313,Normal,Healthy Cow
+2,4.38,0.8,9.1,34.01,High,10.130863734154161,High,Sick (Attention Required)
+1,0.28,-0.86,9.83,32.1,Normal,9.871519639852822,Normal,Healthy Cow
+2,4.19,0.81,9.42,34.13,High,10.341595621566336,High,Sick (Attention Required)
+1,-0.52,0.76,9.78,32.49,Normal,9.823258115309807,Normal,Healthy Cow
+2,3.78,0.9,9.45,34.13,High,10.217675860977387,High,Sick (Attention Required)
+1,-1.87,0.77,9.31,32.69,Normal,9.527113938648997,Normal,Healthy Cow
+2,3.94,0.83,9.52,34.17,High,10.336483928299796,High,Sick (Attention Required)
+1,-3.64,0.76,8.76,32.91,Normal,9.516553998165513,Normal,Healthy Cow
+2,6.7,-1.09,8.04,33.87,Normal,10.522342895002044,High,Healthy Cow
+1,-4.57,1.56,8.18,33.04,Normal,9.498994683649423,Normal,Healthy Cow
+2,6.06,-0.92,8.05,33.72,Normal,10.117929630117024,High,Healthy Cow
+1,-3.11,2.96,8.49,33.02,Normal,9.513874079469415,Normal,Healthy Cow
+2,5.58,-0.68,8.54,33.74,Normal,10.22401095461072,High,Healthy Cow
+1,-4.17,2.88,7.76,32.96,Normal,9.268273841444262,Normal,Healthy Cow
+2,4.98,-0.54,8.91,33.96,Normal,10.221550762971342,High,Healthy Cow
+1,-3.77,2.22,7.79,32.91,Normal,8.934506141919654,Normal,Healthy Cow
+2,4.67,-0.45,9.06,34.21,High,10.20269572220989,High,Sick (Attention Required)
+1,-2.93,2.05,8.36,32.86,Normal,9.092689371137672,Normal,Healthy Cow
+2,4.72,-0.12,9.11,34.38,High,10.260843045286288,High,Sick (Attention Required)
+1,-2.38,1.43,8.48,32.9,Normal,8.922987167983601,Normal,Healthy Cow
+2,4.65,-0.09,9.23,34.54,High,10.335545462141802,High,Sick (Attention Required)
+1,-3.24,1.99,8.9,32.95,Normal,9.678207478660498,Normal,Healthy Cow
+2,6.47,2.95,7.6,34.52,High,10.407852804493345,High,Sick (Attention Required)
+1,-2.47,2.63,8.56,33.03,Normal,9.28931644417392,Normal,Healthy Cow
+2,6.83,3.06,6.86,34.64,High,10.152443055737866,High,Sick (Attention Required)
+1,-3.96,2.52,8.32,33.09,Normal,9.55271689102111,Normal,Healthy Cow
+2,5.78,3.36,7.63,34.69,High,10.144698122664863,High,Sick (Attention Required)
+1,-3.74,2.44,8.4,33.14,Normal,9.5132118656109,Normal,Healthy Cow
+2,3.44,4.49,8.34,34.42,High,10.07716726069385,High,Sick (Attention Required)
+1,-1.86,1.72,9.26,33.15,Normal,9.600291662236101,Normal,Healthy Cow
+2,3.47,4.33,8.57,34.51,High,10.209539656615277,High,Sick (Attention Required)
+1,-3.14,2.19,9.26,33.21,Normal,10.02014470953389,High,Healthy Cow
+2,3.12,4.14,8.81,34.63,High,10.222039913833246,High,Sick (Attention Required)
+1,-2.77,1.73,9.01,33.21,Normal,9.58362666217753,Normal,Healthy Cow
+2,2.54,0.78,9.88,34.61,High,10.231050776924139,High,Sick (Attention Required)
+1,-2.99,1.1,9.34,33.12,Normal,9.868419326315637,Normal,Healthy Cow
+2,1.84,0.3,6.15,34.16,High,6.426359778288172,Low,Sick (Attention Required)
+1,-2.51,1.23,9.4,33.02,Normal,9.806783366629448,Normal,Healthy Cow
+2,4.87,0.55,8.87,34.21,High,10.133918294519647,High,Sick (Attention Required)
+1,2.32,3.39,8.96,33.47,Normal,9.85677939288488,Normal,Healthy Cow
+2,2.75,-0.43,9.78,33.64,Normal,10.16837253448161,High,Healthy Cow
+1,-1.7,0.64,9.47,33.59,Normal,9.642639680087607,Normal,Healthy Cow
+2,2.85,-0.49,9.92,33.39,Normal,10.332908593421312,High,Healthy Cow
+1,-2.17,0.72,9.64,33.75,Normal,9.907416413979984,Normal,Healthy Cow
+2,3.33,-0.18,9.76,33.32,Normal,10.31401473723981,High,Healthy Cow
+1,-1.65,-0.35,9.64,33.86,Normal,9.786449815944493,Normal,Healthy Cow
+2,2.74,-0.54,9.74,33.17,Normal,10.132462681895257,High,Healthy Cow
+1,-0.97,0.36,9.73,33.87,Normal,9.78485564533274,Normal,Healthy Cow
+2,3.62,-0.48,9.48,32.88,Normal,10.158996013386362,High,Healthy Cow
+1,-1.29,0.09,9.71,33.99,Normal,9.795728661003224,Normal,Healthy Cow
+2,3.59,-0.7,9.63,33.29,Normal,10.301213520745991,High,Healthy Cow
+1,-1.6,0.56,9.48,34.21,High,9.63036863261215,Normal,Sick (Attention Required)
+2,2.97,-0.52,9.83,33.58,Normal,10.28203287292936,High,Healthy Cow
+1,-1.84,0.98,9.35,34.52,High,9.57958767379891,Normal,Sick (Attention Required)
+2,3.76,-0.6,9.51,33.84,Normal,10.243910386175779,High,Healthy Cow
+1,-2.0,1.1,9.37,34.82,High,9.644008502692227,Normal,Sick (Attention Required)
+2,3.82,-0.65,9.85,33.92,Normal,10.5847720806827,High,Healthy Cow
+1,1.21,-0.09,9.49,35.2,High,9.567251433928138,Normal,Sick (Attention Required)
+2,4.1,-0.1,9.41,34.07,High,10.264896492415303,High,Sick (Attention Required)
+1,3.06,-1.65,8.89,35.75,High,9.545585367068906,Normal,Sick (Attention Required)
+2,4.48,-0.14,9.26,34.27,High,10.287740276659399,High,Sick (Attention Required)
+1,3.55,-1.56,9.19,36.36,High,9.974577685295754,Normal,Sick (Attention Required)
+2,0.15,4.15,8.41,34.18,High,9.379397635242894,Normal,Sick (Attention Required)
+1,4.57,-2.46,8.27,36.82,High,9.763677585827995,Normal,Sick (Attention Required)
+2,1.24,2.14,10.23,34.47,High,10.524737526418415,High,Sick (Attention Required)
+1,2.4,-2.37,9.65,37.3,High,10.22249480312903,High,Sick (Attention Required)
+2,-0.5,0.78,9.84,34.72,High,9.883521639577665,Normal,Sick (Attention Required)
+1,1.84,1.65,12.92,37.67,High,13.154257865801476,High,Sick (Attention Required)
+2,0.2,0.36,10.62,34.4,High,10.627981934497253,High,Sick (Attention Required)
+1,1.97,-3.85,8.97,37.87,High,9.95812733399207,Normal,Sick (Attention Required)
+2,1.2,2.2,9.82,34.43,High,10.134712625427522,High,Sick (Attention Required)
+1,1.42,-0.43,10.27,37.52,High,10.376617946132544,High,Sick (Attention Required)
+2,6.58,0.87,6.09,34.5,High,9.007852130225052,Normal,Sick (Attention Required)
+1,7.72,-0.04,2.01,37.19,High,7.977474537721823,Normal,Sick (Attention Required)
+2,2.45,-0.54,9.79,34.47,High,10.106344541920189,High,Sick (Attention Required)
+1,8.23,-2.49,3.02,37.25,High,9.113363813653002,Normal,Sick (Attention Required)
+1,5.36,-1.61,6.51,37.59,High,8.58497524748907,Normal,Sick (Attention Required)
+2,2.74,1.4,10.02,34.72,High,10.481793739623004,High,Sick (Attention Required)
+1,5.66,-0.31,6.71,37.43,High,8.783837430189608,Normal,Sick (Attention Required)
+2,3.23,2.15,9.12,34.8,High,9.911094793210284,Normal,Sick (Attention Required)
+1,6.17,-0.35,5.89,37.11,High,8.537183376266437,Normal,Sick (Attention Required)
+2,2.66,1.36,9.62,34.59,High,10.073212000151688,High,Sick (Attention Required)
+1,5.74,-3.72,6.28,37.26,High,9.285709450548191,Normal,Sick (Attention Required)
+2,1.0,2.51,9.67,34.25,High,10.04036851913315,High,Sick (Attention Required)
+1,3.24,-2.5,4.27,37.73,High,5.914431502688995,Low,Sick (Attention Required)
+2,5.8,-7.11,14.14,33.6,Normal,16.856206572061225,High,Healthy Cow
+1,2.83,-0.99,12.04,37.92,High,12.407683103625752,High,Sick (Attention Required)
+2,-0.85,-1.15,9.62,32.63,Normal,9.725708200434557,Normal,Healthy Cow
+1,3.93,-2.25,9.55,38.0,High,10.569290420837154,High,Sick (Attention Required)
+2,0.08,-1.28,10.14,32.45,Normal,10.220782748889638,High,Healthy Cow
+1,4.35,-0.03,8.6,38.44,High,9.637603436539605,Normal,Sick (Attention Required)
+2,2.38,1.51,7.73,32.58,Normal,8.227842973708237,Normal,Healthy Cow
+1,5.86,-4.7,6.64,38.85,High,10.025926391112195,High,Sick (Attention Required)
+1,2.96,-2.83,6.86,39.23,High,7.989374193264451,Normal,Sick (Attention Required)
+2,5.83,5.01,7.06,34.42,High,10.43707813518707,High,Sick (Attention Required)
+1,4.97,-1.01,9.39,38.49,High,10.67207102675015,High,Sick (Attention Required)
+2,3.22,4.63,6.11,34.66,High,8.314890257844658,Normal,Sick (Attention Required)
+1,4.92,-2.91,5.14,35.92,High,7.687268695707208,Normal,Sick (Attention Required)
+2,5.01,3.22,8.21,34.67,High,10.142613075534332,High,Sick (Attention Required)
+1,-7.27,-0.48,13.1,35.14,High,14.989773180405365,High,Sick (Attention Required)
+2,2.81,3.77,7.19,34.56,High,8.59098946571348,Normal,Sick (Attention Required)
+1,0.87,1.57,9.12,34.14,High,9.294955621195832,Normal,Sick (Attention Required)
+2,3.54,4.62,7.68,34.59,High,9.636306346313406,Normal,Sick (Attention Required)
+1,3.11,-2.57,9.89,33.96,Normal,10.681249926857813,High,Healthy Cow
+2,5.58,4.72,8.05,34.52,High,10.872777933904473,High,Sick (Attention Required)
+1,1.47,4.06,9.55,33.87,Normal,10.480791954809522,High,Healthy Cow
+2,5.04,3.74,8.48,34.53,High,10.549862558346437,High,Sick (Attention Required)
+1,0.1,1.8,15.19,33.88,Normal,15.296604198318004,High,Healthy Cow
+2,5.73,4.71,9.48,34.6,High,12.036918210239696,High,Sick (Attention Required)
+1,-2.11,3.64,9.16,33.97,Normal,10.080044642758285,High,Healthy Cow
+2,3.68,4.08,8.02,34.65,High,9.721584233035271,Normal,Sick (Attention Required)
+1,-1.28,1.56,10.51,34.06,High,10.701967108901055,High,Sick (Attention Required)
+2,6.25,3.46,8.8,34.78,High,11.334641591157615,High,Sick (Attention Required)
+1,5.64,-2.45,8.02,34.06,High,10.106062536913177,High,Sick (Attention Required)
+2,4.67,3.68,7.22,34.92,High,9.35305832335071,Normal,Sick (Attention Required)
+1,8.79,2.17,3.59,33.9,Normal,9.739666318719546,Normal,Healthy Cow
+2,5.23,4.48,5.47,35.03,High,8.79455513371768,Normal,Sick (Attention Required)
+1,8.12,2.33,5.04,33.68,Normal,9.836915166859983,Normal,Healthy Cow
+2,6.02,4.87,6.89,35.09,High,10.364815483162253,High,Sick (Attention Required)
+1,-0.6,3.11,8.84,33.49,Normal,9.39029818482885,Normal,Healthy Cow
+2,8.85,5.39,5.71,35.14,High,11.831259442679803,High,Sick (Attention Required)
+1,0.82,4.34,8.88,33.55,Normal,9.917782010106897,Normal,Healthy Cow
+2,5.74,4.21,7.12,35.28,High,10.068073301282624,High,Sick (Attention Required)
+1,0.43,3.3,9.85,33.54,Normal,10.396989949018899,High,Healthy Cow
+2,7.42,4.63,7.86,35.34,High,11.758949783037599,High,Sick (Attention Required)
+1,0.28,3.46,9.69,33.18,Normal,10.293012192745135,High,Healthy Cow
+2,7.52,5.05,4.75,35.19,High,10.228166991206196,High,Sick (Attention Required)
+1,2.35,2.24,9.33,32.67,Normal,9.878714491268589,Normal,Healthy Cow
+2,5.38,3.12,6.68,35.2,High,9.126949106903139,Normal,Sick (Attention Required)
+1,0.84,3.38,9.3,32.48,Normal,9.930760293149765,Normal,Healthy Cow
+2,7.14,5.01,5.7,35.26,High,10.419678497919215,High,Sick (Attention Required)
+1,2.05,3.42,8.81,32.29,Normal,9.67031540333613,Normal,Healthy Cow
+2,6.78,5.43,6.74,35.19,High,10.994585030823128,High,Sick (Attention Required)
+1,1.41,0.69,9.17,32.16,Normal,9.303391854587229,Normal,Healthy Cow
+2,6.38,4.34,8.28,35.23,High,11.318056370243081,High,Sick (Attention Required)
+1,1.79,1.77,9.11,31.96,Normal,9.451407302619012,Normal,Healthy Cow
+2,8.53,4.25,5.26,35.24,High,10.885357136998307,High,Sick (Attention Required)
+1,-0.89,2.57,6.95,31.84,Normal,7.463209765241762,Normal,Healthy Cow
+2,7.59,3.16,6.38,35.19,High,10.406637305104853,High,Sick (Attention Required)
+1,0.0,1.9,8.67,31.47,Normal,8.875747855814742,Normal,Healthy Cow
+2,8.37,3.68,3.11,35.2,High,9.657711944347895,Normal,Sick (Attention Required)
+1,-1.33,0.99,9.95,31.47,Normal,10.087194852881547,High,Healthy Cow
+2,8.7,3.9,2.93,35.22,High,9.974211748303722,Normal,Sick (Attention Required)
+1,5.51,1.88,8.15,31.32,Normal,10.015837458745025,High,Healthy Cow
+2,9.89,3.23,0.78,34.52,High,10.433283279965133,High,Sick (Attention Required)
+1,-1.17,2.83,8.37,31.02,Normal,8.912614655643987,Normal,Healthy Cow
+2,9.88,4.01,3.94,34.67,High,11.367413953929892,High,Sick (Attention Required)
+1,-2.21,0.9,7.67,30.83,Normal,8.032620991930342,Normal,Healthy Cow
+2,9.53,3.61,-2.8,34.58,High,10.568490904571002,High,Sick (Attention Required)
+1,-0.86,5.58,8.69,30.72,Normal,10.363015970266572,High,Healthy Cow
+1,-0.01,5.58,9.14,30.55,Normal,10.708692730674459,High,Healthy Cow
+2,11.56,2.84,1.23,34.77,High,11.967125803633886,High,Sick (Attention Required)
+1,1.76,5.79,7.04,30.52,Normal,9.283496108686641,Normal,Healthy Cow
+2,8.23,3.63,-0.86,34.95,High,9.03600575475691,Normal,Sick (Attention Required)
+1,0.14,6.38,8.1,30.57,Normal,10.311837857530538,High,Healthy Cow
+2,8.91,3.62,2.5,35.06,High,9.936926084056378,Normal,Sick (Attention Required)
+1,-0.6,6.5,6.87,30.66,Normal,9.47665025206692,Normal,Healthy Cow
+2,9.73,2.51,1.91,35.2,High,10.228445629713246,High,Sick (Attention Required)
+1,-0.01,6.28,6.37,30.54,Normal,8.945132754744336,Normal,Healthy Cow
+2,8.03,2.31,-0.34,35.25,High,8.362571374882249,Normal,Sick (Attention Required)
+1,-0.75,-5.21,12.42,30.19,Normal,13.48936618229337,High,Healthy Cow
+2,12.5,2.78,0.82,35.08,High,12.831632787763215,High,Sick (Attention Required)
+1,2.78,-0.01,10.5,29.49,Normal,10.861790828403942,High,Healthy Cow
+1,-0.9,0.94,9.57,28.62,Normal,9.658079519241909,Normal,Healthy Cow
+2,7.45,5.97,5.55,34.75,High,11.042911753699746,High,Sick (Attention Required)
+1,-2.15,-0.7,9.77,28.28,Normal,10.028230152923296,High,Healthy Cow
+2,9.38,4.0,2.76,34.78,High,10.564184776877012,High,Sick (Attention Required)
+1,-4.24,-1.37,8.88,28.11,Normal,9.935235276529692,Normal,Healthy Cow
+2,8.85,6.25,3.47,34.83,High,11.376550443785673,High,Sick (Attention Required)
+1,-2.01,-0.96,9.52,27.9,Normal,9.777121253211499,Normal,Healthy Cow
+2,7.59,6.2,3.78,34.93,High,10.504118240004727,High,Sick (Attention Required)
+1,-2.7,-0.66,11.79,27.66,Normal,12.113203539939382,High,Healthy Cow
+2,9.08,2.15,2.67,34.92,High,9.705555110347888,Normal,Sick (Attention Required)
+1,-3.51,0.14,11.86,27.69,Normal,12.369288580997695,High,Healthy Cow
+2,5.52,3.02,7.45,34.49,High,9.751579359262786,Normal,Sick (Attention Required)
+1,-1.84,0.0,7.57,27.82,Normal,7.7904107722250435,Normal,Healthy Cow
+2,5.57,1.08,7.46,33.93,Normal,9.372454321040994,Normal,Healthy Cow
+1,-2.75,-0.74,10.43,27.71,Normal,10.811799110231377,High,Healthy Cow
+2,5.83,1.22,8.58,33.4,Normal,10.444792961088314,High,Healthy Cow
+1,0.49,0.02,7.8,27.72,Normal,7.815401461217459,Normal,Healthy Cow
+2,3.89,1.22,7.87,32.47,Normal,8.863261250803792,Normal,Healthy Cow
+1,-3.06,-1.42,9.43,27.6,Normal,10.015233397180516,High,Healthy Cow
+1,-3.17,0.55,10.32,27.63,Normal,10.809893616497806,High,Healthy Cow
+2,4.91,1.42,8.34,30.24,Normal,9.781620520138777,Normal,Healthy Cow
+1,-3.21,-0.97,8.01,27.33,Normal,8.683611000039097,Normal,Healthy Cow
+2,9.48,-0.16,9.49,29.72,Normal,13.41477170882904,High,Healthy Cow
+1,-2.88,-0.37,9.83,26.86,Low,10.249887804264006,High,Sick (Attention Required)
+2,8.17,3.75,5.76,29.34,Normal,10.676563117408149,High,Healthy Cow
+1,-2.12,0.92,7.98,26.64,Low,8.307899854957329,Normal,Sick (Attention Required)
+2,5.74,1.66,6.82,29.47,Normal,9.067281841875216,Normal,Healthy Cow
+1,-2.47,1.3,12.05,26.64,Low,12.369050084788242,High,Sick (Attention Required)
+2,1.82,5.26,8.34,28.84,Normal,10.026744237288591,High,Healthy Cow
+1,-4.1,0.15,11.62,26.23,Low,12.323023168037947,High,Sick (Attention Required)
+2,9.73,3.26,7.07,28.69,Normal,12.461356266474368,High,Healthy Cow
+1,-3.37,-0.87,10.85,26.04,Low,11.39457326976311,High,Sick (Attention Required)
+2,6.71,0.36,5.26,28.75,Normal,8.533539711046055,Normal,Healthy Cow
+1,-1.47,0.11,8.92,25.92,Low,9.040984459670307,Normal,Sick (Attention Required)
+2,5.93,4.49,9.04,28.83,Normal,11.706690394812702,High,Healthy Cow
+1,-1.89,-0.48,7.66,25.93,Low,7.904308951451734,Normal,Sick (Attention Required)
+2,7.68,-1.6,9.79,29.11,Normal,12.545377634810361,High,Healthy Cow
+1,-3.32,-0.55,9.28,25.93,Low,9.87133729542254,Normal,Sick (Attention Required)
+2,6.67,1.6,7.52,28.99,Normal,10.178374133426223,High,Healthy Cow
+1,2.56,-0.36,9.56,26.03,Low,9.903373162715823,Normal,Sick (Attention Required)
+2,4.52,-0.09,7.71,28.67,Normal,8.937706640967805,Normal,Healthy Cow
+1,0.91,1.92,10.94,27.34,Normal,11.14442012847685,High,Healthy Cow
+2,7.46,3.04,5.08,28.6,Normal,9.52363376028289,Normal,Healthy Cow
+1,-0.82,5.01,8.56,27.94,Normal,9.952190713606727,Normal,Healthy Cow
+2,7.1,2.4,5.02,28.59,Normal,9.02055430669313,Normal,Healthy Cow
+1,1.3,4.45,7.65,28.42,Normal,8.945110396188523,Normal,Healthy Cow
+2,8.21,0.19,8.33,28.89,Normal,11.697397146374062,High,Healthy Cow
+1,-0.31,1.39,7.99,28.82,Normal,8.115928782339086,Normal,Healthy Cow
+2,7.55,1.15,2.94,29.3,Normal,8.183434486815422,Normal,Healthy Cow
+1,-2.33,3.76,7.02,29.29,Normal,8.297403208233284,Normal,Healthy Cow
+2,7.71,-0.85,6.78,29.77,Normal,10.302184234423299,High,Healthy Cow
+1,0.6,3.09,9.98,29.68,Normal,10.46463090605684,High,Healthy Cow
+2,3.28,3.08,7.56,29.89,Normal,8.797636046120571,Normal,Healthy Cow
+1,0.41,3.87,7.9,29.7,Normal,8.806531666893614,Normal,Healthy Cow
+2,7.43,3.12,7.51,30.13,Normal,11.015416469657422,High,Healthy Cow
+1,-0.35,3.49,8.89,29.78,Normal,9.556918959581065,Normal,Healthy Cow
+2,5.53,3.25,9.41,30.14,Normal,11.38821759539218,High,Healthy Cow
+1,0.8,1.92,10.22,29.82,Normal,10.429515808511917,High,Healthy Cow
+2,6.98,1.98,9.53,30.39,Normal,11.97754983291658,High,Healthy Cow
+1,4.95,1.83,9.49,30.03,Normal,10.858706184440207,High,Healthy Cow
+2,6.14,3.47,6.69,30.23,Normal,9.720936168908835,Normal,Healthy Cow
+1,-4.09,-0.32,9.4,30.36,Normal,10.256242001825036,High,Healthy Cow
+2,4.6,0.48,7.23,30.24,Normal,8.58273266506653,Normal,Healthy Cow
+1,-3.91,-1.34,8.68,30.65,Normal,9.613849385131847,Normal,Healthy Cow
+2,9.85,1.77,11.55,30.39,Normal,15.282601218379023,High,Healthy Cow
+1,-2.14,0.68,9.45,31.08,Normal,9.713109697722969,Normal,Healthy Cow
+2,4.1,0.46,8.26,30.4,Normal,9.23304933377917,Normal,Healthy Cow
+1,-1.9,-0.78,8.32,31.11,Normal,8.56976079012711,Normal,Healthy Cow
+2,9.66,1.72,10.05,30.46,Normal,14.045515298485848,High,Healthy Cow
+1,-3.29,-1.26,9.31,31.1,Normal,9.95428550926685,Normal,Healthy Cow
+2,4.3,4.38,7.58,30.43,Normal,9.753501935202555,Normal,Healthy Cow
+1,-1.77,-1.93,10.78,31.59,Normal,11.093520631431664,High,Healthy Cow
+2,5.08,3.28,9.91,30.57,Normal,11.6091730971676,High,Healthy Cow
+1,-0.78,-2.19,8.5,31.97,Normal,8.812179072170515,Normal,Healthy Cow
+2,5.17,3.26,7.55,30.48,Normal,9.713856082936374,Normal,Healthy Cow
+1,-1.77,-2.21,10.26,32.02,Normal,10.643523852559358,High,Healthy Cow
+2,3.91,3.3,6.86,30.57,Normal,8.557902780471393,Normal,Healthy Cow
+1,-1.62,-0.42,9.79,32.06,Normal,9.93201389447276,Normal,Healthy Cow
+2,5.48,3.03,6.03,30.78,Normal,8.69322724884148,Normal,Healthy Cow
+1,-4.07,-0.3,8.46,31.87,Normal,9.392896251955518,Normal,Healthy Cow
+2,5.57,2.63,8.81,30.81,Normal,10.749786044382464,High,Healthy Cow
+1,-3.36,-0.32,9.2,31.54,Normal,9.79959182823448,Normal,Healthy Cow
+2,6.2,2.49,8.9,30.72,Normal,11.128795981596571,High,Healthy Cow
+1,-4.3,-0.25,8.96,31.19,Normal,9.941534086849977,Normal,Healthy Cow
+2,6.68,1.2,10.35,30.67,Normal,12.376788759609658,High,Healthy Cow
+1,-3.28,-1.18,9.61,30.98,Normal,10.2226659927829,High,Healthy Cow
+2,8.26,1.55,7.09,30.83,Normal,10.99537175360615,High,Healthy Cow
+1,0.22,-0.48,9.47,30.33,Normal,9.484708746187202,Normal,Healthy Cow
+2,5.81,2.3,7.35,30.65,Normal,9.647206849653427,Normal,Healthy Cow
+1,-4.02,-1.05,9.01,29.75,Normal,9.921844586567559,Normal,Healthy Cow
+2,4.29,2.55,7.04,30.78,Normal,8.629495929658928,Normal,Healthy Cow
+1,-3.46,-1.74,8.26,29.44,Normal,9.122872354691806,Normal,Healthy Cow
+2,6.79,-1.46,12.23,30.78,Normal,14.064444532223803,High,Healthy Cow
+1,-2.78,-0.5,9.36,28.92,Normal,9.776911577793879,Normal,Healthy Cow
+2,6.5,-2.37,7.51,30.78,Normal,10.211121387976934,High,Healthy Cow
+1,-2.89,-1.27,9.18,28.27,Normal,9.707594964768564,Normal,Healthy Cow
+2,10.15,-1.57,9.43,30.77,Normal,13.943181129139793,High,Healthy Cow
+1,-3.45,0.58,7.95,27.91,Normal,8.685700892846818,Normal,Healthy Cow
+2,6.12,1.17,7.1,31.06,Normal,9.446337914768876,Normal,Healthy Cow
+1,-3.04,-0.94,7.83,27.44,Normal,8.451869615653095,Normal,Healthy Cow
+2,5.17,0.92,7.67,30.81,Normal,9.295385952180792,Normal,Healthy Cow
+1,-3.08,-0.53,8.76,27.07,Normal,9.300801040770628,Normal,Healthy Cow
+2,2.74,3.67,7.6,30.51,Normal,8.873359003218567,Normal,Healthy Cow
+1,-1.35,-0.24,7.68,26.8,Low,7.801442174367506,Normal,Sick (Attention Required)
+2,5.27,2.16,9.56,30.37,Normal,11.127987239388801,High,Healthy Cow
+1,0.6,-1.23,7.02,26.19,Low,7.152153521842215,Normal,Sick (Attention Required)
+2,5.51,4.82,8.05,30.39,Normal,10.880946649993282,High,Healthy Cow
+1,1.61,0.2,8.52,26.33,Low,8.673090567957882,Normal,Sick (Attention Required)
+2,6.54,3.44,9.43,30.15,Normal,11.980404834562144,High,Healthy Cow
+1,-1.8,-0.27,8.74,26.42,Low,8.92751365162776,Normal,Sick (Attention Required)
+2,6.46,4.84,5.07,30.1,Normal,9.532161349872336,Normal,Healthy Cow
+1,-2.7,0.59,10.4,26.14,Low,10.760952560066418,High,Sick (Attention Required)
+2,5.71,5.38,5.85,29.99,Normal,9.786265886434927,Normal,Healthy Cow
+1,-1.48,-0.1,10.11,25.7,Low,10.218243488975979,High,Sick (Attention Required)
+2,6.49,1.82,5.04,29.73,Normal,8.416299661965466,Normal,Healthy Cow
+1,-2.36,1.56,8.51,25.19,Low,8.967903879948757,Normal,Sick (Attention Required)
+2,3.77,1.41,6.44,29.79,Normal,7.594379500657049,Normal,Healthy Cow
+1,-5.68,0.52,11.14,25.18,Low,12.515286652729934,High,Sick (Attention Required)
+2,7.79,0.53,11.43,29.44,Normal,13.842322781961126,High,Healthy Cow
+2,3.53,5.23,6.94,29.31,Normal,9.379626858249747,Normal,Healthy Cow
+2,3.97,2.59,6.76,28.97,Normal,8.256306680350482,Normal,Healthy Cow
+2,6.22,4.2,5.25,29.44,Normal,9.159197563105623,Normal,Healthy Cow
+2,5.54,3.7,6.62,29.5,Normal,9.391804938349178,Normal,Healthy Cow
